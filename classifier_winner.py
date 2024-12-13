@@ -11,9 +11,8 @@ conn = sqlite3.connect(db_name)
 
 query = """
     SELECT *
-    FROM final_table 
+    FROM final_table
 """
-
 df = pd.read_sql_query(query, conn)
 conn.close()
 
@@ -24,23 +23,31 @@ df = df.sort_values(by=['year', 'round'])
 df['winner'] = (df['finishing_position'] == 1).astype(int)
 df = df.dropna()  # Remove rows with missing values
 
+# Calculate performance metric (higher is better)
+# E.g., inverse of finishing position
+max_position = df['finishing_position'].max()
+df['performance'] = max_position - df['finishing_position'] + 1
+
 # Create a new column 'driver_form' based on the last 5 races
 df['driver_form'] = 0.0
 for year in df['year'].unique():
-    year_data = df[df['year'] == year]
+    year_data = df[df['year'] == year].copy()
     driver_form = (
         year_data.groupby('driver')
-        .rolling(window=5, on='round', min_periods=1)['winner']
+        .rolling(window=5, on='round', min_periods=1)['performance']
         .mean()
-        .reset_index()  # Reset index to avoid duplicate labels
+        .reset_index()
     )
-    # Merge the calculated form back into the main dataframe
-    year_data = year_data.merge(driver_form[['round', 'driver', 'winner']],
-                                 on=['round', 'driver'],
-                                 suffixes=('', '_form'))
-    df.loc[year_data.index, 'driver_form'] = year_data['winner_form']
 
-# Fill any missing form values with 0 (e.g., for drivers with no prior races in a season)
+    # Merge the calculated form back into the year's data
+    year_data = year_data.merge(driver_form[['round', 'driver', 'performance']],
+                                on=['round', 'driver'],
+                                suffixes=('', '_form'))
+
+    # Update the main DataFrame with the calculated driver form
+    df.loc[year_data.index, 'driver_form'] = year_data['performance_form']
+
+# Fill missing values after the loop
 df['driver_form'] = df['driver_form'].fillna(0)
 
 # Verify the updated DataFrame
@@ -95,6 +102,7 @@ print(predicted_winners[['driver', 'circuit', 'year', 'winner_probability', 'dri
 print("\nActual Winners:")
 print(actual_winners[['driver', 'circuit', 'year']])
 
+# Comparison
 comparison = pd.merge(
     predicted_winners[['driver', 'circuit', 'year', 'winner_probability']],
     actual_winners[['driver', 'circuit', 'year']],
