@@ -1,0 +1,10 @@
+starting_position,driver_encoded,constructor_encoded,year,circuit_encoded,driver_form,winner_probability,predicted_winner,driver,constructor,circuit,actual_winner,actual_winner_driver
+14.0,18.0,10.0,2022.0,6.0,0.0,0.0,0,Max Verstappen,Red Bull,Belgian Grand Prix,1,Max Verstappen
+1.0,18.0,10.0,2023.0,20.0,0.0,0.9947553178414533,1,Max Verstappen,Red Bull,Monaco Grand Prix,1,Max Verstappen
+1.0,15.0,7.0,2020.0,6.0,0.0,0.8193063836781855,1,Lewis Hamilton,Mercedes,Belgian Grand Prix,1,Lewis Hamilton
+1.0,2.0,4.0,2023.0,26.0,0.0,0.18339810491202857,0,Carlos Sainz,Ferrari,Singapore Grand Prix,1,Carlos Sainz
+3.0,18.0,10.0,2021.0,12.0,0.8,0.0,0,Max Verstappen,Red Bull,Emilia Romagna Grand Prix,1,Max Verstappen
+1.0,15.0,7.0,2020.0,21.0,0.0,0.9049599738346342,1,Lewis Hamilton,Mercedes,Portuguese Grand Prix,1,Lewis Hamilton
+2.0,18.0,10.0,2021.0,20.0,0.0,0.9704909699768957,1,Max Verstappen,Red Bull,Monaco Grand Prix,1,Max Verstappen
+1.0,18.0,10.0,2021.0,6.0,0.0,0.9879413622320371,1,Max Verstappen,Red Bull,Belgian Grand Prix,1,Max Verstappen
+2.0,15.0,7.0,2020.0,12.0,0.0,0.6337847357447727,1,Lewis Hamilton,Mercedes,Emilia Romagna Grand Prix,1,Lewis Hamilton

@@ -1,0 +1,7 @@
+driver_predicted,circuit,year,winner_probability,driver_form,driver_actual
+Sergio Pérez,Saudi Arabian Grand Prix,2023.0,0.9033575349346887,18.8,Sergio Pérez
+Max Verstappen,Belgian Grand Prix,2021.0,0.9964889845354032,5.2,Max Verstappen
+Lewis Hamilton,Bahrain Grand Prix,2021.0,0.8462937170428028,9.0,Lewis Hamilton
+Carlos Sainz,United States Grand Prix,2022.0,0.7984134739038379,3.8,Max Verstappen
+Max Verstappen,São Paulo Grand Prix,2023.0,0.995743216154426,8.0,Max Verstappen
+Max Verstappen,Saudi Arabian Grand Prix,2022.0,0.8217818587921344,10.0,Max Verstappen

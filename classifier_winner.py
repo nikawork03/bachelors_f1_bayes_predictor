@@ -24,35 +24,30 @@ df['winner'] = (df['finishing_position'] == 1).astype(int)
 df = df.dropna()  # Remove rows with missing values
 
 # Calculate performance metric (higher is better)
-# E.g., inverse of finishing position
 max_position = df['finishing_position'].max()
 df['performance'] = max_position - df['finishing_position'] + 1
 
-# Create a new column 'driver_form' based on the last 5 races
+# Initialize driver form column
 df['driver_form'] = 0.0
-for year in df['year'].unique():
-    year_data = df[df['year'] == year].copy()
-    driver_form = (
-        year_data.groupby('driver')
-        .rolling(window=5, on='round', min_periods=1)['performance']
-        .mean()
-        .reset_index()
-    )
 
-    # Merge the calculated form back into the year's data
-    year_data = year_data.merge(driver_form[['round', 'driver', 'performance']],
-                                on=['round', 'driver'],
-                                suffixes=('', '_form'))
+# Combine year and round to ensure continuity across years
+df['unique_round'] = df.groupby(['year', 'round']).ngroup()
 
-    # Update the main DataFrame with the calculated driver form
-    df.loc[year_data.index, 'driver_form'] = year_data['performance_form']
+# Calculate driver form using a rolling window over unique rounds
+df = df.sort_values(by=['driver', 'unique_round'])
+df['driver_form'] = (
+    df.groupby('driver')['performance']
+    .rolling(window=5, min_periods=1)
+    .mean()
+    .reset_index(drop=True)
+)
 
-# Fill missing values after the loop
-df['driver_form'] = df['driver_form'].fillna(0)
+# Drop the helper column
+df = df.drop(columns=['unique_round'])
 
 # Verify the updated DataFrame
-print(df[['year', 'round', 'driver', 'winner', 'driver_form']].head())
-
+print(df[['year', 'round', 'driver', 'winner', 'driver_form']].head(10))
+df.to_csv('test_driverform', index=False)
 # Encode categorical features
 label_encoder_driver = LabelEncoder()
 label_encoder_constructor = LabelEncoder()
@@ -96,20 +91,17 @@ df_test['actual_winner_driver'] = df_test.apply(lambda row: row['driver'] if row
 predicted_winners = df_test[df_test['predicted_winner'] == 1]
 actual_winners = df_test[df_test['actual_winner'] == 1]
 
-print("\nPredicted Winners with Probabilities:")
-print(predicted_winners[['driver', 'circuit', 'year', 'winner_probability', 'driver_form']])
-
-print("\nActual Winners:")
-print(actual_winners[['driver', 'circuit', 'year']])
-
-# Comparison
+# Save the comparison to a CSV file
 comparison = pd.merge(
-    predicted_winners[['driver', 'circuit', 'year', 'winner_probability']],
+    predicted_winners[['driver', 'circuit', 'year', 'winner_probability', 'driver_form']],
     actual_winners[['driver', 'circuit', 'year']],
     on=['circuit', 'year'],
     suffixes=('_predicted', '_actual'),
     how='inner'
 )
 
-print("\nComparison of Predicted vs Actual Winners with Probabilities:")
+# Save all predictions and actual results
+comparison.to_csv('winning_predictions.csv', index=False)
+
+print("\nComparison of Predicted vs Actual Winners with Probabilities saved to 'winning_predictions.csv':")
 print(comparison[['driver_predicted', 'driver_actual', 'circuit', 'year', 'winner_probability']])

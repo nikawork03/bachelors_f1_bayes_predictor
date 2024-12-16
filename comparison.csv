@@ -1,0 +1,7 @@
+driver_predicted,circuit,year,winner_probability,driver_actual
+Max Verstappen,Monaco Grand Prix,2023.0,0.9947553178414533,Max Verstappen
+Lewis Hamilton,Belgian Grand Prix,2020.0,0.8193063836781855,Lewis Hamilton
+Lewis Hamilton,Portuguese Grand Prix,2020.0,0.9049599738346342,Lewis Hamilton
+Max Verstappen,Monaco Grand Prix,2021.0,0.9704909699768957,Max Verstappen
+Max Verstappen,Belgian Grand Prix,2021.0,0.9879413622320371,Max Verstappen
+Lewis Hamilton,Emilia Romagna Grand Prix,2020.0,0.6337847357447727,Lewis Hamilton
