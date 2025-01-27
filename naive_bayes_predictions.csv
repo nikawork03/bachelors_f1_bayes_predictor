@@ -1,0 +1,430 @@
+starting_position,driverId,constructorId,year,circuitId,driver_form,winner_probability,predicted_winner,actual_winner,driver,constructor,circuit
+9.0,844.0,6.0,2021.0,13.0,10.4,0.0017065673626114628,0,0,Charles Leclerc,Ferrari,Belgian Grand Prix
+12.0,4.0,214.0,2021.0,32.0,15.8,0.0,0,0,Fernando Alonso,Alpine F1 Team,Mexico City Grand Prix
+7.0,822.0,51.0,2022.0,69.0,9.2,0.0,0,0,Valtteri Bottas,Alfa Romeo,United States Grand Prix
+3.0,822.0,131.0,2021.0,39.0,6.4,0.0,0,0,Valtteri Bottas,Mercedes,Dutch Grand Prix
+5.0,846.0,1.0,2021.0,6.0,7.8,0.0010700452688750303,0,0,Lando Norris,McLaren,Monaco Grand Prix
+7.0,842.0,213.0,2020.0,70.0,18.8,0.0,0,0,Pierre Gasly,AlphaTauri,Austrian Grand Prix
+7.0,842.0,213.0,2020.0,70.0,18.8,0.0,0,0,Pierre Gasly,AlphaTauri,Styrian Grand Prix
+1.0,1.0,131.0,2023.0,11.0,6.0,0.0,0,0,Lewis Hamilton,Mercedes,Hungarian Grand Prix
+13.0,20.0,117.0,2022.0,21.0,14.6,0.0,0,0,Sebastian Vettel,Aston Martin,Emilia Romagna Grand Prix
+2.0,846.0,1.0,2021.0,70.0,5.6,0.01625598467437316,0,0,Lando Norris,McLaren,Austrian Grand Prix
+2.0,846.0,1.0,2021.0,70.0,5.6,0.01625598467437316,0,0,Lando Norris,McLaren,Styrian Grand Prix
+9.0,840.0,117.0,2023.0,73.0,18.0,0.0,0,0,Lance Stroll,Aston Martin,Azerbaijan Grand Prix
+16.0,854.0,210.0,2021.0,69.0,19.4,0.0,0,0,Mick Schumacher,Haas F1 Team,United States Grand Prix
+20.0,849.0,3.0,2020.0,75.0,6.4,0.0,0,0,Nicholas Latifi,Williams,Portuguese Grand Prix
+6.0,815.0,211.0,2020.0,70.0,19.2,0.14932458112110267,0,0,Sergio Pérez,Racing Point,Austrian Grand Prix
+6.0,815.0,211.0,2020.0,70.0,19.2,0.14932458112110267,0,0,Sergio Pérez,Racing Point,Styrian Grand Prix
+6.0,4.0,214.0,2022.0,11.0,9.6,0.0,0,0,Fernando Alonso,Alpine F1 Team,Hungarian Grand Prix
+18.0,8.0,51.0,2021.0,70.0,16.6,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Austrian Grand Prix
+18.0,8.0,51.0,2021.0,70.0,16.6,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Styrian Grand Prix
+11.0,857.0,1.0,2023.0,6.0,12.4,0.0,0,0,Oscar Piastri,McLaren,Monaco Grand Prix
+13.0,840.0,117.0,2023.0,24.0,4.6,0.0,0,0,Lance Stroll,Aston Martin,Abu Dhabi Grand Prix
+6.0,844.0,6.0,2024.0,70.0,5.2,0.030325749534922456,0,0,Charles Leclerc,Ferrari,Austrian Grand Prix
+6.0,844.0,6.0,2024.0,70.0,5.2,0.030325749534922456,0,0,Charles Leclerc,Ferrari,Styrian Grand Prix
+12.0,817.0,1.0,2021.0,6.0,9.6,0.0,0,0,Daniel Ricciardo,McLaren,Monaco Grand Prix
+5.0,846.0,1.0,2021.0,18.0,20.0,0.0,0,0,Lando Norris,McLaren,São Paulo Grand Prix
+5.0,844.0,6.0,2023.0,78.0,10.0,0.0,0,0,Charles Leclerc,Ferrari,Qatar Grand Prix
+4.0,815.0,211.0,2020.0,71.0,10.0,0.0,0,0,Sergio Pérez,Racing Point,Russian Grand Prix
+11.0,852.0,213.0,2023.0,13.0,12.4,0.0,0,0,Yuki Tsunoda,AlphaTauri,Belgian Grand Prix
+1.0,822.0,131.0,2021.0,18.0,19.6,0.0,0,0,Valtteri Bottas,Mercedes,São Paulo Grand Prix
+6.0,857.0,1.0,2024.0,79.0,6.2,0.0,0,0,Oscar Piastri,McLaren,Miami Grand Prix
+4.0,817.0,1.0,2022.0,14.0,7.8,0.0009211123817102932,0,0,Daniel Ricciardo,McLaren,Italian Grand Prix
+9.0,4.0,214.0,2022.0,32.0,9.6,0.0,0,0,Fernando Alonso,Alpine F1 Team,Mexico City Grand Prix
+17.0,859.0,213.0,2023.0,78.0,5.2,0.0,0,0,Liam Lawson,AlphaTauri,Qatar Grand Prix
+2.0,846.0,1.0,2023.0,39.0,12.2,0.03882282783984251,0,0,Lando Norris,McLaren,Dutch Grand Prix
+19.0,841.0,51.0,2020.0,70.0,15.6,0.0,0,0,Antonio Giovinazzi,Alfa Romeo,Austrian Grand Prix
+19.0,841.0,51.0,2020.0,70.0,15.6,0.0,0,0,Antonio Giovinazzi,Alfa Romeo,Styrian Grand Prix
+1.0,844.0,6.0,2022.0,1.0,16.6,0.0,0,1,Charles Leclerc,Ferrari,Australian Grand Prix
+20.0,855.0,51.0,2022.0,6.0,11.0,0.0,0,0,Guanyu Zhou,Alfa Romeo,Monaco Grand Prix
+9.0,852.0,213.0,2022.0,39.0,5.6,0.0,0,0,Yuki Tsunoda,AlphaTauri,Dutch Grand Prix
+17.0,846.0,1.0,2023.0,32.0,4.6,0.0,0,0,Lando Norris,McLaren,Mexico City Grand Prix
+4.0,857.0,1.0,2024.0,7.0,9.8,0.0,0,0,Oscar Piastri,McLaren,Canadian Grand Prix
+1.0,844.0,6.0,2021.0,73.0,7.8,0.12043773226753146,0,0,Charles Leclerc,Ferrari,Azerbaijan Grand Prix
+8.0,842.0,213.0,2020.0,3.0,7.8,0.0,0,0,Pierre Gasly,AlphaTauri,Bahrain Grand Prix
+8.0,842.0,213.0,2020.0,3.0,7.8,0.0,0,0,Pierre Gasly,AlphaTauri,Sakhir Grand Prix
+11.0,840.0,117.0,2021.0,4.0,14.2,0.0,0,0,Lance Stroll,Aston Martin,Spanish Grand Prix
+9.0,822.0,131.0,2021.0,69.0,16.4,0.0,0,0,Valtteri Bottas,Mercedes,United States Grand Prix
+16.0,20.0,117.0,2022.0,7.0,7.2,0.0,0,0,Sebastian Vettel,Aston Martin,Canadian Grand Prix
+12.0,839.0,214.0,2023.0,70.0,5.2,0.0,0,0,Esteban Ocon,Alpine F1 Team,Styrian Grand Prix
+12.0,839.0,214.0,2023.0,70.0,5.2,0.0,0,0,Esteban Ocon,Alpine F1 Team,Austrian Grand Prix
+10.0,839.0,214.0,2022.0,6.0,13.2,0.0,0,0,Esteban Ocon,Alpine F1 Team,Monaco Grand Prix
+11.0,822.0,51.0,2022.0,7.0,5.8,0.0,0,0,Valtteri Bottas,Alfa Romeo,Canadian Grand Prix
+4.0,844.0,6.0,2021.0,3.0,16.6,0.008276580277864288,0,0,Charles Leclerc,Ferrari,Bahrain Grand Prix
+4.0,844.0,6.0,2021.0,3.0,16.6,0.008276580277864288,0,0,Charles Leclerc,Ferrari,Sakhir Grand Prix
+16.0,849.0,3.0,2021.0,34.0,13.4,0.0,0,0,Nicholas Latifi,Williams,French Grand Prix
+5.0,842.0,214.0,2023.0,79.0,16.4,0.0,0,0,Pierre Gasly,Alpine F1 Team,Miami Grand Prix
+11.0,815.0,9.0,2024.0,21.0,7.8,0.0,0,0,Sergio Pérez,Red Bull,Emilia Romagna Grand Prix
+7.0,844.0,6.0,2020.0,21.0,10.6,0.0,0,0,Charles Leclerc,Ferrari,Emilia Romagna Grand Prix
+8.0,4.0,214.0,2021.0,73.0,9.0,0.0,0,0,Fernando Alonso,Alpine F1 Team,Azerbaijan Grand Prix
+7.0,847.0,131.0,2024.0,1.0,2.8,0.0,0,0,George Russell,Mercedes,Australian Grand Prix
+5.0,844.0,6.0,2021.0,39.0,5.8,0.015659961520820765,0,0,Charles Leclerc,Ferrari,Dutch Grand Prix
+17.0,825.0,210.0,2023.0,4.0,13.0,0.0,0,0,Kevin Magnussen,Haas F1 Team,Spanish Grand Prix
+19.0,840.0,117.0,2021.0,34.0,17.4,0.0,0,0,Lance Stroll,Aston Martin,French Grand Prix
+15.0,841.0,51.0,2020.0,9.0,16.4,0.0,0,0,Antonio Giovinazzi,Alfa Romeo,British Grand Prix
+15.0,841.0,51.0,2020.0,9.0,16.4,0.0,0,0,Antonio Giovinazzi,Alfa Romeo,70th Anniversary Grand Prix
+15.0,822.0,51.0,2022.0,15.0,10.0,0.0,0,0,Valtteri Bottas,Alfa Romeo,Singapore Grand Prix
+12.0,841.0,51.0,2021.0,75.0,14.6,0.0,0,0,Antonio Giovinazzi,Alfa Romeo,Portuguese Grand Prix
+10.0,822.0,131.0,2021.0,73.0,7.6,0.0,0,0,Valtteri Bottas,Mercedes,Azerbaijan Grand Prix
+5.0,840.0,117.0,2022.0,69.0,7.2,0.0,0,0,Lance Stroll,Aston Martin,United States Grand Prix
+17.0,20.0,6.0,2020.0,14.0,17.8,0.0,0,0,Sebastian Vettel,Ferrari,Italian Grand Prix
+10.0,846.0,1.0,2023.0,6.0,11.2,0.0,0,0,Lando Norris,McLaren,Monaco Grand Prix
+19.0,849.0,3.0,2022.0,79.0,9.2,0.0,0,0,Nicholas Latifi,Williams,Miami Grand Prix
+10.0,842.0,213.0,2020.0,14.0,13.0,0.0,0,1,Pierre Gasly,AlphaTauri,Italian Grand Prix
+2.0,815.0,9.0,2022.0,24.0,7.8,0.69192095929142,1,0,Sergio Pérez,Red Bull,Abu Dhabi Grand Prix
+3.0,846.0,1.0,2021.0,14.0,6.0,0.0,0,0,Lando Norris,McLaren,Italian Grand Prix
+15.0,8.0,51.0,2021.0,69.0,19.4,0.0,0,0,Kimi Räikkönen,Alfa Romeo,United States Grand Prix
+1.0,830.0,9.0,2021.0,70.0,15.2,0.9970610166856841,1,1,Max Verstappen,Red Bull,Austrian Grand Prix
+1.0,830.0,9.0,2021.0,70.0,15.2,0.9970610166856841,1,1,Max Verstappen,Red Bull,Styrian Grand Prix
+14.0,855.0,51.0,2022.0,22.0,11.0,0.0,0,0,Guanyu Zhou,Alfa Romeo,Japanese Grand Prix
+16.0,826.0,213.0,2020.0,5.0,11.6,0.0,0,0,Daniil Kvyat,AlphaTauri,Turkish Grand Prix
+12.0,842.0,214.0,2023.0,22.0,11.4,0.0,0,0,Pierre Gasly,Alpine F1 Team,Japanese Grand Prix
+19.0,849.0,3.0,2022.0,6.0,11.4,0.0,0,0,Nicholas Latifi,Williams,Monaco Grand Prix
+6.0,847.0,131.0,2024.0,21.0,6.2,0.25378957722075124,0,0,George Russell,Mercedes,Emilia Romagna Grand Prix
+11.0,848.0,3.0,2023.0,79.0,16.8,0.0,0,0,Alexander Albon,Williams,Miami Grand Prix
+8.0,20.0,117.0,2021.0,9.0,6.8,0.0,0,0,Sebastian Vettel,Aston Martin,British Grand Prix
+5.0,1.0,131.0,2023.0,6.0,11.4,0.0,0,0,Lewis Hamilton,Mercedes,Monaco Grand Prix
+8.0,857.0,1.0,2023.0,77.0,10.8,0.0,0,0,Oscar Piastri,McLaren,Saudi Arabian Grand Prix
+15.0,8.0,51.0,2020.0,24.0,8.4,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Abu Dhabi Grand Prix
+2.0,830.0,9.0,2022.0,3.0,18.8,0.9844155457143356,1,0,Max Verstappen,Red Bull,Bahrain Grand Prix
+2.0,830.0,9.0,2022.0,3.0,18.8,0.9844155457143356,1,0,Max Verstappen,Red Bull,Sakhir Grand Prix
+19.0,858.0,3.0,2024.0,4.0,17.0,0.0,0,0,Logan Sargeant,Williams,Spanish Grand Prix
+4.0,1.0,131.0,2021.0,14.0,2.8,0.0,0,0,Lewis Hamilton,Mercedes,Italian Grand Prix
+1.0,844.0,6.0,2022.0,34.0,8.0,0.08596696410716026,0,0,Charles Leclerc,Ferrari,French Grand Prix
+12.0,832.0,1.0,2020.0,9.0,14.6,0.0,0,0,Carlos Sainz,McLaren,British Grand Prix
+12.0,832.0,1.0,2020.0,9.0,14.6,0.0,0,0,Carlos Sainz,McLaren,70th Anniversary Grand Prix
+7.0,817.0,4.0,2020.0,3.0,6.2,0.0,0,0,Daniel Ricciardo,Renault,Bahrain Grand Prix
+7.0,817.0,4.0,2020.0,3.0,6.2,0.0,0,0,Daniel Ricciardo,Renault,Sakhir Grand Prix
+17.0,154.0,210.0,2020.0,4.0,13.0,0.0,0,0,Romain Grosjean,Haas F1 Team,Spanish Grand Prix
+5.0,848.0,9.0,2020.0,20.0,8.6,0.0,0,0,Alexander Albon,Red Bull,Eifel Grand Prix
+13.0,20.0,117.0,2021.0,4.0,13.0,0.0,0,0,Sebastian Vettel,Aston Martin,Spanish Grand Prix
+20.0,855.0,15.0,2024.0,70.0,4.6,0.0,0,0,Guanyu Zhou,Sauber,Austrian Grand Prix
+16.0,832.0,6.0,2023.0,24.0,4.8,0.0,0,0,Carlos Sainz,Ferrari,Abu Dhabi Grand Prix
+20.0,855.0,51.0,2023.0,7.0,16.2,0.0,0,0,Guanyu Zhou,Alfa Romeo,Canadian Grand Prix
+3.0,822.0,131.0,2021.0,6.0,10.2,0.0,0,0,Valtteri Bottas,Mercedes,Monaco Grand Prix
+17.0,817.0,213.0,2023.0,18.0,3.0,0.0,0,0,Daniel Ricciardo,AlphaTauri,São Paulo Grand Prix
+13.0,825.0,210.0,2024.0,77.0,9.4,0.0,0,0,Kevin Magnussen,Haas F1 Team,Saudi Arabian Grand Prix
+14.0,839.0,214.0,2022.0,14.0,7.6,0.0,0,0,Esteban Ocon,Alpine F1 Team,Italian Grand Prix
+15.0,854.0,210.0,2022.0,22.0,11.2,0.0,0,0,Mick Schumacher,Haas F1 Team,Japanese Grand Prix
+4.0,848.0,9.0,2020.0,76.0,6.4,0.0,0,0,Alexander Albon,Red Bull,Tuscan Grand Prix
+16.0,852.0,213.0,2022.0,3.0,17.2,0.0,0,0,Yuki Tsunoda,AlphaTauri,Bahrain Grand Prix
+1.0,830.0,9.0,2021.0,34.0,13.6,0.9954836088369785,1,1,Max Verstappen,Red Bull,French Grand Prix
+1.0,822.0,131.0,2021.0,5.0,15.4,0.0,0,1,Valtteri Bottas,Mercedes,Turkish Grand Prix
+8.0,839.0,214.0,2023.0,79.0,15.6,0.0,0,0,Esteban Ocon,Alpine F1 Team,Miami Grand Prix
+6.0,848.0,3.0,2023.0,14.0,12.4,0.0,0,0,Alexander Albon,Williams,Italian Grand Prix
+16.0,842.0,213.0,2020.0,76.0,7.666666666666667,0.0,0,0,Pierre Gasly,AlphaTauri,Tuscan Grand Prix
+13.0,852.0,213.0,2022.0,9.0,7.2,0.0,0,0,Yuki Tsunoda,AlphaTauri,British Grand Prix
+18.0,847.0,3.0,2020.0,76.0,6.6,0.0,0,0,George Russell,Williams,Tuscan Grand Prix
+7.0,846.0,1.0,2021.0,77.0,18.8,0.0,0,0,Lando Norris,McLaren,Saudi Arabian Grand Prix
+16.0,849.0,3.0,2021.0,18.0,20.0,0.0,0,0,Nicholas Latifi,Williams,São Paulo Grand Prix
+9.0,807.0,210.0,2024.0,17.0,5.8,0.0,0,0,Nico Hülkenberg,Haas F1 Team,Chinese Grand Prix
+2.0,844.0,6.0,2024.0,77.0,8.0,0.037182382937558746,0,0,Charles Leclerc,Ferrari,Saudi Arabian Grand Prix
+11.0,4.0,214.0,2022.0,79.0,14.2,0.0,0,0,Fernando Alonso,Alpine F1 Team,Miami Grand Prix
+5.0,832.0,6.0,2021.0,69.0,12.8,0.0,0,0,Carlos Sainz,Ferrari,United States Grand Prix
+18.0,847.0,3.0,2020.0,4.0,11.2,0.0,0,0,George Russell,Williams,Spanish Grand Prix
+11.0,830.0,9.0,2023.0,15.0,6.0,0.0,0,0,Max Verstappen,Red Bull,Singapore Grand Prix
+5.0,4.0,214.0,2021.0,5.0,12.0,0.0,0,0,Fernando Alonso,Alpine F1 Team,Turkish Grand Prix
+3.0,846.0,1.0,2022.0,14.0,8.0,0.002745956771383199,0,0,Lando Norris,McLaren,Italian Grand Prix
+18.0,849.0,3.0,2021.0,70.0,8.2,0.0,0,0,Nicholas Latifi,Williams,Austrian Grand Prix
+18.0,849.0,3.0,2021.0,70.0,8.2,0.0,0,0,Nicholas Latifi,Williams,Styrian Grand Prix
+8.0,852.0,215.0,2024.0,7.0,10.2,0.0,0,0,Yuki Tsunoda,RB F1 Team,Canadian Grand Prix
+11.0,840.0,117.0,2024.0,17.0,8.6,0.0,0,0,Lance Stroll,Aston Martin,Chinese Grand Prix
+10.0,822.0,15.0,2024.0,17.0,5.2,0.0,0,0,Valtteri Bottas,Sauber,Chinese Grand Prix
+3.0,830.0,9.0,2020.0,20.0,6.5,0.0,0,0,Max Verstappen,Red Bull,Eifel Grand Prix
+17.0,856.0,213.0,2023.0,7.0,17.2,0.0,0,0,Nyck de Vries,AlphaTauri,Canadian Grand Prix
+18.0,822.0,15.0,2024.0,70.0,5.0,0.0,0,0,Valtteri Bottas,Sauber,Austrian Grand Prix
+15.0,154.0,210.0,2020.0,70.0,19.25,0.0,0,0,Romain Grosjean,Haas F1 Team,Austrian Grand Prix
+15.0,154.0,210.0,2020.0,70.0,19.25,0.0,0,0,Romain Grosjean,Haas F1 Team,Styrian Grand Prix
+15.0,842.0,214.0,2023.0,18.0,5.2,0.0,0,0,Pierre Gasly,Alpine F1 Team,São Paulo Grand Prix
+6.0,840.0,117.0,2023.0,70.0,4.8,0.0,0,0,Lance Stroll,Aston Martin,Styrian Grand Prix
+6.0,840.0,117.0,2023.0,70.0,4.8,0.0,0,0,Lance Stroll,Aston Martin,Austrian Grand Prix
+3.0,857.0,1.0,2023.0,9.0,8.2,0.0,0,0,Oscar Piastri,McLaren,British Grand Prix
+16.0,849.0,3.0,2021.0,77.0,18.0,0.0,0,0,Nicholas Latifi,Williams,Saudi Arabian Grand Prix
+12.0,852.0,213.0,2022.0,21.0,13.2,0.0,0,0,Yuki Tsunoda,AlphaTauri,Emilia Romagna Grand Prix
+6.0,847.0,131.0,2023.0,79.0,15.8,0.15225457132275313,0,0,George Russell,Mercedes,Miami Grand Prix
+17.0,825.0,210.0,2020.0,9.0,10.8,0.0,0,0,Kevin Magnussen,Haas F1 Team,British Grand Prix
+17.0,825.0,210.0,2020.0,9.0,10.8,0.0,0,0,Kevin Magnussen,Haas F1 Team,70th Anniversary Grand Prix
+14.0,817.0,1.0,2021.0,78.0,14.4,0.0007900101592729007,0,0,Daniel Ricciardo,McLaren,Qatar Grand Prix
+8.0,839.0,214.0,2021.0,18.0,19.8,0.005032930489607332,0,0,Esteban Ocon,Alpine F1 Team,São Paulo Grand Prix
+18.0,807.0,210.0,2023.0,22.0,5.4,0.0,0,0,Nico Hülkenberg,Haas F1 Team,Japanese Grand Prix
+10.0,825.0,210.0,2022.0,77.0,14.8,0.0,0,0,Kevin Magnussen,Haas F1 Team,Saudi Arabian Grand Prix
+17.0,842.0,213.0,2022.0,24.0,10.4,0.0,0,0,Pierre Gasly,AlphaTauri,Abu Dhabi Grand Prix
+18.0,849.0,3.0,2020.0,9.0,10.2,0.0,0,0,Nicholas Latifi,Williams,British Grand Prix
+18.0,849.0,3.0,2020.0,9.0,10.2,0.0,0,0,Nicholas Latifi,Williams,70th Anniversary Grand Prix
+19.0,853.0,210.0,2021.0,3.0,14.0,0.0,0,0,Nikita Mazepin,Haas F1 Team,Bahrain Grand Prix
+19.0,817.0,213.0,2023.0,13.0,16.4,0.0,0,0,Daniel Ricciardo,AlphaTauri,Belgian Grand Prix
+13.0,848.0,3.0,2022.0,34.0,9.0,0.0,0,0,Alexander Albon,Williams,French Grand Prix
+13.0,858.0,3.0,2024.0,7.0,10.2,0.0,0,0,Logan Sargeant,Williams,Canadian Grand Prix
+9.0,839.0,4.0,2020.0,9.0,16.6,0.0,0,0,Esteban Ocon,Renault,British Grand Prix
+9.0,839.0,4.0,2020.0,9.0,16.6,0.0,0,0,Esteban Ocon,Renault,70th Anniversary Grand Prix
+10.0,20.0,117.0,2021.0,78.0,12.8,0.0,0,0,Sebastian Vettel,Aston Martin,Qatar Grand Prix
+0.0,852.0,213.0,2021.0,14.0,8.4,0.0,0,0,Yuki Tsunoda,AlphaTauri,Italian Grand Prix
+3.0,832.0,6.0,2021.0,18.0,19.6,0.0,0,0,Carlos Sainz,Ferrari,São Paulo Grand Prix
+18.0,854.0,210.0,2021.0,14.0,7.0,0.0,0,0,Mick Schumacher,Haas F1 Team,Italian Grand Prix
+8.0,852.0,213.0,2022.0,73.0,11.2,0.0,0,0,Yuki Tsunoda,AlphaTauri,Azerbaijan Grand Prix
+16.0,815.0,9.0,2024.0,7.0,5.2,0.0,0,0,Sergio Pérez,Red Bull,Canadian Grand Prix
+17.0,825.0,210.0,2023.0,3.0,11.0,0.0,0,0,Kevin Magnussen,Haas F1 Team,Bahrain Grand Prix
+17.0,825.0,210.0,2023.0,3.0,11.0,0.0,0,0,Kevin Magnussen,Haas F1 Team,Sakhir Grand Prix
+0.0,822.0,15.0,2024.0,7.0,5.2,0.0,0,0,Valtteri Bottas,Sauber,Canadian Grand Prix
+20.0,853.0,210.0,2021.0,4.0,10.2,0.0,0,0,Nikita Mazepin,Haas F1 Team,Spanish Grand Prix
+10.0,20.0,6.0,2020.0,70.0,15.8,0.0,0,0,Sebastian Vettel,Ferrari,Austrian Grand Prix
+10.0,20.0,6.0,2020.0,70.0,15.8,0.0,0,0,Sebastian Vettel,Ferrari,Styrian Grand Prix
+8.0,857.0,1.0,2023.0,39.0,17.0,0.0,0,0,Oscar Piastri,McLaren,Dutch Grand Prix
+0.0,815.0,9.0,2021.0,13.0,6.0,0.0,0,0,Sergio Pérez,Red Bull,Belgian Grand Prix
+17.0,857.0,1.0,2023.0,15.0,8.4,0.0,0,0,Oscar Piastri,McLaren,Singapore Grand Prix
+11.0,20.0,117.0,2021.0,73.0,8.0,0.0,0,0,Sebastian Vettel,Aston Martin,Azerbaijan Grand Prix
+8.0,825.0,210.0,2023.0,80.0,10.4,0.0,0,0,Kevin Magnussen,Haas F1 Team,Las Vegas Grand Prix
+10.0,842.0,214.0,2023.0,24.0,3.4,0.0,0,0,Pierre Gasly,Alpine F1 Team,Abu Dhabi Grand Prix
+2.0,1.0,131.0,2021.0,70.0,16.75,0.8272582901818082,1,0,Lewis Hamilton,Mercedes,Austrian Grand Prix
+2.0,1.0,131.0,2021.0,70.0,16.75,0.8272582901818082,1,0,Lewis Hamilton,Mercedes,Styrian Grand Prix
+13.0,807.0,210.0,2023.0,14.0,13.5,0.0,0,0,Nico Hülkenberg,Haas F1 Team,Italian Grand Prix
+5.0,1.0,131.0,2023.0,73.0,18.0,0.0,0,0,Lewis Hamilton,Mercedes,Azerbaijan Grand Prix
+7.0,825.0,210.0,2022.0,3.0,18.2,0.0,0,0,Kevin Magnussen,Haas F1 Team,Bahrain Grand Prix
+7.0,825.0,210.0,2022.0,3.0,18.2,0.0,0,0,Kevin Magnussen,Haas F1 Team,Sakhir Grand Prix
+1.0,844.0,6.0,2022.0,15.0,10.4,0.20815866872212543,0,0,Charles Leclerc,Ferrari,Singapore Grand Prix
+17.0,852.0,213.0,2021.0,32.0,18.8,0.0,0,0,Yuki Tsunoda,AlphaTauri,Mexico City Grand Prix
+19.0,840.0,117.0,2021.0,73.0,5.0,0.0,0,0,Lance Stroll,Aston Martin,Azerbaijan Grand Prix
+12.0,822.0,51.0,2022.0,1.0,15.2,0.0,0,0,Valtteri Bottas,Alfa Romeo,Australian Grand Prix
+3.0,830.0,9.0,2021.0,75.0,16.6,0.9795557453319578,1,0,Max Verstappen,Red Bull,Portuguese Grand Prix
+13.0,839.0,214.0,2022.0,73.0,11.0,0.0,0,0,Esteban Ocon,Alpine F1 Team,Azerbaijan Grand Prix
+8.0,847.0,131.0,2022.0,7.0,10.4,0.028688233539635944,0,0,George Russell,Mercedes,Canadian Grand Prix
+18.0,817.0,215.0,2024.0,4.0,12.8,0.0,0,0,Daniel Ricciardo,RB F1 Team,Spanish Grand Prix
+7.0,846.0,1.0,2021.0,69.0,16.2,0.0,0,0,Lando Norris,McLaren,United States Grand Prix
+7.0,857.0,1.0,2023.0,14.0,13.0,0.0,0,0,Oscar Piastri,McLaren,Italian Grand Prix
+10.0,846.0,1.0,2020.0,9.0,8.666666666666666,0.0,0,0,Lando Norris,McLaren,British Grand Prix
+10.0,846.0,1.0,2020.0,9.0,8.666666666666666,0.0,0,0,Lando Norris,McLaren,70th Anniversary Grand Prix
+6.0,848.0,9.0,2020.0,75.0,5.6,0.0,0,0,Alexander Albon,Red Bull,Portuguese Grand Prix
+5.0,815.0,9.0,2022.0,4.0,7.8,0.16814194342525024,0,0,Sergio Pérez,Red Bull,Spanish Grand Prix
+4.0,848.0,9.0,2020.0,3.0,4.6,0.0,0,0,Alexander Albon,Red Bull,Bahrain Grand Prix
+4.0,848.0,9.0,2020.0,3.0,4.6,0.0,0,0,Alexander Albon,Red Bull,Sakhir Grand Prix
+8.0,840.0,211.0,2020.0,14.0,13.0,0.0,0,0,Lance Stroll,Racing Point,Italian Grand Prix
+11.0,826.0,213.0,2020.0,71.0,8.0,0.0,0,0,Daniil Kvyat,AlphaTauri,Russian Grand Prix
+4.0,832.0,6.0,2023.0,6.0,11.8,0.01082868686414415,0,0,Carlos Sainz,Ferrari,Monaco Grand Prix
+1.0,830.0,9.0,2021.0,13.0,4.4,0.0,0,1,Max Verstappen,Red Bull,Belgian Grand Prix
+11.0,4.0,214.0,2021.0,24.0,11.2,0.0,0,0,Fernando Alonso,Alpine F1 Team,Abu Dhabi Grand Prix
+16.0,857.0,1.0,2023.0,1.0,14.8,0.0,0,0,Oscar Piastri,McLaren,Australian Grand Prix
+15.0,842.0,213.0,2022.0,7.0,10.2,0.0,0,0,Pierre Gasly,AlphaTauri,Canadian Grand Prix
+3.0,815.0,9.0,2022.0,6.0,11.0,0.6528485933911006,1,1,Sergio Pérez,Red Bull,Monaco Grand Prix
+15.0,846.0,1.0,2023.0,80.0,6.0,0.0,0,0,Lando Norris,McLaren,Las Vegas Grand Prix
+1.0,830.0,9.0,2021.0,69.0,16.6,0.9973327609407268,1,1,Max Verstappen,Red Bull,United States Grand Prix
+6.0,848.0,9.0,2020.0,21.0,10.2,0.0,0,0,Alexander Albon,Red Bull,Emilia Romagna Grand Prix
+12.0,839.0,214.0,2023.0,11.0,17.0,0.0,0,0,Esteban Ocon,Alpine F1 Team,Hungarian Grand Prix
+6.0,815.0,9.0,2021.0,73.0,9.0,0.4025818661131278,0,1,Sergio Pérez,Red Bull,Azerbaijan Grand Prix
+7.0,825.0,210.0,2022.0,70.0,10.8,0.0,0,0,Kevin Magnussen,Haas F1 Team,Austrian Grand Prix
+7.0,825.0,210.0,2022.0,70.0,10.8,0.0,0,0,Kevin Magnussen,Haas F1 Team,Styrian Grand Prix
+16.0,852.0,213.0,2021.0,9.0,6.8,0.0,0,0,Yuki Tsunoda,AlphaTauri,British Grand Prix
+16.0,8.0,51.0,2020.0,70.0,15.8,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Austrian Grand Prix
+16.0,8.0,51.0,2020.0,70.0,15.8,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Styrian Grand Prix
+14.0,817.0,1.0,2022.0,6.0,8.6,0.0009205230379985202,0,0,Daniel Ricciardo,McLaren,Monaco Grand Prix
+13.0,844.0,6.0,2020.0,13.0,7.0,0.0,0,0,Charles Leclerc,Ferrari,Belgian Grand Prix
+17.0,849.0,3.0,2022.0,70.0,7.2,0.0,0,0,Nicholas Latifi,Williams,Austrian Grand Prix
+17.0,849.0,3.0,2022.0,70.0,7.2,0.0,0,0,Nicholas Latifi,Williams,Styrian Grand Prix
+14.0,817.0,215.0,2024.0,3.0,9.6,0.0,0,0,Daniel Ricciardo,RB F1 Team,Bahrain Grand Prix
+13.0,848.0,3.0,2023.0,22.0,9.8,0.0,0,0,Alexander Albon,Williams,Japanese Grand Prix
+18.0,839.0,214.0,2024.0,9.0,3.8,0.0,0,0,Esteban Ocon,Alpine F1 Team,British Grand Prix
+10.0,842.0,214.0,2024.0,6.0,5.6,0.0,0,0,Pierre Gasly,Alpine F1 Team,Monaco Grand Prix
+2.0,1.0,131.0,2021.0,69.0,16.0,0.0,0,0,Lewis Hamilton,Mercedes,United States Grand Prix
+19.0,849.0,3.0,2020.0,13.0,11.0,0.0,0,0,Nicholas Latifi,Williams,Belgian Grand Prix
+13.0,842.0,214.0,2024.0,70.0,4.6,0.0,0,0,Pierre Gasly,Alpine F1 Team,Austrian Grand Prix
+12.0,839.0,214.0,2022.0,4.0,12.6,0.0,0,0,Esteban Ocon,Alpine F1 Team,Spanish Grand Prix
+2.0,4.0,214.0,2022.0,7.0,10.4,0.0,0,0,Fernando Alonso,Alpine F1 Team,Canadian Grand Prix
+6.0,848.0,9.0,2020.0,70.0,19.4,0.0,0,0,Alexander Albon,Red Bull,Austrian Grand Prix
+6.0,848.0,9.0,2020.0,70.0,19.4,0.0,0,0,Alexander Albon,Red Bull,Styrian Grand Prix
+5.0,4.0,117.0,2024.0,22.0,4.6,0.0,0,0,Fernando Alonso,Aston Martin,Japanese Grand Prix
+8.0,815.0,9.0,2024.0,70.0,6.333333333333333,0.12786073142696391,0,0,Sergio Pérez,Red Bull,Styrian Grand Prix
+8.0,815.0,9.0,2024.0,70.0,6.333333333333333,0.12786073142696391,0,0,Sergio Pérez,Red Bull,Austrian Grand Prix
+15.0,852.0,213.0,2023.0,15.0,5.6,0.0,0,0,Yuki Tsunoda,AlphaTauri,Singapore Grand Prix
+20.0,825.0,210.0,2020.0,13.0,13.6,0.0,0,0,Kevin Magnussen,Haas F1 Team,Belgian Grand Prix
+11.0,817.0,4.0,2020.0,24.0,15.0,0.0,0,0,Daniel Ricciardo,Renault,Abu Dhabi Grand Prix
+4.0,1.0,131.0,2022.0,34.0,7.8,0.19487192403809372,0,0,Lewis Hamilton,Mercedes,French Grand Prix
+20.0,852.0,213.0,2023.0,80.0,7.8,0.0,0,0,Yuki Tsunoda,AlphaTauri,Las Vegas Grand Prix
+14.0,855.0,51.0,2022.0,73.0,12.4,0.0,0,0,Guanyu Zhou,Alfa Romeo,Azerbaijan Grand Prix
+11.0,842.0,214.0,2023.0,32.0,4.8,0.0,0,0,Pierre Gasly,Alpine F1 Team,Mexico City Grand Prix
+6.0,830.0,9.0,2024.0,6.0,5.2,0.9627931817073401,1,0,Max Verstappen,Red Bull,Monaco Grand Prix
+16.0,847.0,3.0,2021.0,32.0,19.8,0.0,0,0,George Russell,Williams,Mexico City Grand Prix
+7.0,844.0,6.0,2023.0,79.0,16.2,0.0,0,0,Charles Leclerc,Ferrari,Miami Grand Prix
+8.0,847.0,131.0,2022.0,22.0,11.0,0.05159713636515253,0,0,George Russell,Mercedes,Japanese Grand Prix
+8.0,847.0,131.0,2022.0,9.0,14.0,0.0210308991398524,0,0,George Russell,Mercedes,British Grand Prix
+14.0,854.0,210.0,2021.0,71.0,8.8,0.0,0,0,Mick Schumacher,Haas F1 Team,Russian Grand Prix
+5.0,20.0,117.0,2021.0,13.0,5.8,0.0,0,0,Sebastian Vettel,Aston Martin,Belgian Grand Prix
+8.0,857.0,1.0,2023.0,7.0,18.4,0.0,0,0,Oscar Piastri,McLaren,Canadian Grand Prix
+6.0,847.0,131.0,2023.0,9.0,11.0,0.1553844351929133,0,0,George Russell,Mercedes,British Grand Prix
+16.0,839.0,214.0,2022.0,18.0,7.6,0.0,0,0,Esteban Ocon,Alpine F1 Team,São Paulo Grand Prix
+8.0,832.0,1.0,2020.0,70.0,18.4,0.0,0,0,Carlos Sainz,McLaren,Austrian Grand Prix
+8.0,832.0,1.0,2020.0,70.0,18.4,0.0,0,0,Carlos Sainz,McLaren,Styrian Grand Prix
+20.0,858.0,3.0,2023.0,79.0,12.0,0.0,0,0,Logan Sargeant,Williams,Miami Grand Prix
+9.0,20.0,117.0,2022.0,6.0,12.8,0.0,0,0,Sebastian Vettel,Aston Martin,Monaco Grand Prix
+10.0,854.0,210.0,2022.0,21.0,13.2,0.0,0,0,Mick Schumacher,Haas F1 Team,Emilia Romagna Grand Prix
+0.0,825.0,210.0,2023.0,39.0,13.4,0.0,0,0,Kevin Magnussen,Haas F1 Team,Dutch Grand Prix
+6.0,1.0,131.0,2023.0,32.0,8.6,0.5595473485574289,1,0,Lewis Hamilton,Mercedes,Mexico City Grand Prix
+5.0,1.0,131.0,2022.0,24.0,10.6,0.36735157855659206,0,0,Lewis Hamilton,Mercedes,Abu Dhabi Grand Prix
+8.0,826.0,213.0,2020.0,21.0,10.2,0.0,0,0,Daniil Kvyat,AlphaTauri,Emilia Romagna Grand Prix
+12.0,844.0,6.0,2020.0,3.0,7.4,0.0,0,0,Charles Leclerc,Ferrari,Bahrain Grand Prix
+12.0,844.0,6.0,2020.0,3.0,7.4,0.0,0,0,Charles Leclerc,Ferrari,Sakhir Grand Prix
+4.0,815.0,9.0,2022.0,3.0,9.8,0.13962265318184122,0,0,Sergio Pérez,Red Bull,Bahrain Grand Prix
+8.0,807.0,210.0,2023.0,70.0,15.0,0.0,0,0,Nico Hülkenberg,Haas F1 Team,Austrian Grand Prix
+8.0,1.0,131.0,2023.0,14.0,12.5,0.18384645042674128,0,0,Lewis Hamilton,Mercedes,Italian Grand Prix
+6.0,815.0,9.0,2021.0,5.0,12.666666666666666,0.16260657506827725,0,0,Sergio Pérez,Red Bull,Turkish Grand Prix
+8.0,815.0,9.0,2021.0,14.0,4.0,0.0,0,0,Sergio Pérez,Red Bull,Italian Grand Prix
+17.0,9.0,51.0,2021.0,14.0,3.8,0.0,0,0,Robert Kubica,Alfa Romeo,Italian Grand Prix
+7.0,1.0,131.0,2023.0,9.0,7.4,0.0,0,0,Lewis Hamilton,Mercedes,British Grand Prix
+7.0,1.0,131.0,2023.0,9.0,7.4,0.0,0,0,Lewis Hamilton,Mercedes,70th Anniversary Grand Prix
+10.0,4.0,117.0,2024.0,1.0,3.4,0.0,0,0,Fernando Alonso,Aston Martin,Australian Grand Prix
+9.0,848.0,9.0,2020.0,9.0,7.6,0.0,0,0,Alexander Albon,Red Bull,British Grand Prix
+9.0,848.0,9.0,2020.0,9.0,7.6,0.0,0,0,Alexander Albon,Red Bull,70th Anniversary Grand Prix
+5.0,825.0,210.0,2022.0,7.0,6.2,0.0,0,0,Kevin Magnussen,Haas F1 Team,Canadian Grand Prix
+6.0,847.0,131.0,2022.0,6.0,12.6,0.1267486279534725,0,0,George Russell,Mercedes,Monaco Grand Prix
+11.0,817.0,215.0,2024.0,70.0,6.0,0.0,0,0,Daniel Ricciardo,RB F1 Team,Austrian Grand Prix
+12.0,855.0,51.0,2022.0,32.0,11.8,0.0,0,0,Guanyu Zhou,Alfa Romeo,Mexico City Grand Prix
+13.0,817.0,1.0,2021.0,73.0,9.4,0.0,0,0,Daniel Ricciardo,McLaren,Azerbaijan Grand Prix
+8.0,839.0,214.0,2023.0,15.0,6.0,0.0,0,0,Esteban Ocon,Alpine F1 Team,Singapore Grand Prix
+5.0,847.0,131.0,2024.0,6.0,5.8,0.09090660327735255,0,0,George Russell,Mercedes,Monaco Grand Prix
+5.0,844.0,6.0,2022.0,18.0,10.2,0.0,0,0,Charles Leclerc,Ferrari,São Paulo Grand Prix
+3.0,847.0,131.0,2023.0,80.0,6.8,0.0,0,0,George Russell,Mercedes,Las Vegas Grand Prix
+6.0,817.0,1.0,2021.0,69.0,16.2,0.0030478594521404557,0,0,Daniel Ricciardo,McLaren,United States Grand Prix
+7.0,1.0,131.0,2022.0,73.0,11.4,0.0,0,0,Lewis Hamilton,Mercedes,Azerbaijan Grand Prix
+5.0,846.0,1.0,2022.0,6.0,12.4,0.002065073846179984,0,0,Lando Norris,McLaren,Monaco Grand Prix
+17.0,807.0,117.0,2022.0,77.0,14.6,0.0,0,0,Nico Hülkenberg,Aston Martin,Saudi Arabian Grand Prix
+1.0,830.0,9.0,2024.0,3.0,6.8,0.0,0,1,Max Verstappen,Red Bull,Bahrain Grand Prix
+1.0,830.0,9.0,2024.0,3.0,6.8,0.0,0,1,Max Verstappen,Red Bull,Sakhir Grand Prix
+14.0,817.0,213.0,2023.0,69.0,5.4,0.0,0,0,Daniel Ricciardo,AlphaTauri,United States Grand Prix
+1.0,846.0,1.0,2024.0,4.0,14.6,0.04904124137272841,0,0,Lando Norris,McLaren,Spanish Grand Prix
+14.0,20.0,6.0,2020.0,71.0,9.0,0.0,0,0,Sebastian Vettel,Ferrari,Russian Grand Prix
+3.0,1.0,131.0,2023.0,78.0,6.8,0.0,0,0,Lewis Hamilton,Mercedes,Qatar Grand Prix
+18.0,856.0,213.0,2023.0,77.0,10.6,0.0,0,0,Nyck de Vries,AlphaTauri,Saudi Arabian Grand Prix
+7.0,832.0,1.0,2020.0,4.0,10.2,0.0,0,0,Carlos Sainz,McLaren,Spanish Grand Prix
+11.0,815.0,9.0,2024.0,4.0,14.4,0.0,0,0,Sergio Pérez,Red Bull,Spanish Grand Prix
+6.0,822.0,51.0,2022.0,32.0,10.8,0.0,0,0,Valtteri Bottas,Alfa Romeo,Mexico City Grand Prix
+4.0,832.0,6.0,2024.0,22.0,4.6,0.0,0,0,Carlos Sainz,Ferrari,Japanese Grand Prix
+1.0,830.0,9.0,2023.0,1.0,16.0,0.0,0,1,Max Verstappen,Red Bull,Australian Grand Prix
+4.0,1.0,131.0,2021.0,71.0,5.0,0.3125096468583678,0,1,Lewis Hamilton,Mercedes,Russian Grand Prix
+14.0,840.0,117.0,2023.0,11.0,17.0,0.0,0,0,Lance Stroll,Aston Martin,Hungarian Grand Prix
+6.0,842.0,213.0,2021.0,6.0,7.2,0.0,0,0,Pierre Gasly,AlphaTauri,Monaco Grand Prix
+18.0,822.0,51.0,2023.0,39.0,13.6,0.0,0,0,Valtteri Bottas,Alfa Romeo,Dutch Grand Prix
+2.0,830.0,9.0,2022.0,9.0,8.5,0.0,0,0,Max Verstappen,Red Bull,British Grand Prix
+2.0,830.0,9.0,2022.0,9.0,8.5,0.0,0,0,Max Verstappen,Red Bull,70th Anniversary Grand Prix
+10.0,840.0,117.0,2023.0,13.0,13.2,0.0,0,0,Lance Stroll,Aston Martin,Belgian Grand Prix
+5.0,817.0,4.0,2020.0,21.0,9.2,0.0,0,0,Daniel Ricciardo,Renault,Emilia Romagna Grand Prix
+1.0,847.0,131.0,2024.0,7.0,8.2,0.8270867756878494,1,0,George Russell,Mercedes,Canadian Grand Prix
+4.0,848.0,9.0,2020.0,5.0,6.2,0.0,0,0,Alexander Albon,Red Bull,Turkish Grand Prix
+14.0,807.0,210.0,2023.0,78.0,6.8,0.0,0,0,Nico Hülkenberg,Haas F1 Team,Qatar Grand Prix
+20.0,848.0,3.0,2022.0,1.0,10.8,0.0,0,0,Alexander Albon,Williams,Australian Grand Prix
+8.0,1.0,131.0,2022.0,6.0,11.8,0.331746759270641,0,0,Lewis Hamilton,Mercedes,Monaco Grand Prix
+17.0,854.0,210.0,2021.0,39.0,4.6,0.0,0,0,Mick Schumacher,Haas F1 Team,Dutch Grand Prix
+6.0,4.0,117.0,2024.0,7.0,4.8,0.0,0,0,Fernando Alonso,Aston Martin,Canadian Grand Prix
+4.0,832.0,6.0,2023.0,77.0,14.0,0.005374400685934781,0,0,Carlos Sainz,Ferrari,Saudi Arabian Grand Prix
+0.0,815.0,9.0,2021.0,39.0,4.8,0.0,0,0,Sergio Pérez,Red Bull,Dutch Grand Prix
+18.0,856.0,213.0,2023.0,9.0,8.0,0.0,0,0,Nyck de Vries,AlphaTauri,British Grand Prix
+9.0,822.0,51.0,2023.0,32.0,5.2,0.0,0,0,Valtteri Bottas,Alfa Romeo,Mexico City Grand Prix
+5.0,842.0,213.0,2021.0,3.0,14.0,0.0,0,0,Pierre Gasly,AlphaTauri,Bahrain Grand Prix
+5.0,842.0,213.0,2021.0,3.0,14.0,0.0,0,0,Pierre Gasly,AlphaTauri,Sakhir Grand Prix
+9.0,807.0,210.0,2024.0,70.0,7.0,0.0,0,0,Nico Hülkenberg,Haas F1 Team,Austrian Grand Prix
+19.0,849.0,3.0,2020.0,4.0,7.2,0.0,0,0,Nicholas Latifi,Williams,Spanish Grand Prix
+13.0,822.0,51.0,2023.0,69.0,5.8,0.0,0,0,Valtteri Bottas,Alfa Romeo,United States Grand Prix
+1.0,844.0,6.0,2022.0,3.0,11.4,0.0,0,1,Charles Leclerc,Ferrari,Bahrain Grand Prix
+1.0,844.0,6.0,2022.0,3.0,11.4,0.0,0,1,Charles Leclerc,Ferrari,Sakhir Grand Prix
+0.0,840.0,117.0,2023.0,15.0,6.6,0.0,0,0,Lance Stroll,Aston Martin,Singapore Grand Prix
+15.0,846.0,1.0,2021.0,13.0,8.0,0.0,0,0,Lando Norris,McLaren,Belgian Grand Prix
+8.0,8.0,51.0,2020.0,5.0,10.0,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Turkish Grand Prix
+5.0,846.0,1.0,2022.0,34.0,7.8,0.0008233815251036962,0,0,Lando Norris,McLaren,French Grand Prix
+17.0,842.0,213.0,2022.0,6.0,14.8,0.0,0,0,Pierre Gasly,AlphaTauri,Monaco Grand Prix
+9.0,839.0,214.0,2023.0,3.0,14.6,0.00032626419753066337,0,0,Esteban Ocon,Alpine F1 Team,Bahrain Grand Prix
+17.0,846.0,1.0,2022.0,13.0,7.2,0.0,0,0,Lando Norris,McLaren,Belgian Grand Prix
+10.0,852.0,215.0,2024.0,22.0,3.2,0.0,0,0,Yuki Tsunoda,RB F1 Team,Japanese Grand Prix
+18.0,848.0,3.0,2023.0,4.0,7.8,0.0,0,0,Alexander Albon,Williams,Spanish Grand Prix
+5.0,807.0,210.0,2023.0,7.0,16.6,0.0,0,0,Nico Hülkenberg,Haas F1 Team,Canadian Grand Prix
+19.0,855.0,51.0,2023.0,78.0,3.4,0.0,0,0,Guanyu Zhou,Alfa Romeo,Qatar Grand Prix
+12.0,840.0,117.0,2021.0,39.0,5.8,0.0,0,0,Lance Stroll,Aston Martin,Dutch Grand Prix
+12.0,840.0,211.0,2020.0,75.0,8.8,0.0,0,0,Lance Stroll,Racing Point,Portuguese Grand Prix
+12.0,844.0,6.0,2020.0,24.0,15.8,0.0,0,0,Charles Leclerc,Ferrari,Abu Dhabi Grand Prix
+11.0,852.0,213.0,2022.0,24.0,11.0,0.0,0,0,Yuki Tsunoda,AlphaTauri,Abu Dhabi Grand Prix
+10.0,4.0,214.0,2022.0,73.0,12.2,0.0,0,0,Fernando Alonso,Alpine F1 Team,Azerbaijan Grand Prix
+0.0,807.0,210.0,2023.0,69.0,6.2,0.0,0,0,Nico Hülkenberg,Haas F1 Team,United States Grand Prix
+6.0,846.0,1.0,2022.0,15.0,11.0,0.006452927404366841,0,0,Lando Norris,McLaren,Singapore Grand Prix
+10.0,849.0,3.0,2022.0,14.0,8.4,0.0,0,0,Nicholas Latifi,Williams,Italian Grand Prix
+10.0,839.0,214.0,2022.0,34.0,9.0,0.0013383510368575073,0,0,Esteban Ocon,Alpine F1 Team,French Grand Prix
+17.0,858.0,3.0,2024.0,79.0,6.8,0.0,0,0,Logan Sargeant,Williams,Miami Grand Prix
+14.0,848.0,3.0,2023.0,15.0,6.2,0.0,0,0,Alexander Albon,Williams,Singapore Grand Prix
+8.0,815.0,9.0,2021.0,4.0,12.6,0.1942223005061731,0,0,Sergio Pérez,Red Bull,Spanish Grand Prix
+14.0,8.0,51.0,2021.0,73.0,8.2,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Azerbaijan Grand Prix
+17.0,848.0,3.0,2022.0,32.0,12.0,0.0,0,0,Alexander Albon,Williams,Mexico City Grand Prix
+2.0,815.0,9.0,2023.0,13.0,14.6,0.6990781601154076,1,0,Sergio Pérez,Red Bull,Belgian Grand Prix
+19.0,852.0,213.0,2023.0,7.0,15.6,0.0,0,0,Yuki Tsunoda,AlphaTauri,Canadian Grand Prix
+12.0,842.0,213.0,2021.0,24.0,15.6,0.0,0,0,Pierre Gasly,AlphaTauri,Abu Dhabi Grand Prix
+10.0,20.0,117.0,2022.0,69.0,7.6,0.0,0,0,Sebastian Vettel,Aston Martin,United States Grand Prix
+6.0,817.0,4.0,2020.0,20.0,9.2,0.0,0,0,Daniel Ricciardo,Renault,Eifel Grand Prix
+3.0,1.0,131.0,2023.0,7.0,13.4,0.0,0,0,Lewis Hamilton,Mercedes,Canadian Grand Prix
+7.0,830.0,9.0,2022.0,14.0,7.0,0.0,0,1,Max Verstappen,Red Bull,Italian Grand Prix
+8.0,825.0,210.0,2022.0,4.0,11.2,0.0,0,0,Kevin Magnussen,Haas F1 Team,Spanish Grand Prix
+18.0,849.0,3.0,2022.0,18.0,10.333333333333334,0.0,0,0,Nicholas Latifi,Williams,São Paulo Grand Prix
+5.0,815.0,9.0,2023.0,22.0,6.0,0.0,0,0,Sergio Pérez,Red Bull,Japanese Grand Prix
+4.0,846.0,1.0,2022.0,11.0,10.2,0.0,0,0,Lando Norris,McLaren,Hungarian Grand Prix
+15.0,825.0,210.0,2020.0,20.0,7.4,0.0,0,0,Kevin Magnussen,Haas F1 Team,Eifel Grand Prix
+4.0,847.0,131.0,2024.0,4.0,13.6,0.07146439775967442,0,0,George Russell,Mercedes,Spanish Grand Prix
+6.0,847.0,131.0,2022.0,77.0,14.2,0.20951650884682751,0,0,George Russell,Mercedes,Saudi Arabian Grand Prix
+7.0,842.0,213.0,2021.0,18.0,20.0,0.0,0,0,Pierre Gasly,AlphaTauri,São Paulo Grand Prix
+17.0,847.0,3.0,2021.0,24.0,15.4,0.0,0,0,George Russell,Williams,Abu Dhabi Grand Prix
+4.0,815.0,9.0,2022.0,79.0,15.0,0.0,0,0,Sergio Pérez,Red Bull,Miami Grand Prix
+2.0,815.0,9.0,2023.0,3.0,12.8,0.0,0,0,Sergio Pérez,Red Bull,Bahrain Grand Prix
+3.0,847.0,131.0,2023.0,39.0,12.0,0.0,0,0,George Russell,Mercedes,Dutch Grand Prix
+8.0,852.0,213.0,2023.0,73.0,12.2,0.0,0,0,Yuki Tsunoda,AlphaTauri,Azerbaijan Grand Prix
+0.0,849.0,3.0,2021.0,39.0,7.2,0.0,0,0,Nicholas Latifi,Williams,Dutch Grand Prix
+9.0,817.0,1.0,2022.0,7.0,6.8,0.0,0,0,Daniel Ricciardo,McLaren,Canadian Grand Prix
+20.0,822.0,51.0,2023.0,9.0,5.4,0.0,0,0,Valtteri Bottas,Alfa Romeo,British Grand Prix
+9.0,839.0,214.0,2021.0,21.0,11.8,0.0007069668386847975,0,0,Esteban Ocon,Alpine F1 Team,Emilia Romagna Grand Prix
+15.0,854.0,210.0,2022.0,79.0,13.0,0.0,0,0,Mick Schumacher,Haas F1 Team,Miami Grand Prix
+16.0,822.0,15.0,2024.0,9.0,4.4,0.0,0,0,Valtteri Bottas,Sauber,British Grand Prix
+20.0,847.0,3.0,2020.0,9.0,10.6,0.0,0,0,George Russell,Williams,British Grand Prix
+20.0,847.0,3.0,2020.0,9.0,10.6,0.0,0,0,George Russell,Williams,70th Anniversary Grand Prix
+10.0,20.0,117.0,2022.0,13.0,5.8,0.0,0,0,Sebastian Vettel,Aston Martin,Belgian Grand Prix
+14.0,839.0,4.0,2020.0,11.0,15.0,0.0,0,0,Esteban Ocon,Renault,Hungarian Grand Prix
+15.0,20.0,117.0,2021.0,39.0,6.4,0.0,0,0,Sebastian Vettel,Aston Martin,Dutch Grand Prix
+7.0,844.0,6.0,2022.0,32.0,8.6,0.0,0,0,Charles Leclerc,Ferrari,Mexico City Grand Prix
+9.0,840.0,117.0,2021.0,70.0,4.4,0.0,0,0,Lance Stroll,Aston Martin,Styrian Grand Prix
+9.0,840.0,117.0,2021.0,70.0,4.4,0.0,0,0,Lance Stroll,Aston Martin,Austrian Grand Prix
+4.0,846.0,1.0,2023.0,70.0,5.2,0.0071206652944410176,0,0,Lando Norris,McLaren,Austrian Grand Prix
+4.0,846.0,1.0,2023.0,70.0,5.2,0.0071206652944410176,0,0,Lando Norris,McLaren,Styrian Grand Prix
+7.0,842.0,214.0,2023.0,69.0,3.2,0.0,0,0,Pierre Gasly,Alpine F1 Team,United States Grand Prix
+20.0,849.0,3.0,2022.0,39.0,6.0,0.0,0,0,Nicholas Latifi,Williams,Dutch Grand Prix
+16.0,839.0,214.0,2022.0,13.0,11.2,0.0,0,0,Esteban Ocon,Alpine F1 Team,Belgian Grand Prix
+2.0,822.0,131.0,2021.0,77.0,20.0,0.0,0,0,Valtteri Bottas,Mercedes,Saudi Arabian Grand Prix
+17.0,847.0,3.0,2020.0,70.0,19.4,0.0,0,0,George Russell,Williams,Austrian Grand Prix
+17.0,847.0,3.0,2020.0,70.0,19.4,0.0,0,0,George Russell,Williams,Styrian Grand Prix
+0.0,815.0,9.0,2024.0,9.0,5.2,0.0,0,0,Sergio Pérez,Red Bull,British Grand Prix
+19.0,822.0,131.0,2021.0,14.0,6.2,0.0,0,0,Valtteri Bottas,Mercedes,Italian Grand Prix
+3.0,1.0,131.0,2023.0,13.0,14.8,0.7065752788250779,1,0,Lewis Hamilton,Mercedes,Belgian Grand Prix
+10.0,839.0,214.0,2024.0,70.0,2.8,0.0,0,0,Esteban Ocon,Alpine F1 Team,Styrian Grand Prix
+10.0,839.0,214.0,2024.0,70.0,2.8,0.0,0,0,Esteban Ocon,Alpine F1 Team,Austrian Grand Prix
+12.0,20.0,117.0,2022.0,34.0,8.4,0.0,0,0,Sebastian Vettel,Aston Martin,French Grand Prix
+4.0,1.0,131.0,2022.0,13.0,7.8,0.2696524525996326,0,0,Lewis Hamilton,Mercedes,Belgian Grand Prix
+10.0,849.0,3.0,2022.0,9.0,8.0,0.0,0,0,Nicholas Latifi,Williams,British Grand Prix
+10.0,849.0,3.0,2022.0,9.0,8.0,0.0,0,0,Nicholas Latifi,Williams,70th Anniversary Grand Prix
+3.0,830.0,9.0,2020.0,21.0,10.0,0.0,0,0,Max Verstappen,Red Bull,Emilia Romagna Grand Prix
+12.0,825.0,210.0,2023.0,18.0,3.4,0.0,0,0,Kevin Magnussen,Haas F1 Team,São Paulo Grand Prix
+9.0,815.0,211.0,2020.0,20.0,10.4,0.010400638846518321,0,0,Sergio Pérez,Racing Point,Eifel Grand Prix
+3.0,846.0,1.0,2020.0,70.0,19.6,0.0,0,0,Lando Norris,McLaren,Austrian Grand Prix
+3.0,846.0,1.0,2020.0,70.0,19.6,0.0,0,0,Lando Norris,McLaren,Styrian Grand Prix
+18.0,848.0,3.0,2022.0,15.0,9.4,0.0,0,0,Alexander Albon,Williams,Singapore Grand Prix
+14.0,855.0,15.0,2024.0,9.0,10.0,0.0,0,0,Guanyu Zhou,Sauber,British Grand Prix
+15.0,825.0,210.0,2020.0,70.0,18.6,0.0,0,0,Kevin Magnussen,Haas F1 Team,Austrian Grand Prix
+15.0,825.0,210.0,2020.0,70.0,18.6,0.0,0,0,Kevin Magnussen,Haas F1 Team,Styrian Grand Prix
+2.0,832.0,6.0,2024.0,1.0,2.8,0.0,0,1,Carlos Sainz,Ferrari,Australian Grand Prix
+13.0,855.0,51.0,2023.0,4.0,9.4,0.0,0,0,Guanyu Zhou,Alfa Romeo,Spanish Grand Prix
+19.0,854.0,210.0,2021.0,70.0,10.0,0.0,0,0,Mick Schumacher,Haas F1 Team,Styrian Grand Prix
+19.0,854.0,210.0,2021.0,70.0,10.0,0.0,0,0,Mick Schumacher,Haas F1 Team,Austrian Grand Prix
+7.0,846.0,1.0,2023.0,73.0,14.5,0.0,0,0,Lando Norris,McLaren,Azerbaijan Grand Prix
+2.0,815.0,9.0,2022.0,13.0,6.6,0.7824800307432462,1,0,Sergio Pérez,Red Bull,Belgian Grand Prix
+15.0,852.0,213.0,2023.0,4.0,9.4,0.0,0,0,Yuki Tsunoda,AlphaTauri,Spanish Grand Prix
+19.0,842.0,214.0,2024.0,9.0,2.6,0.0,0,0,Pierre Gasly,Alpine F1 Team,British Grand Prix
+0.0,858.0,3.0,2023.0,22.0,8.4,0.0,0,0,Logan Sargeant,Williams,Japanese Grand Prix
+3.0,846.0,1.0,2024.0,22.0,3.2,0.0,0,0,Lando Norris,McLaren,Japanese Grand Prix
+2.0,830.0,9.0,2024.0,4.0,10.8,0.9887079399313073,1,1,Max Verstappen,Red Bull,Spanish Grand Prix
+17.0,8.0,51.0,2021.0,4.0,11.6,0.0,0,0,Kimi Räikkönen,Alfa Romeo,Spanish Grand Prix
+20.0,853.0,210.0,2021.0,70.0,8.8,0.0,0,0,Nikita Mazepin,Haas F1 Team,Styrian Grand Prix
+20.0,853.0,210.0,2021.0,70.0,8.8,0.0,0,0,Nikita Mazepin,Haas F1 Team,Austrian Grand Prix
+8.0,817.0,4.0,2020.0,76.0,14.0,0.0,0,0,Daniel Ricciardo,Renault,Tuscan Grand Prix
+16.0,852.0,213.0,2023.0,77.0,14.2,0.0,0,0,Yuki Tsunoda,AlphaTauri,Saudi Arabian Grand Prix
+20.0,839.0,214.0,2022.0,79.0,14.4,0.0,0,0,Esteban Ocon,Alpine F1 Team,Miami Grand Prix
+13.0,822.0,15.0,2024.0,22.0,4.2,0.0,0,0,Valtteri Bottas,Sauber,Japanese Grand Prix
+4.0,832.0,6.0,2023.0,69.0,3.8,0.0,0,0,Carlos Sainz,Ferrari,United States Grand Prix
+6.0,4.0,117.0,2023.0,73.0,17.6,0.0,0,0,Fernando Alonso,Aston Martin,Azerbaijan Grand Prix

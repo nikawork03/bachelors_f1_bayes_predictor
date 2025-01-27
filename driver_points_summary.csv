@@ -1,0 +1,34 @@
+driver,predicted_points,actual_points
+Alexander Albon,0,17.0
+Antonio Giovinazzi,0,2.0
+Carlos Sainz,99,149.0
+Charles Leclerc,144,173.0
+Daniel Ricciardo,55,54.0
+Daniil Kvyat,1,0.0
+Esteban Ocon,40,61.0
+Fernando Alonso,47,84.0
+George Russell,73,112.0
+Guanyu Zhou,0,0.0
+Jack Aitken,0,0.0
+Kevin Magnussen,0,3.0
+Kimi Räikkönen,0,0.0
+Lance Stroll,14,42.0
+Lando Norris,72,48.0
+Lewis Hamilton,119,226.0
+Liam Lawson,0,0.0
+Logan Sargeant,0,1.0
+Max Verstappen,167,404.0
+Mick Schumacher,0,0.0
+Nicholas Latifi,0,6.0
+Nico Hülkenberg,5,6.0
+Nikita Mazepin,0,0.0
+Nyck de Vries,0,0.0
+Oscar Piastri,31,37.0
+Pierre Gasly,28,69.0
+Pietro Fittipaldi,0,0.0
+Robert Kubica,0,0.0
+Romain Grosjean,0,0.0
+Sebastian Vettel,5,41.0
+Sergio Pérez,129,211.0
+Valtteri Bottas,49,68.0
+Yuki Tsunoda,1,20.0

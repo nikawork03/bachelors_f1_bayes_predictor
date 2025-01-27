@@ -1,0 +1,1713 @@
+driver,constructor,circuit,year,predicted_points,actual_points
+Alexander Albon,Red Bull,70th Anniversary Grand Prix,2020.0,6.140944808357472,4.0
+Antonio Giovinazzi,Alfa Romeo,70th Anniversary Grand Prix,2020.0,0.8407129889611014,0.0
+Carlos Sainz,McLaren,70th Anniversary Grand Prix,2020.0,9.961784935807922,0.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2020.0,8.892313169812681,12.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2020.0,11.987072031310861,15.0
+Daniel Ricciardo,Renault,70th Anniversary Grand Prix,2020.0,9.228635914038797,12.0
+Daniel Ricciardo,Renault,70th Anniversary Grand Prix,2020.0,11.203485960086178,0.0
+Daniil Kvyat,AlphaTauri,70th Anniversary Grand Prix,2020.0,0.9129330067231766,1.0
+Daniil Kvyat,AlphaTauri,70th Anniversary Grand Prix,2020.0,0.0,0.0
+Esteban Ocon,Renault,70th Anniversary Grand Prix,2020.0,4.914867315745603,4.0
+George Russell,Williams,70th Anniversary Grand Prix,2020.0,3.9826119894079266,0.0
+Kevin Magnussen,Haas F1 Team,70th Anniversary Grand Prix,2020.0,2.5124924500751264,0.0
+Kimi Räikkönen,Alfa Romeo,70th Anniversary Grand Prix,2020.0,4.453423739885921,0.0
+Kimi Räikkönen,Alfa Romeo,70th Anniversary Grand Prix,2020.0,1.5466691315840246,0.0
+Lance Stroll,Racing Point,70th Anniversary Grand Prix,2020.0,8.132535996919948,8.0
+Lance Stroll,Racing Point,70th Anniversary Grand Prix,2020.0,8.127240102463716,2.0
+Lando Norris,McLaren,70th Anniversary Grand Prix,2020.0,11.254013966726975,10.0
+Lewis Hamilton,Mercedes,70th Anniversary Grand Prix,2020.0,14.171136355226047,25.0
+Lewis Hamilton,Mercedes,70th Anniversary Grand Prix,2020.0,13.323966104271262,18.0
+Max Verstappen,Red Bull,70th Anniversary Grand Prix,2020.0,12.708083763449519,18.0
+Max Verstappen,Red Bull,70th Anniversary Grand Prix,2020.0,11.908576562600839,25.0
+Nicholas Latifi,Williams,70th Anniversary Grand Prix,2020.0,1.9272424788025988,0.0
+Nico Hülkenberg,Racing Point,70th Anniversary Grand Prix,2020.0,10.184802142888326,6.0
+Nico Hülkenberg,Racing Point,70th Anniversary Grand Prix,2020.0,3.2277254478232345,0.0
+Pierre Gasly,AlphaTauri,70th Anniversary Grand Prix,2020.0,7.0194869635741455,0.0
+Pierre Gasly,AlphaTauri,70th Anniversary Grand Prix,2020.0,4.56288338405208,6.0
+Romain Grosjean,Haas F1 Team,70th Anniversary Grand Prix,2020.0,4.37242525372947,0.0
+Romain Grosjean,Haas F1 Team,70th Anniversary Grand Prix,2020.0,1.5557008511835404,0.0
+Sebastian Vettel,Ferrari,70th Anniversary Grand Prix,2020.0,9.22418882144087,1.0
+Sebastian Vettel,Ferrari,70th Anniversary Grand Prix,2020.0,8.509415931891924,0.0
+Valtteri Bottas,Mercedes,70th Anniversary Grand Prix,2020.0,11.978569986317103,0.0
+Valtteri Bottas,Mercedes,70th Anniversary Grand Prix,2020.0,12.518578358810354,15.0
+Alexander Albon,Red Bull,Abu Dhabi Grand Prix,2020.0,11.193481315582105,12.0
+Antonio Giovinazzi,Alfa Romeo,Abu Dhabi Grand Prix,2020.0,4.326010461225769,0.0
+Carlos Sainz,McLaren,Abu Dhabi Grand Prix,2020.0,10.587990849876793,8.0
+Daniil Kvyat,AlphaTauri,Abu Dhabi Grand Prix,2020.0,7.405607081958175,0.0
+Esteban Ocon,Renault,Abu Dhabi Grand Prix,2020.0,7.706575476286254,2.0
+George Russell,Williams,Abu Dhabi Grand Prix,2020.0,3.446714794418682,0.0
+Kevin Magnussen,Haas F1 Team,Abu Dhabi Grand Prix,2020.0,0.0,0.0
+Lance Stroll,Racing Point,Abu Dhabi Grand Prix,2020.0,6.672678081360537,1.0
+Lando Norris,McLaren,Abu Dhabi Grand Prix,2020.0,12.060280292307779,10.0
+Lewis Hamilton,Mercedes,Abu Dhabi Grand Prix,2020.0,12.589472867173267,15.0
+Max Verstappen,Red Bull,Abu Dhabi Grand Prix,2020.0,14.06495025043604,25.0
+Nicholas Latifi,Williams,Abu Dhabi Grand Prix,2020.0,1.9710728647283533,0.0
+Pierre Gasly,AlphaTauri,Abu Dhabi Grand Prix,2020.0,5.956821132232234,4.0
+Pietro Fittipaldi,Haas F1 Team,Abu Dhabi Grand Prix,2020.0,0.217106685797456,0.0
+Sebastian Vettel,Ferrari,Abu Dhabi Grand Prix,2020.0,6.970119599489011,0.0
+Sergio Pérez,Racing Point,Abu Dhabi Grand Prix,2020.0,0.0,0.0
+Valtteri Bottas,Mercedes,Abu Dhabi Grand Prix,2020.0,11.937666060943124,18.0
+Alexander Albon,Red Bull,Austrian Grand Prix,2020.0,12.077620292047841,0.0
+Antonio Giovinazzi,Alfa Romeo,Austrian Grand Prix,2020.0,1.6627644622279245,2.0
+Carlos Sainz,McLaren,Austrian Grand Prix,2020.0,12.822237188596928,2.0
+Charles Leclerc,Ferrari,Austrian Grand Prix,2020.0,5.010172453014045,0.0
+Charles Leclerc,Ferrari,Austrian Grand Prix,2020.0,9.99769499648799,18.0
+Daniel Ricciardo,Renault,Austrian Grand Prix,2020.0,7.948735874308641,0.0
+Daniel Ricciardo,Renault,Austrian Grand Prix,2020.0,9.272363764281872,4.0
+Daniil Kvyat,AlphaTauri,Austrian Grand Prix,2020.0,3.2810399371250325,0.0
+Daniil Kvyat,AlphaTauri,Austrian Grand Prix,2020.0,3.2810399371250325,1.0
+Esteban Ocon,Renault,Austrian Grand Prix,2020.0,11.338592227366888,0.0
+Esteban Ocon,Renault,Austrian Grand Prix,2020.0,5.032737688375945,4.0
+George Russell,Williams,Austrian Grand Prix,2020.0,7.189945329080215,0.0
+Kevin Magnussen,Haas F1 Team,Austrian Grand Prix,2020.0,1.1902252546951029,0.0
+Kimi Räikkönen,Alfa Romeo,Austrian Grand Prix,2020.0,2.477286441203633,0.0
+Lance Stroll,Racing Point,Austrian Grand Prix,2020.0,6.1431589620970755,0.0
+Lance Stroll,Racing Point,Austrian Grand Prix,2020.0,3.908810087694262,6.0
+Lando Norris,McLaren,Austrian Grand Prix,2020.0,8.634598353654885,10.0
+Lewis Hamilton,Mercedes,Austrian Grand Prix,2020.0,11.42991516966059,12.0
+Lewis Hamilton,Mercedes,Austrian Grand Prix,2020.0,14.31019030568132,25.0
+Max Verstappen,Red Bull,Austrian Grand Prix,2020.0,13.503655764435178,0.0
+Max Verstappen,Red Bull,Austrian Grand Prix,2020.0,13.440105030960378,15.0
+Nicholas Latifi,Williams,Austrian Grand Prix,2020.0,0.7956274838469769,0.0
+Nicholas Latifi,Williams,Austrian Grand Prix,2020.0,2.1669184239263077,0.0
+Pierre Gasly,AlphaTauri,Austrian Grand Prix,2020.0,3.9977562338708728,6.0
+Romain Grosjean,Haas F1 Team,Austrian Grand Prix,2020.0,13.713496562565119,0.0
+Sebastian Vettel,Ferrari,Austrian Grand Prix,2020.0,8.6802452490846,1.0
+Sergio Pérez,Racing Point,Austrian Grand Prix,2020.0,0.3921498656440258,8.0
+Valtteri Bottas,Mercedes,Austrian Grand Prix,2020.0,12.811213248496395,25.0
+Valtteri Bottas,Mercedes,Austrian Grand Prix,2020.0,10.656302790937081,18.0
+Alexander Albon,Red Bull,Bahrain Grand Prix,2020.0,6.093755645032263,8.0
+Antonio Giovinazzi,Alfa Romeo,Bahrain Grand Prix,2020.0,2.7313026104896396,0.0
+Antonio Giovinazzi,Alfa Romeo,Bahrain Grand Prix,2020.0,4.113185339481439,0.0
+Carlos Sainz,McLaren,Bahrain Grand Prix,2020.0,8.998578893596898,12.0
+Carlos Sainz,McLaren,Bahrain Grand Prix,2020.0,4.074607083597754,10.0
+Charles Leclerc,Ferrari,Bahrain Grand Prix,2020.0,11.72804708973632,0.0
+Daniel Ricciardo,Renault,Bahrain Grand Prix,2020.0,10.234984023418919,6.0
+Daniil Kvyat,AlphaTauri,Bahrain Grand Prix,2020.0,5.0749427638481635,0.0
+Daniil Kvyat,AlphaTauri,Bahrain Grand Prix,2020.0,7.8757794830253935,6.0
+Esteban Ocon,Renault,Bahrain Grand Prix,2020.0,6.826640515099075,18.0
+Esteban Ocon,Renault,Bahrain Grand Prix,2020.0,9.675140284382406,2.0
+George Russell,Mercedes,Bahrain Grand Prix,2020.0,11.71000386915415,2.0
+George Russell,Williams,Bahrain Grand Prix,2020.0,4.6263641905786175,0.0
+Kevin Magnussen,Haas F1 Team,Bahrain Grand Prix,2020.0,1.5175110411267017,0.0
+Kevin Magnussen,Haas F1 Team,Bahrain Grand Prix,2020.0,0.0,0.0
+Kimi Räikkönen,Alfa Romeo,Bahrain Grand Prix,2020.0,3.553768431149696,0.0
+Kimi Räikkönen,Alfa Romeo,Bahrain Grand Prix,2020.0,2.791332491494647,0.0
+Lance Stroll,Racing Point,Bahrain Grand Prix,2020.0,2.954835139802495,0.0
+Lance Stroll,Racing Point,Bahrain Grand Prix,2020.0,5.040898969430777,15.0
+Lando Norris,McLaren,Bahrain Grand Prix,2020.0,8.241815356081302,12.0
+Lando Norris,McLaren,Bahrain Grand Prix,2020.0,1.1576371940666113,1.0
+Lewis Hamilton,Mercedes,Bahrain Grand Prix,2020.0,13.975662147126304,25.0
+Max Verstappen,Red Bull,Bahrain Grand Prix,2020.0,12.433171138506278,0.0
+Max Verstappen,Red Bull,Bahrain Grand Prix,2020.0,12.470242399699911,18.0
+Nicholas Latifi,Williams,Bahrain Grand Prix,2020.0,0.36047733062352616,0.0
+Nicholas Latifi,Williams,Bahrain Grand Prix,2020.0,3.351966250225156,0.0
+Pierre Gasly,AlphaTauri,Bahrain Grand Prix,2020.0,5.701628854838037,0.0
+Romain Grosjean,Haas F1 Team,Bahrain Grand Prix,2020.0,0.0,0.0
+Sebastian Vettel,Ferrari,Bahrain Grand Prix,2020.0,6.836732894588181,0.0
+Sebastian Vettel,Ferrari,Bahrain Grand Prix,2020.0,8.313941723792182,0.0
+Sergio Pérez,Racing Point,Bahrain Grand Prix,2020.0,8.597825120482765,0.0
+Sergio Pérez,Racing Point,Bahrain Grand Prix,2020.0,8.603121014939,25.0
+Valtteri Bottas,Mercedes,Bahrain Grand Prix,2020.0,12.397246673097877,4.0
+Valtteri Bottas,Mercedes,Bahrain Grand Prix,2020.0,11.722192991970678,4.0
+Alexander Albon,Red Bull,Belgian Grand Prix,2020.0,11.078723079052645,8.0
+Antonio Giovinazzi,Alfa Romeo,Belgian Grand Prix,2020.0,1.362752455412977,0.0
+Carlos Sainz,McLaren,Belgian Grand Prix,2020.0,9.885561190747984,0.0
+Daniel Ricciardo,Renault,Belgian Grand Prix,2020.0,11.995616043805954,12.0
+Daniil Kvyat,AlphaTauri,Belgian Grand Prix,2020.0,4.51649159853265,0.0
+Esteban Ocon,Renault,Belgian Grand Prix,2020.0,10.49857184805869,10.0
+George Russell,Williams,Belgian Grand Prix,2020.0,4.036137658525705,0.0
+Kimi Räikkönen,Alfa Romeo,Belgian Grand Prix,2020.0,4.244802633420149,0.0
+Lance Stroll,Racing Point,Belgian Grand Prix,2020.0,5.837851060825894,2.0
+Lando Norris,McLaren,Belgian Grand Prix,2020.0,7.619813457290989,6.0
+Lewis Hamilton,Mercedes,Belgian Grand Prix,2020.0,13.946627565391573,25.0
+Max Verstappen,Red Bull,Belgian Grand Prix,2020.0,12.637155912845815,15.0
+Pierre Gasly,AlphaTauri,Belgian Grand Prix,2020.0,3.676560649230992,4.0
+Romain Grosjean,Haas F1 Team,Belgian Grand Prix,2020.0,1.468885317211135,0.0
+Sebastian Vettel,Ferrari,Belgian Grand Prix,2020.0,6.225322784710336,0.0
+Sergio Pérez,Racing Point,Belgian Grand Prix,2020.0,6.6627871206316875,1.0
+Valtteri Bottas,Mercedes,Belgian Grand Prix,2020.0,11.886458557888465,18.0
+Alexander Albon,Red Bull,British Grand Prix,2020.0,6.140944808357472,4.0
+Antonio Giovinazzi,Alfa Romeo,British Grand Prix,2020.0,0.8407129889611014,0.0
+Carlos Sainz,McLaren,British Grand Prix,2020.0,9.961784935807922,0.0
+Charles Leclerc,Ferrari,British Grand Prix,2020.0,8.892313169812681,12.0
+Charles Leclerc,Ferrari,British Grand Prix,2020.0,11.987072031310861,15.0
+Daniel Ricciardo,Renault,British Grand Prix,2020.0,9.228635914038797,12.0
+Daniel Ricciardo,Renault,British Grand Prix,2020.0,11.203485960086178,0.0
+Daniil Kvyat,AlphaTauri,British Grand Prix,2020.0,0.9129330067231766,1.0
+Daniil Kvyat,AlphaTauri,British Grand Prix,2020.0,0.0,0.0
+Esteban Ocon,Renault,British Grand Prix,2020.0,4.914867315745603,4.0
+George Russell,Williams,British Grand Prix,2020.0,3.9826119894079266,0.0
+Kevin Magnussen,Haas F1 Team,British Grand Prix,2020.0,2.5124924500751264,0.0
+Kimi Räikkönen,Alfa Romeo,British Grand Prix,2020.0,4.453423739885921,0.0
+Kimi Räikkönen,Alfa Romeo,British Grand Prix,2020.0,1.5466691315840246,0.0
+Lance Stroll,Racing Point,British Grand Prix,2020.0,8.132535996919948,8.0
+Lance Stroll,Racing Point,British Grand Prix,2020.0,8.127240102463716,2.0
+Lando Norris,McLaren,British Grand Prix,2020.0,11.254013966726975,10.0
+Lewis Hamilton,Mercedes,British Grand Prix,2020.0,14.171136355226047,25.0
+Lewis Hamilton,Mercedes,British Grand Prix,2020.0,13.323966104271262,18.0
+Max Verstappen,Red Bull,British Grand Prix,2020.0,12.708083763449519,18.0
+Max Verstappen,Red Bull,British Grand Prix,2020.0,11.908576562600839,25.0
+Nicholas Latifi,Williams,British Grand Prix,2020.0,1.9272424788025988,0.0
+Nico Hülkenberg,Racing Point,British Grand Prix,2020.0,10.184802142888326,6.0
+Nico Hülkenberg,Racing Point,British Grand Prix,2020.0,3.2277254478232345,0.0
+Pierre Gasly,AlphaTauri,British Grand Prix,2020.0,7.0194869635741455,0.0
+Pierre Gasly,AlphaTauri,British Grand Prix,2020.0,4.56288338405208,6.0
+Romain Grosjean,Haas F1 Team,British Grand Prix,2020.0,4.37242525372947,0.0
+Romain Grosjean,Haas F1 Team,British Grand Prix,2020.0,1.5557008511835404,0.0
+Sebastian Vettel,Ferrari,British Grand Prix,2020.0,9.22418882144087,1.0
+Sebastian Vettel,Ferrari,British Grand Prix,2020.0,8.509415931891924,0.0
+Valtteri Bottas,Mercedes,British Grand Prix,2020.0,11.978569986317103,0.0
+Valtteri Bottas,Mercedes,British Grand Prix,2020.0,12.518578358810354,15.0
+Antonio Giovinazzi,Alfa Romeo,Eifel Grand Prix,2020.0,4.179806639123908,1.0
+Carlos Sainz,McLaren,Eifel Grand Prix,2020.0,7.683317464247567,10.0
+Charles Leclerc,Ferrari,Eifel Grand Prix,2020.0,11.815851967203722,6.0
+Daniil Kvyat,AlphaTauri,Eifel Grand Prix,2020.0,2.907215189087817,0.0
+Esteban Ocon,Renault,Eifel Grand Prix,2020.0,9.630547800443974,0.0
+George Russell,Williams,Eifel Grand Prix,2020.0,2.675768288523838,0.0
+Kimi Räikkönen,Alfa Romeo,Eifel Grand Prix,2020.0,2.153772690500634,0.0
+Lando Norris,McLaren,Eifel Grand Prix,2020.0,9.049689017553886,0.0
+Lewis Hamilton,Mercedes,Eifel Grand Prix,2020.0,13.25866392928879,25.0
+Nicholas Latifi,Williams,Eifel Grand Prix,2020.0,1.8884197761012922,0.0
+Nico Hülkenberg,Racing Point,Eifel Grand Prix,2020.0,0.0,4.0
+Pierre Gasly,AlphaTauri,Eifel Grand Prix,2020.0,3.6795383776241075,8.0
+Romain Grosjean,Haas F1 Team,Eifel Grand Prix,2020.0,2.1416208322752164,2.0
+Sebastian Vettel,Ferrari,Eifel Grand Prix,2020.0,8.359379445609717,0.0
+Valtteri Bottas,Mercedes,Eifel Grand Prix,2020.0,12.474459761652813,0.0
+Antonio Giovinazzi,Alfa Romeo,Emilia Romagna Grand Prix,2020.0,0.0,1.0
+Carlos Sainz,McLaren,Emilia Romagna Grand Prix,2020.0,7.594090926437492,6.0
+Esteban Ocon,Renault,Emilia Romagna Grand Prix,2020.0,6.14222133194485,0.0
+George Russell,Williams,Emilia Romagna Grand Prix,2020.0,5.5144799368405915,0.0
+Kevin Magnussen,Haas F1 Team,Emilia Romagna Grand Prix,2020.0,0.20834917417949483,0.0
+Kimi Räikkönen,Alfa Romeo,Emilia Romagna Grand Prix,2020.0,2.848165670170539,2.0
+Lance Stroll,Racing Point,Emilia Romagna Grand Prix,2020.0,1.5079800169932234,0.0
+Lando Norris,McLaren,Emilia Romagna Grand Prix,2020.0,8.335719795950826,4.0
+Lewis Hamilton,Mercedes,Emilia Romagna Grand Prix,2020.0,13.232988124953513,25.0
+Nicholas Latifi,Williams,Emilia Romagna Grand Prix,2020.0,1.2168177101481015,0.0
+Pierre Gasly,AlphaTauri,Emilia Romagna Grand Prix,2020.0,9.316438797889976,0.0
+Romain Grosjean,Haas F1 Team,Emilia Romagna Grand Prix,2020.0,2.14772039467734,0.0
+Sebastian Vettel,Ferrari,Emilia Romagna Grand Prix,2020.0,6.237048022733692,0.0
+Sergio Pérez,Racing Point,Emilia Romagna Grand Prix,2020.0,4.42427580088353,8.0
+Valtteri Bottas,Mercedes,Emilia Romagna Grand Prix,2020.0,12.496447007423637,18.0
+Alexander Albon,Red Bull,Hungarian Grand Prix,2020.0,5.5813601939310695,10.0
+Antonio Giovinazzi,Alfa Romeo,Hungarian Grand Prix,2020.0,0.7681778024656153,0.0
+Carlos Sainz,McLaren,Hungarian Grand Prix,2020.0,8.581509542707904,2.0
+Charles Leclerc,Ferrari,Hungarian Grand Prix,2020.0,10.469103382348777,0.0
+Daniel Ricciardo,Renault,Hungarian Grand Prix,2020.0,7.0329656367213955,4.0
+Daniil Kvyat,AlphaTauri,Hungarian Grand Prix,2020.0,0.34805249784054093,0.0
+George Russell,Williams,Hungarian Grand Prix,2020.0,6.348317613880238,0.0
+Kevin Magnussen,Haas F1 Team,Hungarian Grand Prix,2020.0,12.436185928352462,1.0
+Kimi Räikkönen,Alfa Romeo,Hungarian Grand Prix,2020.0,1.6171230954068385,0.0
+Lance Stroll,Racing Point,Hungarian Grand Prix,2020.0,10.225503056896242,12.0
+Lando Norris,McLaren,Hungarian Grand Prix,2020.0,9.201332839727874,0.0
+Lewis Hamilton,Mercedes,Hungarian Grand Prix,2020.0,14.220406741223927,25.0
+Max Verstappen,Red Bull,Hungarian Grand Prix,2020.0,9.898262591251603,18.0
+Nicholas Latifi,Williams,Hungarian Grand Prix,2020.0,4.184382266922128,0.0
+Pierre Gasly,AlphaTauri,Hungarian Grand Prix,2020.0,5.183937509280611,0.0
+Romain Grosjean,Haas F1 Team,Hungarian Grand Prix,2020.0,13.607825314739024,0.0
+Sebastian Vettel,Ferrari,Hungarian Grand Prix,2020.0,12.751997554971298,8.0
+Sergio Pérez,Racing Point,Hungarian Grand Prix,2020.0,9.536159026304405,6.0
+Valtteri Bottas,Mercedes,Hungarian Grand Prix,2020.0,11.948401955471484,15.0
+Alexander Albon,Red Bull,Italian Grand Prix,2020.0,8.252210555540136,0.0
+Antonio Giovinazzi,Alfa Romeo,Italian Grand Prix,2020.0,1.4482904346586007,0.0
+Carlos Sainz,McLaren,Italian Grand Prix,2020.0,12.76134410025837,18.0
+Charles Leclerc,Ferrari,Italian Grand Prix,2020.0,5.446920581518869,0.0
+Daniel Ricciardo,Renault,Italian Grand Prix,2020.0,9.968610721142129,8.0
+Daniil Kvyat,AlphaTauri,Italian Grand Prix,2020.0,4.559662422128407,2.0
+Esteban Ocon,Renault,Italian Grand Prix,2020.0,6.306064278923085,4.0
+George Russell,Williams,Italian Grand Prix,2020.0,1.2361046072943653,0.0
+Kevin Magnussen,Haas F1 Team,Italian Grand Prix,2020.0,1.796442005799395,0.0
+Kimi Räikkönen,Alfa Romeo,Italian Grand Prix,2020.0,5.871100175344572,0.0
+Lando Norris,McLaren,Italian Grand Prix,2020.0,10.42145384441411,12.0
+Lewis Hamilton,Mercedes,Italian Grand Prix,2020.0,14.148675222674331,6.0
+Max Verstappen,Red Bull,Italian Grand Prix,2020.0,11.250780957343673,0.0
+Nicholas Latifi,Williams,Italian Grand Prix,2020.0,0.5123068283466197,0.0
+Romain Grosjean,Haas F1 Team,Italian Grand Prix,2020.0,2.380409969586608,0.0
+Sergio Pérez,Racing Point,Italian Grand Prix,2020.0,9.628600235898043,1.0
+Valtteri Bottas,Mercedes,Italian Grand Prix,2020.0,11.987884220502789,10.0
+Antonio Giovinazzi,Alfa Romeo,Portuguese Grand Prix,2020.0,2.1591281243445257,0.0
+Carlos Sainz,McLaren,Portuguese Grand Prix,2020.0,9.755328191881249,8.0
+Charles Leclerc,Ferrari,Portuguese Grand Prix,2020.0,11.950083909983656,12.0
+Daniel Ricciardo,Renault,Portuguese Grand Prix,2020.0,7.725030752420059,2.0
+Daniil Kvyat,AlphaTauri,Portuguese Grand Prix,2020.0,3.0467430263239836,0.0
+Esteban Ocon,Renault,Portuguese Grand Prix,2020.0,6.863321029378243,4.0
+George Russell,Williams,Portuguese Grand Prix,2020.0,4.790146171807387,0.0
+Kevin Magnussen,Haas F1 Team,Portuguese Grand Prix,2020.0,0.0,0.0
+Kimi Räikkönen,Alfa Romeo,Portuguese Grand Prix,2020.0,4.321109518346515,0.0
+Lando Norris,McLaren,Portuguese Grand Prix,2020.0,9.146849699140187,0.0
+Lewis Hamilton,Mercedes,Portuguese Grand Prix,2020.0,14.044118028142872,25.0
+Max Verstappen,Red Bull,Portuguese Grand Prix,2020.0,12.501627019522846,15.0
+Pierre Gasly,AlphaTauri,Portuguese Grand Prix,2020.0,5.93425746399784,10.0
+Romain Grosjean,Haas F1 Team,Portuguese Grand Prix,2020.0,0.7933480513949178,0.0
+Sebastian Vettel,Ferrari,Portuguese Grand Prix,2020.0,5.5603773078065855,1.0
+Sergio Pérez,Racing Point,Portuguese Grand Prix,2020.0,8.809270151817636,6.0
+Valtteri Bottas,Mercedes,Portuguese Grand Prix,2020.0,11.872735237058864,18.0
+Alexander Albon,Red Bull,Russian Grand Prix,2020.0,3.9564233465998573,1.0
+Antonio Giovinazzi,Alfa Romeo,Russian Grand Prix,2020.0,2.055291457892531,0.0
+Carlos Sainz,McLaren,Russian Grand Prix,2020.0,10.482774093015337,0.0
+Charles Leclerc,Ferrari,Russian Grand Prix,2020.0,7.536426328413032,8.0
+Daniel Ricciardo,Renault,Russian Grand Prix,2020.0,11.205650322625276,10.0
+Esteban Ocon,Renault,Russian Grand Prix,2020.0,9.698014337965548,6.0
+George Russell,Williams,Russian Grand Prix,2020.0,5.469929022835373,0.0
+Kevin Magnussen,Haas F1 Team,Russian Grand Prix,2020.0,0.0,0.0
+Kimi Räikkönen,Alfa Romeo,Russian Grand Prix,2020.0,2.2159433335659733,0.0
+Lance Stroll,Racing Point,Russian Grand Prix,2020.0,3.6924820829345855,0.0
+Lando Norris,McLaren,Russian Grand Prix,2020.0,9.058900716056892,0.0
+Lewis Hamilton,Mercedes,Russian Grand Prix,2020.0,14.040903356359312,15.0
+Max Verstappen,Red Bull,Russian Grand Prix,2020.0,13.218481131744468,18.0
+Nicholas Latifi,Williams,Russian Grand Prix,2020.0,0.4786774844188672,0.0
+Pierre Gasly,AlphaTauri,Russian Grand Prix,2020.0,5.803941325264678,2.0
+Romain Grosjean,Haas F1 Team,Russian Grand Prix,2020.0,2.193199686428089,0.0
+Valtteri Bottas,Mercedes,Russian Grand Prix,2020.0,11.096492836707787,25.0
+Alexander Albon,Red Bull,Sakhir Grand Prix,2020.0,6.093755645032263,8.0
+Antonio Giovinazzi,Alfa Romeo,Sakhir Grand Prix,2020.0,2.7313026104896396,0.0
+Antonio Giovinazzi,Alfa Romeo,Sakhir Grand Prix,2020.0,4.113185339481439,0.0
+Carlos Sainz,McLaren,Sakhir Grand Prix,2020.0,8.998578893596898,12.0
+Carlos Sainz,McLaren,Sakhir Grand Prix,2020.0,4.074607083597754,10.0
+Charles Leclerc,Ferrari,Sakhir Grand Prix,2020.0,11.72804708973632,0.0
+Daniel Ricciardo,Renault,Sakhir Grand Prix,2020.0,10.234984023418919,6.0
+Daniil Kvyat,AlphaTauri,Sakhir Grand Prix,2020.0,5.0749427638481635,0.0
+Daniil Kvyat,AlphaTauri,Sakhir Grand Prix,2020.0,7.8757794830253935,6.0
+Esteban Ocon,Renault,Sakhir Grand Prix,2020.0,6.826640515099075,18.0
+Esteban Ocon,Renault,Sakhir Grand Prix,2020.0,9.675140284382406,2.0
+George Russell,Mercedes,Sakhir Grand Prix,2020.0,11.71000386915415,2.0
+Jack Aitken,Williams,Sakhir Grand Prix,2020.0,2.5805054211713085,0.0
+Kevin Magnussen,Haas F1 Team,Sakhir Grand Prix,2020.0,1.5175110411267017,0.0
+Kevin Magnussen,Haas F1 Team,Sakhir Grand Prix,2020.0,0.0,0.0
+Kimi Räikkönen,Alfa Romeo,Sakhir Grand Prix,2020.0,3.553768431149696,0.0
+Kimi Räikkönen,Alfa Romeo,Sakhir Grand Prix,2020.0,2.791332491494647,0.0
+Lance Stroll,Racing Point,Sakhir Grand Prix,2020.0,2.954835139802495,0.0
+Lance Stroll,Racing Point,Sakhir Grand Prix,2020.0,5.040898969430777,15.0
+Lando Norris,McLaren,Sakhir Grand Prix,2020.0,8.241815356081302,12.0
+Lando Norris,McLaren,Sakhir Grand Prix,2020.0,1.1576371940666113,1.0
+Max Verstappen,Red Bull,Sakhir Grand Prix,2020.0,12.433171138506278,0.0
+Max Verstappen,Red Bull,Sakhir Grand Prix,2020.0,12.470242399699911,18.0
+Nicholas Latifi,Williams,Sakhir Grand Prix,2020.0,0.36047733062352616,0.0
+Nicholas Latifi,Williams,Sakhir Grand Prix,2020.0,3.351966250225156,0.0
+Pierre Gasly,AlphaTauri,Sakhir Grand Prix,2020.0,5.701628854838037,0.0
+Pietro Fittipaldi,Haas F1 Team,Sakhir Grand Prix,2020.0,0.0,0.0
+Sebastian Vettel,Ferrari,Sakhir Grand Prix,2020.0,6.836732894588181,0.0
+Sebastian Vettel,Ferrari,Sakhir Grand Prix,2020.0,8.313941723792182,0.0
+Sergio Pérez,Racing Point,Sakhir Grand Prix,2020.0,8.597825120482765,0.0
+Sergio Pérez,Racing Point,Sakhir Grand Prix,2020.0,8.603121014939,25.0
+Valtteri Bottas,Mercedes,Sakhir Grand Prix,2020.0,12.397246673097877,4.0
+Valtteri Bottas,Mercedes,Sakhir Grand Prix,2020.0,11.722192991970678,4.0
+Alexander Albon,Red Bull,Spanish Grand Prix,2020.0,10.314350022340816,4.0
+Antonio Giovinazzi,Alfa Romeo,Spanish Grand Prix,2020.0,0.0,0.0
+Charles Leclerc,Ferrari,Spanish Grand Prix,2020.0,8.34034261590563,0.0
+Daniel Ricciardo,Renault,Spanish Grand Prix,2020.0,5.581906498633565,0.0
+Daniil Kvyat,AlphaTauri,Spanish Grand Prix,2020.0,3.8156692752956216,0.0
+Esteban Ocon,Renault,Spanish Grand Prix,2020.0,4.037199252780201,0.0
+Kevin Magnussen,Haas F1 Team,Spanish Grand Prix,2020.0,1.0100817033167424,0.0
+Kimi Räikkönen,Alfa Romeo,Spanish Grand Prix,2020.0,5.757145606761002,0.0
+Lance Stroll,Racing Point,Spanish Grand Prix,2020.0,8.65793424077128,12.0
+Lando Norris,McLaren,Spanish Grand Prix,2020.0,9.105676958350674,1.0
+Lewis Hamilton,Mercedes,Spanish Grand Prix,2020.0,14.045312443003228,25.0
+Max Verstappen,Red Bull,Spanish Grand Prix,2020.0,12.561076273401769,18.0
+Pierre Gasly,AlphaTauri,Spanish Grand Prix,2020.0,5.1147611001845785,2.0
+Sebastian Vettel,Ferrari,Spanish Grand Prix,2020.0,8.436550964231438,6.0
+Sergio Pérez,Racing Point,Spanish Grand Prix,2020.0,9.519941561770706,10.0
+Valtteri Bottas,Mercedes,Spanish Grand Prix,2020.0,11.879225546375451,15.0
+Alexander Albon,Red Bull,Styrian Grand Prix,2020.0,12.077620292047841,0.0
+Antonio Giovinazzi,Alfa Romeo,Styrian Grand Prix,2020.0,1.6627644622279245,2.0
+Carlos Sainz,McLaren,Styrian Grand Prix,2020.0,12.822237188596928,2.0
+Charles Leclerc,Ferrari,Styrian Grand Prix,2020.0,5.010172453014045,0.0
+Charles Leclerc,Ferrari,Styrian Grand Prix,2020.0,9.99769499648799,18.0
+Daniel Ricciardo,Renault,Styrian Grand Prix,2020.0,7.948735874308641,0.0
+Daniel Ricciardo,Renault,Styrian Grand Prix,2020.0,9.272363764281872,4.0
+Daniil Kvyat,AlphaTauri,Styrian Grand Prix,2020.0,3.2810399371250325,0.0
+Daniil Kvyat,AlphaTauri,Styrian Grand Prix,2020.0,3.2810399371250325,1.0
+Esteban Ocon,Renault,Styrian Grand Prix,2020.0,11.338592227366888,0.0
+Esteban Ocon,Renault,Styrian Grand Prix,2020.0,5.032737688375945,4.0
+George Russell,Williams,Styrian Grand Prix,2020.0,7.189945329080215,0.0
+Kevin Magnussen,Haas F1 Team,Styrian Grand Prix,2020.0,1.1902252546951029,0.0
+Kimi Räikkönen,Alfa Romeo,Styrian Grand Prix,2020.0,2.477286441203633,0.0
+Lance Stroll,Racing Point,Styrian Grand Prix,2020.0,6.1431589620970755,0.0
+Lance Stroll,Racing Point,Styrian Grand Prix,2020.0,3.908810087694262,6.0
+Lando Norris,McLaren,Styrian Grand Prix,2020.0,8.634598353654885,10.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2020.0,11.42991516966059,12.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2020.0,14.31019030568132,25.0
+Max Verstappen,Red Bull,Styrian Grand Prix,2020.0,13.503655764435178,0.0
+Max Verstappen,Red Bull,Styrian Grand Prix,2020.0,13.440105030960378,15.0
+Nicholas Latifi,Williams,Styrian Grand Prix,2020.0,0.7956274838469769,0.0
+Nicholas Latifi,Williams,Styrian Grand Prix,2020.0,2.1669184239263077,0.0
+Pierre Gasly,AlphaTauri,Styrian Grand Prix,2020.0,3.9977562338708728,6.0
+Romain Grosjean,Haas F1 Team,Styrian Grand Prix,2020.0,13.713496562565119,0.0
+Sebastian Vettel,Ferrari,Styrian Grand Prix,2020.0,8.6802452490846,1.0
+Sergio Pérez,Racing Point,Styrian Grand Prix,2020.0,0.3921498656440258,8.0
+Valtteri Bottas,Mercedes,Styrian Grand Prix,2020.0,12.811213248496395,25.0
+Valtteri Bottas,Mercedes,Styrian Grand Prix,2020.0,10.656302790937081,18.0
+Antonio Giovinazzi,Alfa Romeo,Turkish Grand Prix,2020.0,6.919601315392623,0.0
+Carlos Sainz,McLaren,Turkish Grand Prix,2020.0,3.9650006359086345,10.0
+Charles Leclerc,Ferrari,Turkish Grand Prix,2020.0,6.011471309236505,12.0
+Daniel Ricciardo,Renault,Turkish Grand Prix,2020.0,11.179087710477683,1.0
+Esteban Ocon,Renault,Turkish Grand Prix,2020.0,9.631732517396204,0.0
+George Russell,Williams,Turkish Grand Prix,2020.0,14.565945352224654,0.0
+Kevin Magnussen,Haas F1 Team,Turkish Grand Prix,2020.0,3.033398467416113,0.0
+Lance Stroll,Racing Point,Turkish Grand Prix,2020.0,11.406615683332067,2.0
+Lando Norris,McLaren,Turkish Grand Prix,2020.0,4.637782877490938,4.0
+Lewis Hamilton,Mercedes,Turkish Grand Prix,2020.0,10.461659874291906,25.0
+Max Verstappen,Red Bull,Turkish Grand Prix,2020.0,13.260765147527907,8.0
+Nicholas Latifi,Williams,Turkish Grand Prix,2020.0,14.578104040650791,0.0
+Pierre Gasly,AlphaTauri,Turkish Grand Prix,2020.0,0.0,0.0
+Romain Grosjean,Haas F1 Team,Turkish Grand Prix,2020.0,1.409497029081679,0.0
+Sebastian Vettel,Ferrari,Turkish Grand Prix,2020.0,8.363212109790062,15.0
+Sergio Pérez,Racing Point,Turkish Grand Prix,2020.0,10.113712546772177,18.0
+Valtteri Bottas,Mercedes,Turkish Grand Prix,2020.0,6.81836414846013,0.0
+Antonio Giovinazzi,Alfa Romeo,Tuscan Grand Prix,2020.0,2.083141322675033,0.0
+Carlos Sainz,McLaren,Tuscan Grand Prix,2020.0,8.353065553010406,0.0
+Charles Leclerc,Ferrari,Tuscan Grand Prix,2020.0,11.081209775535772,4.0
+Daniil Kvyat,AlphaTauri,Tuscan Grand Prix,2020.0,3.783503161643757,6.0
+Esteban Ocon,Renault,Tuscan Grand Prix,2020.0,7.65304010926035,0.0
+Kevin Magnussen,Haas F1 Team,Tuscan Grand Prix,2020.0,0.0,0.0
+Kimi Räikkönen,Alfa Romeo,Tuscan Grand Prix,2020.0,6.630404583082486,2.0
+Lance Stroll,Racing Point,Tuscan Grand Prix,2020.0,7.942770604307866,0.0
+Lando Norris,McLaren,Tuscan Grand Prix,2020.0,6.876233231489629,8.0
+Lewis Hamilton,Mercedes,Tuscan Grand Prix,2020.0,14.13495190184473,25.0
+Max Verstappen,Red Bull,Tuscan Grand Prix,2020.0,12.565981420943537,0.0
+Nicholas Latifi,Williams,Tuscan Grand Prix,2020.0,1.176285135872335,0.0
+Romain Grosjean,Haas F1 Team,Tuscan Grand Prix,2020.0,3.0337964881998567,0.0
+Sebastian Vettel,Ferrari,Tuscan Grand Prix,2020.0,6.408351226707259,1.0
+Sergio Pérez,Racing Point,Tuscan Grand Prix,2020.0,7.46526235196536,10.0
+Valtteri Bottas,Mercedes,Tuscan Grand Prix,2020.0,11.878834799460988,18.0
+Antonio Giovinazzi,Alfa Romeo,70th Anniversary Grand Prix,2021.0,3.4694268948512685,0.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2021.0,11.735510801180299,18.0
+George Russell,Williams,70th Anniversary Grand Prix,2021.0,6.121628520139061,0.0
+Kimi Räikkönen,Alfa Romeo,70th Anniversary Grand Prix,2021.0,6.399140122964538,0.0
+Lando Norris,McLaren,70th Anniversary Grand Prix,2021.0,11.103074731264845,12.0
+Lewis Hamilton,Mercedes,70th Anniversary Grand Prix,2021.0,13.300128335758734,25.0
+Max Verstappen,Red Bull,70th Anniversary Grand Prix,2021.0,13.886068312416855,0.0
+Nicholas Latifi,Williams,70th Anniversary Grand Prix,2021.0,2.544035077451752,0.0
+Pierre Gasly,AlphaTauri,70th Anniversary Grand Prix,2021.0,4.348393415115151,0.0
+Valtteri Bottas,Mercedes,70th Anniversary Grand Prix,2021.0,11.022827655550058,15.0
+Antonio Giovinazzi,Alfa Romeo,Abu Dhabi Grand Prix,2021.0,4.360427531731806,0.0
+Carlos Sainz,Ferrari,Abu Dhabi Grand Prix,2021.0,11.182268367424685,15.0
+Charles Leclerc,Ferrari,Abu Dhabi Grand Prix,2021.0,9.86274598007724,1.0
+Daniel Ricciardo,McLaren,Abu Dhabi Grand Prix,2021.0,7.674774146219125,0.0
+Esteban Ocon,Alpine F1 Team,Abu Dhabi Grand Prix,2021.0,5.826037593006137,2.0
+Kimi Räikkönen,Alfa Romeo,Abu Dhabi Grand Prix,2021.0,2.9591362669015138,0.0
+Lance Stroll,Aston Martin,Abu Dhabi Grand Prix,2021.0,4.211086783615947,0.0
+Lando Norris,McLaren,Abu Dhabi Grand Prix,2021.0,12.751215413344198,6.0
+Lewis Hamilton,Mercedes,Abu Dhabi Grand Prix,2021.0,13.396917666246821,18.0
+Max Verstappen,Red Bull,Abu Dhabi Grand Prix,2021.0,13.91401101497391,25.0
+Mick Schumacher,Haas F1 Team,Abu Dhabi Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Abu Dhabi Grand Prix,2021.0,3.46681108106969,0.0
+Nikita Mazepin,Haas F1 Team,Abu Dhabi Grand Prix,2021.0,0.0,0.0
+Sebastian Vettel,Aston Martin,Abu Dhabi Grand Prix,2021.0,4.220398725213128,0.0
+Sergio Pérez,Red Bull,Abu Dhabi Grand Prix,2021.0,11.86650643632732,0.0
+Valtteri Bottas,Mercedes,Abu Dhabi Grand Prix,2021.0,8.922339372828965,8.0
+Yuki Tsunoda,AlphaTauri,Abu Dhabi Grand Prix,2021.0,6.61851948964337,12.0
+Antonio Giovinazzi,Alfa Romeo,Austrian Grand Prix,2021.0,3.386053278144744,0.0
+Antonio Giovinazzi,Alfa Romeo,Austrian Grand Prix,2021.0,3.5978890563940773,0.0
+Carlos Sainz,Ferrari,Austrian Grand Prix,2021.0,7.571230122803628,10.0
+Carlos Sainz,Ferrari,Austrian Grand Prix,2021.0,6.364111910867528,8.0
+Charles Leclerc,Ferrari,Austrian Grand Prix,2021.0,6.087535007312947,4.0
+Charles Leclerc,Ferrari,Austrian Grand Prix,2021.0,9.86264344439456,6.0
+Daniel Ricciardo,McLaren,Austrian Grand Prix,2021.0,5.630974936558032,6.0
+Daniel Ricciardo,McLaren,Austrian Grand Prix,2021.0,5.816331242526198,0.0
+Esteban Ocon,Alpine F1 Team,Austrian Grand Prix,2021.0,0.34077129700613196,0.0
+Esteban Ocon,Alpine F1 Team,Austrian Grand Prix,2021.0,0.0494971019132985,0.0
+Fernando Alonso,Alpine F1 Team,Austrian Grand Prix,2021.0,8.314695008098248,2.0
+Fernando Alonso,Alpine F1 Team,Austrian Grand Prix,2021.0,3.946619253961053,1.0
+George Russell,Williams,Austrian Grand Prix,2021.0,9.003264350753001,0.0
+George Russell,Williams,Austrian Grand Prix,2021.0,7.737891299798336,0.0
+Kimi Räikkönen,Alfa Romeo,Austrian Grand Prix,2021.0,4.494497399441401,0.0
+Lance Stroll,Aston Martin,Austrian Grand Prix,2021.0,7.1071470673227,4.0
+Lando Norris,McLaren,Austrian Grand Prix,2021.0,12.751112877661518,10.0
+Lewis Hamilton,Mercedes,Austrian Grand Prix,2021.0,12.036115979397279,12.0
+Max Verstappen,Red Bull,Austrian Grand Prix,2021.0,13.972163318309798,25.0
+Mick Schumacher,Haas F1 Team,Austrian Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Austrian Grand Prix,2021.0,3.503779806580644,0.0
+Nikita Mazepin,Haas F1 Team,Austrian Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Austrian Grand Prix,2021.0,7.854771929522072,2.0
+Pierre Gasly,AlphaTauri,Austrian Grand Prix,2021.0,8.108974863421272,0.0
+Sebastian Vettel,Aston Martin,Austrian Grand Prix,2021.0,7.217081003588312,0.0
+Sebastian Vettel,Aston Martin,Austrian Grand Prix,2021.0,5.173384329609899,0.0
+Sergio Pérez,Red Bull,Austrian Grand Prix,2021.0,12.062351995525274,12.0
+Sergio Pérez,Red Bull,Austrian Grand Prix,2021.0,12.687094679318259,8.0
+Valtteri Bottas,Mercedes,Austrian Grand Prix,2021.0,9.72174403799497,18.0
+Valtteri Bottas,Mercedes,Austrian Grand Prix,2021.0,9.94417160515677,15.0
+Yuki Tsunoda,AlphaTauri,Austrian Grand Prix,2021.0,4.569424385526043,1.0
+Yuki Tsunoda,AlphaTauri,Austrian Grand Prix,2021.0,7.200792482103807,0.0
+Antonio Giovinazzi,Alfa Romeo,Azerbaijan Grand Prix,2021.0,0.0,0.0
+Carlos Sainz,Ferrari,Azerbaijan Grand Prix,2021.0,11.11043431319241,4.0
+Esteban Ocon,Alpine F1 Team,Azerbaijan Grand Prix,2021.0,3.6151807645832488,0.0
+George Russell,Williams,Azerbaijan Grand Prix,2021.0,4.097591227960227,0.0
+Lando Norris,McLaren,Azerbaijan Grand Prix,2021.0,8.34837686616836,10.0
+Lewis Hamilton,Mercedes,Azerbaijan Grand Prix,2021.0,13.288012350820914,0.0
+Max Verstappen,Red Bull,Azerbaijan Grand Prix,2021.0,12.523844965224637,0.0
+Mick Schumacher,Haas F1 Team,Azerbaijan Grand Prix,2021.0,0.44761822391022466,0.0
+Nicholas Latifi,Williams,Azerbaijan Grand Prix,2021.0,3.384385237924948,0.0
+Nikita Mazepin,Haas F1 Team,Azerbaijan Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Azerbaijan Grand Prix,2021.0,9.302616395826343,15.0
+Yuki Tsunoda,AlphaTauri,Azerbaijan Grand Prix,2021.0,7.536844836684178,6.0
+Antonio Giovinazzi,Alfa Romeo,Bahrain Grand Prix,2021.0,5.74661681168484,0.0
+Carlos Sainz,Ferrari,Bahrain Grand Prix,2021.0,9.169357716688676,4.0
+Daniel Ricciardo,McLaren,Bahrain Grand Prix,2021.0,10.712936772431858,6.0
+Esteban Ocon,Alpine F1 Team,Bahrain Grand Prix,2021.0,0.9858107508117308,0.0
+Fernando Alonso,Alpine F1 Team,Bahrain Grand Prix,2021.0,7.56725994399958,0.0
+George Russell,Williams,Bahrain Grand Prix,2021.0,4.247874355541006,0.0
+Kimi Räikkönen,Alfa Romeo,Bahrain Grand Prix,2021.0,5.9443399485519155,0.0
+Lance Stroll,Aston Martin,Bahrain Grand Prix,2021.0,6.391487369961433,1.0
+Lando Norris,McLaren,Bahrain Grand Prix,2021.0,9.938797561759504,12.0
+Lewis Hamilton,Mercedes,Bahrain Grand Prix,2021.0,13.533621578613891,25.0
+Max Verstappen,Red Bull,Bahrain Grand Prix,2021.0,14.17781639429058,18.0
+Mick Schumacher,Haas F1 Team,Bahrain Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Bahrain Grand Prix,2021.0,2.8304872648692436,0.0
+Sebastian Vettel,Aston Martin,Bahrain Grand Prix,2021.0,0.8785642900476527,0.0
+Sergio Pérez,Red Bull,Bahrain Grand Prix,2021.0,14.888781379171355,10.0
+Valtteri Bottas,Mercedes,Bahrain Grand Prix,2021.0,11.314575737423782,15.0
+Yuki Tsunoda,AlphaTauri,Bahrain Grand Prix,2021.0,3.1495835875282925,2.0
+Antonio Giovinazzi,Alfa Romeo,Belgian Grand Prix,2021.0,4.1768226672713125,0.0
+Carlos Sainz,Ferrari,Belgian Grand Prix,2021.0,6.731209743495431,1.0
+Daniel Ricciardo,McLaren,Belgian Grand Prix,2021.0,11.83276556361466,12.0
+Esteban Ocon,Alpine F1 Team,Belgian Grand Prix,2021.0,6.436644034938095,6.0
+Fernando Alonso,Alpine F1 Team,Belgian Grand Prix,2021.0,5.118520181893869,0.0
+George Russell,Williams,Belgian Grand Prix,2021.0,13.171950092743682,18.0
+Kimi Räikkönen,Alfa Romeo,Belgian Grand Prix,2021.0,15.577892680847308,0.0
+Lance Stroll,Aston Martin,Belgian Grand Prix,2021.0,0.0,0.0
+Lewis Hamilton,Mercedes,Belgian Grand Prix,2021.0,12.456172756587511,15.0
+Mick Schumacher,Haas F1 Team,Belgian Grand Prix,2021.0,0.07105269087033927,0.0
+Nicholas Latifi,Williams,Belgian Grand Prix,2021.0,7.4765174536906915,2.0
+Nikita Mazepin,Haas F1 Team,Belgian Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Belgian Grand Prix,2021.0,7.951952006924625,8.0
+Valtteri Bottas,Mercedes,Belgian Grand Prix,2021.0,3.862425748475427,0.0
+Yuki Tsunoda,AlphaTauri,Belgian Grand Prix,2021.0,0.669068458685182,0.0
+Antonio Giovinazzi,Alfa Romeo,British Grand Prix,2021.0,3.4694268948512685,0.0
+Carlos Sainz,Ferrari,British Grand Prix,2021.0,7.527502272560552,8.0
+Charles Leclerc,Ferrari,British Grand Prix,2021.0,11.735510801180299,18.0
+Daniel Ricciardo,McLaren,British Grand Prix,2021.0,10.437076373926834,10.0
+Esteban Ocon,Alpine F1 Team,British Grand Prix,2021.0,5.782207207080383,2.0
+Fernando Alonso,Alpine F1 Team,British Grand Prix,2021.0,8.710353535679987,6.0
+George Russell,Williams,British Grand Prix,2021.0,6.121628520139061,0.0
+Kimi Räikkönen,Alfa Romeo,British Grand Prix,2021.0,6.399140122964538,0.0
+Lance Stroll,Aston Martin,British Grand Prix,2021.0,3.367749196841512,4.0
+Lando Norris,McLaren,British Grand Prix,2021.0,11.103074731264845,12.0
+Lewis Hamilton,Mercedes,British Grand Prix,2021.0,13.300128335758734,25.0
+Max Verstappen,Red Bull,British Grand Prix,2021.0,13.886068312416855,0.0
+Mick Schumacher,Haas F1 Team,British Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,British Grand Prix,2021.0,2.544035077451752,0.0
+Nikita Mazepin,Haas F1 Team,British Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,British Grand Prix,2021.0,4.348393415115151,0.0
+Sergio Pérez,Red Bull,British Grand Prix,2021.0,14.597033297297632,0.0
+Valtteri Bottas,Mercedes,British Grand Prix,2021.0,11.022827655550058,15.0
+Antonio Giovinazzi,Alfa Romeo,Dutch Grand Prix,2021.0,9.089914477126204,0.0
+Carlos Sainz,Ferrari,Dutch Grand Prix,2021.0,10.389520291308125,6.0
+Daniel Ricciardo,McLaren,Dutch Grand Prix,2021.0,7.602094854107746,0.0
+Esteban Ocon,Alpine F1 Team,Dutch Grand Prix,2021.0,6.462835295987476,2.0
+Fernando Alonso,Alpine F1 Team,Dutch Grand Prix,2021.0,7.320805478327498,8.0
+George Russell,Williams,Dutch Grand Prix,2021.0,6.87639913143342,0.0
+Lando Norris,McLaren,Dutch Grand Prix,2021.0,5.446072914443594,1.0
+Lewis Hamilton,Mercedes,Dutch Grand Prix,2021.0,13.276575324029343,18.0
+Max Verstappen,Red Bull,Dutch Grand Prix,2021.0,13.915474245249799,25.0
+Nikita Mazepin,Haas F1 Team,Dutch Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Dutch Grand Prix,2021.0,9.280587580122305,12.0
+Robert Kubica,Alfa Romeo,Dutch Grand Prix,2021.0,4.29295467859182,0.0
+Yuki Tsunoda,AlphaTauri,Dutch Grand Prix,2021.0,2.1618767600260957,0.0
+Antonio Giovinazzi,Alfa Romeo,Emilia Romagna Grand Prix,2021.0,2.0283415532791196,0.0
+Carlos Sainz,Ferrari,Emilia Romagna Grand Prix,2021.0,7.028913282155386,10.0
+Charles Leclerc,Ferrari,Emilia Romagna Grand Prix,2021.0,11.824593233374483,12.0
+Daniel Ricciardo,McLaren,Emilia Romagna Grand Prix,2021.0,10.732698689914116,8.0
+Fernando Alonso,Alpine F1 Team,Emilia Romagna Grand Prix,2021.0,3.1977625295197116,1.0
+George Russell,Williams,Emilia Romagna Grand Prix,2021.0,6.3378124192828444,0.0
+Kimi Räikkönen,Alfa Romeo,Emilia Romagna Grand Prix,2021.0,4.402158725530442,0.0
+Lance Stroll,Aston Martin,Emilia Romagna Grand Prix,2021.0,6.231188875931759,4.0
+Lando Norris,McLaren,Emilia Romagna Grand Prix,2021.0,9.82616211783593,15.0
+Lewis Hamilton,Mercedes,Emilia Romagna Grand Prix,2021.0,14.051024712939533,18.0
+Max Verstappen,Red Bull,Emilia Romagna Grand Prix,2021.0,12.736257165937541,25.0
+Mick Schumacher,Haas F1 Team,Emilia Romagna Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Emilia Romagna Grand Prix,2021.0,4.941608906436018,0.0
+Nikita Mazepin,Haas F1 Team,Emilia Romagna Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Emilia Romagna Grand Prix,2021.0,8.61489940102213,6.0
+Sebastian Vettel,Aston Martin,Emilia Romagna Grand Prix,2021.0,15.029611270365661,0.0
+Sergio Pérez,Red Bull,Emilia Romagna Grand Prix,2021.0,13.436630361905848,0.0
+Valtteri Bottas,Mercedes,Emilia Romagna Grand Prix,2021.0,7.7551773127050625,0.0
+Yuki Tsunoda,AlphaTauri,Emilia Romagna Grand Prix,2021.0,0.0,0.0
+Antonio Giovinazzi,Alfa Romeo,French Grand Prix,2021.0,5.067349417370957,0.0
+Carlos Sainz,Ferrari,French Grand Prix,2021.0,11.248559885902155,0.0
+Charles Leclerc,Ferrari,French Grand Prix,2021.0,9.775456559323944,0.0
+Daniel Ricciardo,McLaren,French Grand Prix,2021.0,7.804616398171395,8.0
+Esteban Ocon,Alpine F1 Team,French Grand Prix,2021.0,4.579293010422843,0.0
+Fernando Alonso,Alpine F1 Team,French Grand Prix,2021.0,7.4650721833725795,4.0
+George Russell,Williams,French Grand Prix,2021.0,4.828684117725555,0.0
+Kimi Räikkönen,Alfa Romeo,French Grand Prix,2021.0,3.7296088860154666,0.0
+Lando Norris,McLaren,French Grand Prix,2021.0,9.111245122671088,10.0
+Lewis Hamilton,Mercedes,French Grand Prix,2021.0,13.426137923530659,18.0
+Mick Schumacher,Haas F1 Team,French Grand Prix,2021.0,1.676352330518935,0.0
+Nikita Mazepin,Haas F1 Team,French Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,French Grand Prix,2021.0,8.101226395194155,6.0
+Sebastian Vettel,Aston Martin,French Grand Prix,2021.0,6.552814484830812,2.0
+Sergio Pérez,Red Bull,French Grand Prix,2021.0,12.01223637164829,15.0
+Valtteri Bottas,Mercedes,French Grand Prix,2021.0,11.212387976796782,12.0
+Yuki Tsunoda,AlphaTauri,French Grand Prix,2021.0,12.233525501912967,0.0
+Antonio Giovinazzi,Alfa Romeo,Hungarian Grand Prix,2021.0,14.044342529202753,0.0
+Carlos Sainz,Ferrari,Hungarian Grand Prix,2021.0,3.918173899513953,15.0
+Charles Leclerc,Ferrari,Hungarian Grand Prix,2021.0,9.61133509902205,0.0
+Daniel Ricciardo,McLaren,Hungarian Grand Prix,2021.0,6.838339789792702,0.0
+Esteban Ocon,Alpine F1 Team,Hungarian Grand Prix,2021.0,6.413853121221381,25.0
+Fernando Alonso,Alpine F1 Team,Hungarian Grand Prix,2021.0,7.197680781174135,12.0
+George Russell,Williams,Hungarian Grand Prix,2021.0,2.546723461057979,4.0
+Kimi Räikkönen,Alfa Romeo,Hungarian Grand Prix,2021.0,6.305421358644119,1.0
+Lance Stroll,Aston Martin,Hungarian Grand Prix,2021.0,4.730055683900156,0.0
+Lando Norris,McLaren,Hungarian Grand Prix,2021.0,10.416388649888843,0.0
+Lewis Hamilton,Mercedes,Hungarian Grand Prix,2021.0,13.878815305337397,18.0
+Max Verstappen,Red Bull,Hungarian Grand Prix,2021.0,12.394579135735937,2.0
+Mick Schumacher,Haas F1 Team,Hungarian Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Hungarian Grand Prix,2021.0,1.8043900515134166,6.0
+Nikita Mazepin,Haas F1 Team,Hungarian Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Hungarian Grand Prix,2021.0,8.50094483243856,10.0
+Sebastian Vettel,Aston Martin,Hungarian Grand Prix,2021.0,7.6408263393430005,0.0
+Sergio Pérez,Red Bull,Hungarian Grand Prix,2021.0,11.697181919343747,0.0
+Valtteri Bottas,Mercedes,Hungarian Grand Prix,2021.0,11.659769464147288,0.0
+Yuki Tsunoda,AlphaTauri,Hungarian Grand Prix,2021.0,0.7257159618119682,8.0
+Antonio Giovinazzi,Alfa Romeo,Italian Grand Prix,2021.0,9.053935095110246,0.0
+Carlos Sainz,Ferrari,Italian Grand Prix,2021.0,10.353540909292168,8.0
+Charles Leclerc,Ferrari,Italian Grand Prix,2021.0,10.982389095710936,12.0
+Daniel Ricciardo,McLaren,Italian Grand Prix,2021.0,13.252523221745983,25.0
+Esteban Ocon,Alpine F1 Team,Italian Grand Prix,2021.0,3.5995397225131205,1.0
+Fernando Alonso,Alpine F1 Team,Italian Grand Prix,2021.0,6.485318895462859,4.0
+George Russell,Williams,Italian Grand Prix,2021.0,4.706692869683081,2.0
+Lance Stroll,Aston Martin,Italian Grand Prix,2021.0,6.8397140951910425,6.0
+Max Verstappen,Red Bull,Italian Grand Prix,2021.0,13.858311285408908,0.0
+Nicholas Latifi,Williams,Italian Grand Prix,2021.0,5.412440869833233,0.0
+Nikita Mazepin,Haas F1 Team,Italian Grand Prix,2021.0,0.7937896402926938,0.0
+Pierre Gasly,AlphaTauri,Italian Grand Prix,2021.0,12.056036706196045,0.0
+Sebastian Vettel,Aston Martin,Italian Grand Prix,2021.0,6.923168559175489,0.0
+Antonio Giovinazzi,Alfa Romeo,Mexico City Grand Prix,2021.0,6.569430382964342,0.0
+Carlos Sainz,Ferrari,Mexico City Grand Prix,2021.0,10.706944177517126,8.0
+Charles Leclerc,Ferrari,Mexico City Grand Prix,2021.0,9.239136745395147,10.0
+Daniel Ricciardo,McLaren,Mexico City Grand Prix,2021.0,9.910256469732829,0.0
+Esteban Ocon,Alpine F1 Team,Mexico City Grand Prix,2021.0,0.0,0.0
+Kimi Räikkönen,Alfa Romeo,Mexico City Grand Prix,2021.0,8.773778932616198,4.0
+Lance Stroll,Aston Martin,Mexico City Grand Prix,2021.0,0.0,0.0
+Lando Norris,McLaren,Mexico City Grand Prix,2021.0,2.200224141820315,1.0
+Lewis Hamilton,Mercedes,Mexico City Grand Prix,2021.0,13.599295104694578,18.0
+Max Verstappen,Red Bull,Mexico City Grand Prix,2021.0,12.713322146604934,25.0
+Mick Schumacher,Haas F1 Team,Mexico City Grand Prix,2021.0,2.5378029289506374,0.0
+Nicholas Latifi,Williams,Mexico City Grand Prix,2021.0,5.755252349145726,0.0
+Nikita Mazepin,Haas F1 Team,Mexico City Grand Prix,2021.0,1.8301904313292023,0.0
+Pierre Gasly,AlphaTauri,Mexico City Grand Prix,2021.0,8.90442215460729,12.0
+Sebastian Vettel,Aston Martin,Mexico City Grand Prix,2021.0,8.589607928461213,6.0
+Sergio Pérez,Red Bull,Mexico City Grand Prix,2021.0,11.94707830228171,15.0
+Valtteri Bottas,Mercedes,Mexico City Grand Prix,2021.0,12.7038771534777,0.0
+Antonio Giovinazzi,Alfa Romeo,Monaco Grand Prix,2021.0,6.945554238546142,1.0
+Carlos Sainz,Ferrari,Monaco Grand Prix,2021.0,11.840208078297742,18.0
+Charles Leclerc,Ferrari,Monaco Grand Prix,2021.0,13.903897938270644,0.0
+Esteban Ocon,Alpine F1 Team,Monaco Grand Prix,2021.0,4.360842213057281,2.0
+Fernando Alonso,Alpine F1 Team,Monaco Grand Prix,2021.0,1.6343561587400912,0.0
+George Russell,Williams,Monaco Grand Prix,2021.0,4.0490413700418095,0.0
+Kimi Räikkönen,Alfa Romeo,Monaco Grand Prix,2021.0,5.719027490771553,0.0
+Lance Stroll,Aston Martin,Monaco Grand Prix,2021.0,4.074815188096555,4.0
+Lewis Hamilton,Mercedes,Monaco Grand Prix,2021.0,9.71326109526385,6.0
+Max Verstappen,Red Bull,Monaco Grand Prix,2021.0,13.264210519242436,25.0
+Mick Schumacher,Haas F1 Team,Monaco Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Monaco Grand Prix,2021.0,1.9009937064523983,0.0
+Nikita Mazepin,Haas F1 Team,Monaco Grand Prix,2021.0,0.0,0.0
+Sebastian Vettel,Aston Martin,Monaco Grand Prix,2021.0,9.156383984467414,10.0
+Sergio Pérez,Red Bull,Monaco Grand Prix,2021.0,8.288767754469015,12.0
+Yuki Tsunoda,AlphaTauri,Monaco Grand Prix,2021.0,0.79054425001355,0.0
+Carlos Sainz,Ferrari,Portuguese Grand Prix,2021.0,11.345061005158458,0.0
+Charles Leclerc,Ferrari,Portuguese Grand Prix,2021.0,9.167776577943762,8.0
+Daniel Ricciardo,McLaren,Portuguese Grand Prix,2021.0,3.5648171300279032,2.0
+Esteban Ocon,Alpine F1 Team,Portuguese Grand Prix,2021.0,8.159628371667925,6.0
+Fernando Alonso,Alpine F1 Team,Portuguese Grand Prix,2021.0,4.596563855308419,4.0
+George Russell,Williams,Portuguese Grand Prix,2021.0,7.069503905628705,0.0
+Kimi Räikkönen,Alfa Romeo,Portuguese Grand Prix,2021.0,5.155033789701235,0.0
+Lance Stroll,Aston Martin,Portuguese Grand Prix,2021.0,1.4777166019602903,0.0
+Lando Norris,McLaren,Portuguese Grand Prix,2021.0,9.911927342563873,10.0
+Lewis Hamilton,Mercedes,Portuguese Grand Prix,2021.0,13.418045127276352,25.0
+Mick Schumacher,Haas F1 Team,Portuguese Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Portuguese Grand Prix,2021.0,2.0888441561246633,0.0
+Nikita Mazepin,Haas F1 Team,Portuguese Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Portuguese Grand Prix,2021.0,5.984562217872577,1.0
+Sebastian Vettel,Aston Martin,Portuguese Grand Prix,2021.0,7.91468865504178,0.0
+Sergio Pérez,Red Bull,Portuguese Grand Prix,2021.0,11.986931918411226,12.0
+Valtteri Bottas,Mercedes,Portuguese Grand Prix,2021.0,12.696067719501118,15.0
+Yuki Tsunoda,AlphaTauri,Portuguese Grand Prix,2021.0,2.413236373239947,0.0
+Antonio Giovinazzi,Alfa Romeo,Qatar Grand Prix,2021.0,1.5976929871764178,0.0
+Carlos Sainz,Ferrari,Qatar Grand Prix,2021.0,11.411022742470928,6.0
+Charles Leclerc,Ferrari,Qatar Grand Prix,2021.0,5.52218061164942,4.0
+Esteban Ocon,Alpine F1 Team,Qatar Grand Prix,2021.0,6.08656733478978,10.0
+Fernando Alonso,Alpine F1 Team,Qatar Grand Prix,2021.0,11.651377654423383,15.0
+George Russell,Williams,Qatar Grand Prix,2021.0,4.091017778777212,0.0
+Kimi Räikkönen,Alfa Romeo,Qatar Grand Prix,2021.0,4.38441706497139,0.0
+Lance Stroll,Aston Martin,Qatar Grand Prix,2021.0,5.101655103648807,8.0
+Lando Norris,McLaren,Qatar Grand Prix,2021.0,11.936851442555026,2.0
+Lewis Hamilton,Mercedes,Qatar Grand Prix,2021.0,14.160384519330082,25.0
+Max Verstappen,Red Bull,Qatar Grand Prix,2021.0,9.954750047394892,18.0
+Mick Schumacher,Haas F1 Team,Qatar Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Qatar Grand Prix,2021.0,2.620671743543117,0.0
+Nikita Mazepin,Haas F1 Team,Qatar Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Qatar Grand Prix,2021.0,10.948016292903025,0.0
+Sergio Pérez,Red Bull,Qatar Grand Prix,2021.0,7.04418753442482,12.0
+Valtteri Bottas,Mercedes,Qatar Grand Prix,2021.0,9.230532164718708,0.0
+Yuki Tsunoda,AlphaTauri,Qatar Grand Prix,2021.0,6.354755680259913,0.0
+Antonio Giovinazzi,Alfa Romeo,Russian Grand Prix,2021.0,2.084412633942335,0.0
+Carlos Sainz,Ferrari,Russian Grand Prix,2021.0,13.269033329316178,15.0
+Charles Leclerc,Ferrari,Russian Grand Prix,2021.0,1.2702847543843598,0.0
+Daniel Ricciardo,McLaren,Russian Grand Prix,2021.0,11.254635620683317,12.0
+Esteban Ocon,Alpine F1 Team,Russian Grand Prix,2021.0,5.826738725269348,0.0
+Fernando Alonso,Alpine F1 Team,Russian Grand Prix,2021.0,9.421994893311803,8.0
+George Russell,Williams,Russian Grand Prix,2021.0,12.64677909437467,1.0
+Kimi Räikkönen,Alfa Romeo,Russian Grand Prix,2021.0,6.385416802134937,4.0
+Lance Stroll,Aston Martin,Russian Grand Prix,2021.0,8.399803258504424,0.0
+Lando Norris,McLaren,Russian Grand Prix,2021.0,14.107319802318042,6.0
+Max Verstappen,Red Bull,Russian Grand Prix,2021.0,0.5105570610148649,18.0
+Nicholas Latifi,Williams,Russian Grand Prix,2021.0,1.9585280173915018,0.0
+Nikita Mazepin,Haas F1 Team,Russian Grand Prix,2021.0,1.6126264417759577,0.0
+Pierre Gasly,AlphaTauri,Russian Grand Prix,2021.0,4.424700300041517,0.0
+Sebastian Vettel,Aston Martin,Russian Grand Prix,2021.0,7.763188938483686,0.0
+Sergio Pérez,Red Bull,Russian Grand Prix,2021.0,8.986932432569802,2.0
+Valtteri Bottas,Mercedes,Russian Grand Prix,2021.0,1.9183007599209847,10.0
+Yuki Tsunoda,AlphaTauri,Russian Grand Prix,2021.0,3.7336495914296166,0.0
+Antonio Giovinazzi,Alfa Romeo,Sakhir Grand Prix,2021.0,5.74661681168484,0.0
+Kimi Räikkönen,Alfa Romeo,Sakhir Grand Prix,2021.0,5.9443399485519155,0.0
+Lando Norris,McLaren,Sakhir Grand Prix,2021.0,9.938797561759504,12.0
+Max Verstappen,Red Bull,Sakhir Grand Prix,2021.0,14.17781639429058,18.0
+Nicholas Latifi,Williams,Sakhir Grand Prix,2021.0,2.8304872648692436,0.0
+Valtteri Bottas,Mercedes,Sakhir Grand Prix,2021.0,11.314575737423782,15.0
+Antonio Giovinazzi,Alfa Romeo,Saudi Arabian Grand Prix,2021.0,7.262113491059788,2.0
+Carlos Sainz,Ferrari,Saudi Arabian Grand Prix,2021.0,4.273081967948014,4.0
+Charles Leclerc,Ferrari,Saudi Arabian Grand Prix,2021.0,12.118505677787306,6.0
+Daniel Ricciardo,McLaren,Saudi Arabian Grand Prix,2021.0,7.293869852895195,10.0
+Esteban Ocon,Alpine F1 Team,Saudi Arabian Grand Prix,2021.0,6.038100616737791,12.0
+Fernando Alonso,Alpine F1 Team,Saudi Arabian Grand Prix,2021.0,4.831190547274466,0.0
+George Russell,Williams,Saudi Arabian Grand Prix,2021.0,5.038006356454538,0.0
+Kimi Räikkönen,Alfa Romeo,Saudi Arabian Grand Prix,2021.0,7.496907889120496,0.0
+Lance Stroll,Aston Martin,Saudi Arabian Grand Prix,2021.0,0.8016223094967545,0.0
+Lewis Hamilton,Mercedes,Saudi Arabian Grand Prix,2021.0,14.339641262896125,25.0
+Max Verstappen,Red Bull,Saudi Arabian Grand Prix,2021.0,12.75478309862623,18.0
+Mick Schumacher,Haas F1 Team,Saudi Arabian Grand Prix,2021.0,0.0,0.0
+Nikita Mazepin,Haas F1 Team,Saudi Arabian Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Saudi Arabian Grand Prix,2021.0,8.23640611153587,8.0
+Sebastian Vettel,Aston Martin,Saudi Arabian Grand Prix,2021.0,3.140609225708949,0.0
+Sergio Pérez,Red Bull,Saudi Arabian Grand Prix,2021.0,11.459122670722227,0.0
+Yuki Tsunoda,AlphaTauri,Saudi Arabian Grand Prix,2021.0,6.724664624250357,0.0
+Antonio Giovinazzi,Alfa Romeo,Spanish Grand Prix,2021.0,4.307282911620367,0.0
+Carlos Sainz,Ferrari,Spanish Grand Prix,2021.0,10.557340008082598,6.0
+Charles Leclerc,Ferrari,Spanish Grand Prix,2021.0,11.795043194925647,12.0
+Daniel Ricciardo,McLaren,Spanish Grand Prix,2021.0,9.8877537672479,8.0
+Esteban Ocon,Alpine F1 Team,Spanish Grand Prix,2021.0,8.76438189249633,2.0
+Fernando Alonso,Alpine F1 Team,Spanish Grand Prix,2021.0,6.705005677621989,0.0
+George Russell,Williams,Spanish Grand Prix,2021.0,4.026250456325096,0.0
+Lando Norris,McLaren,Spanish Grand Prix,2021.0,8.345882722464262,4.0
+Lewis Hamilton,Mercedes,Spanish Grand Prix,2021.0,14.106208985790431,25.0
+Max Verstappen,Red Bull,Spanish Grand Prix,2021.0,13.357929283562855,18.0
+Mick Schumacher,Haas F1 Team,Spanish Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Spanish Grand Prix,2021.0,1.1740216920992033,0.0
+Pierre Gasly,AlphaTauri,Spanish Grand Prix,2021.0,3.698448813767783,1.0
+Valtteri Bottas,Mercedes,Spanish Grand Prix,2021.0,11.177686149507606,15.0
+Yuki Tsunoda,AlphaTauri,Spanish Grand Prix,2021.0,0.8048245974904693,0.0
+Antonio Giovinazzi,Alfa Romeo,Styrian Grand Prix,2021.0,3.386053278144744,0.0
+Antonio Giovinazzi,Alfa Romeo,Styrian Grand Prix,2021.0,3.5978890563940773,0.0
+Carlos Sainz,Ferrari,Styrian Grand Prix,2021.0,7.571230122803628,10.0
+Carlos Sainz,Ferrari,Styrian Grand Prix,2021.0,6.364111910867528,8.0
+Charles Leclerc,Ferrari,Styrian Grand Prix,2021.0,6.087535007312947,4.0
+Charles Leclerc,Ferrari,Styrian Grand Prix,2021.0,9.86264344439456,6.0
+Daniel Ricciardo,McLaren,Styrian Grand Prix,2021.0,5.630974936558032,6.0
+Daniel Ricciardo,McLaren,Styrian Grand Prix,2021.0,5.816331242526198,0.0
+Esteban Ocon,Alpine F1 Team,Styrian Grand Prix,2021.0,0.34077129700613196,0.0
+Esteban Ocon,Alpine F1 Team,Styrian Grand Prix,2021.0,0.0494971019132985,0.0
+Fernando Alonso,Alpine F1 Team,Styrian Grand Prix,2021.0,8.314695008098248,2.0
+Fernando Alonso,Alpine F1 Team,Styrian Grand Prix,2021.0,3.946619253961053,1.0
+George Russell,Williams,Styrian Grand Prix,2021.0,9.003264350753001,0.0
+George Russell,Williams,Styrian Grand Prix,2021.0,7.737891299798336,0.0
+Kimi Räikkönen,Alfa Romeo,Styrian Grand Prix,2021.0,4.494497399441401,0.0
+Lance Stroll,Aston Martin,Styrian Grand Prix,2021.0,7.1071470673227,4.0
+Lando Norris,McLaren,Styrian Grand Prix,2021.0,12.751112877661518,10.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2021.0,12.036115979397279,12.0
+Max Verstappen,Red Bull,Styrian Grand Prix,2021.0,13.972163318309798,25.0
+Mick Schumacher,Haas F1 Team,Styrian Grand Prix,2021.0,0.0,0.0
+Nicholas Latifi,Williams,Styrian Grand Prix,2021.0,3.503779806580644,0.0
+Nikita Mazepin,Haas F1 Team,Styrian Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Styrian Grand Prix,2021.0,7.854771929522072,2.0
+Pierre Gasly,AlphaTauri,Styrian Grand Prix,2021.0,8.108974863421272,0.0
+Sebastian Vettel,Aston Martin,Styrian Grand Prix,2021.0,7.217081003588312,0.0
+Sebastian Vettel,Aston Martin,Styrian Grand Prix,2021.0,5.173384329609899,0.0
+Sergio Pérez,Red Bull,Styrian Grand Prix,2021.0,12.062351995525274,12.0
+Sergio Pérez,Red Bull,Styrian Grand Prix,2021.0,12.687094679318259,8.0
+Valtteri Bottas,Mercedes,Styrian Grand Prix,2021.0,9.72174403799497,18.0
+Valtteri Bottas,Mercedes,Styrian Grand Prix,2021.0,9.94417160515677,15.0
+Yuki Tsunoda,AlphaTauri,Styrian Grand Prix,2021.0,4.569424385526043,1.0
+Yuki Tsunoda,AlphaTauri,Styrian Grand Prix,2021.0,7.200792482103807,0.0
+Antonio Giovinazzi,Alfa Romeo,São Paulo Grand Prix,2021.0,5.186888091642546,0.0
+Charles Leclerc,Ferrari,São Paulo Grand Prix,2021.0,10.683910645531746,10.0
+Daniel Ricciardo,McLaren,São Paulo Grand Prix,2021.0,7.214678077350268,0.0
+Fernando Alonso,Alpine F1 Team,São Paulo Grand Prix,2021.0,5.456179872366021,2.0
+George Russell,Williams,São Paulo Grand Prix,2021.0,2.909822012474961,0.0
+Kimi Räikkönen,Alfa Romeo,São Paulo Grand Prix,2021.0,15.936735949144392,0.0
+Lance Stroll,Aston Martin,São Paulo Grand Prix,2021.0,3.6874399812722913,0.0
+Lewis Hamilton,Mercedes,São Paulo Grand Prix,2021.0,7.896340109341687,25.0
+Max Verstappen,Red Bull,São Paulo Grand Prix,2021.0,13.501577996211152,18.0
+Mick Schumacher,Haas F1 Team,São Paulo Grand Prix,2021.0,0.0,0.0
+Nikita Mazepin,Haas F1 Team,São Paulo Grand Prix,2021.0,0.0,0.0
+Sebastian Vettel,Aston Martin,São Paulo Grand Prix,2021.0,8.742529305361982,0.0
+Sergio Pérez,Red Bull,São Paulo Grand Prix,2021.0,12.089407890270012,12.0
+Yuki Tsunoda,AlphaTauri,São Paulo Grand Prix,2021.0,1.79564356109355,0.0
+Antonio Giovinazzi,Alfa Romeo,Turkish Grand Prix,2021.0,2.8467654337309574,0.0
+Carlos Sainz,Ferrari,Turkish Grand Prix,2021.0,1.4461565234040812,4.0
+Charles Leclerc,Ferrari,Turkish Grand Prix,2021.0,12.600649958176454,12.0
+Daniel Ricciardo,McLaren,Turkish Grand Prix,2021.0,0.6984558393399434,0.0
+Esteban Ocon,Alpine F1 Team,Turkish Grand Prix,2021.0,3.8412137504430746,1.0
+George Russell,Williams,Turkish Grand Prix,2021.0,5.604884948143416,0.0
+Kimi Räikkönen,Alfa Romeo,Turkish Grand Prix,2021.0,3.3885488482106476,0.0
+Lance Stroll,Aston Martin,Turkish Grand Prix,2021.0,7.743202068107613,2.0
+Lando Norris,McLaren,Turkish Grand Prix,2021.0,9.818599325157919,6.0
+Lewis Hamilton,Mercedes,Turkish Grand Prix,2021.0,6.953987863790596,10.0
+Max Verstappen,Red Bull,Turkish Grand Prix,2021.0,13.475242629545878,18.0
+Mick Schumacher,Haas F1 Team,Turkish Grand Prix,2021.0,2.4154818997431655,0.0
+Nicholas Latifi,Williams,Turkish Grand Prix,2021.0,4.182201963015423,0.0
+Nikita Mazepin,Haas F1 Team,Turkish Grand Prix,2021.0,0.0,0.0
+Pierre Gasly,AlphaTauri,Turkish Grand Prix,2021.0,9.428027387017735,8.0
+Sebastian Vettel,Aston Martin,Turkish Grand Prix,2021.0,7.771049640301609,0.0
+Yuki Tsunoda,AlphaTauri,Turkish Grand Prix,2021.0,5.8408138590164045,0.0
+Antonio Giovinazzi,Alfa Romeo,United States Grand Prix,2021.0,5.794363001657367,0.0
+Charles Leclerc,Ferrari,United States Grand Prix,2021.0,12.006158445095517,12.0
+Esteban Ocon,Alpine F1 Team,United States Grand Prix,2021.0,4.565054232879137,0.0
+Fernando Alonso,Alpine F1 Team,United States Grand Prix,2021.0,0.48316492185131854,0.0
+George Russell,Williams,United States Grand Prix,2021.0,0.7217560977687867,0.0
+Lance Stroll,Aston Martin,United States Grand Prix,2021.0,4.300210785743345,0.0
+Nicholas Latifi,Williams,United States Grand Prix,2021.0,4.97488907338252,0.0
+Nikita Mazepin,Haas F1 Team,United States Grand Prix,2021.0,0.45685983851041134,0.0
+Pierre Gasly,AlphaTauri,United States Grand Prix,2021.0,6.609778788446452,0.0
+Sebastian Vettel,Aston Martin,United States Grand Prix,2021.0,2.4088152036804105,1.0
+Sergio Pérez,Red Bull,United States Grand Prix,2021.0,12.7710253226721,15.0
+Yuki Tsunoda,AlphaTauri,United States Grand Prix,2021.0,5.389311496253768,2.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2022.0,12.670057067203452,12.0
+Kevin Magnussen,Haas F1 Team,70th Anniversary Grand Prix,2022.0,0.03451994376661895,1.0
+Lando Norris,McLaren,70th Anniversary Grand Prix,2022.0,10.602779323733866,8.0
+Lewis Hamilton,Mercedes,70th Anniversary Grand Prix,2022.0,11.15315547642429,15.0
+Pierre Gasly,AlphaTauri,70th Anniversary Grand Prix,2022.0,4.541687319308188,0.0
+Alexander Albon,Williams,Abu Dhabi Grand Prix,2022.0,1.316406824750295,0.0
+Carlos Sainz,Ferrari,Abu Dhabi Grand Prix,2022.0,12.005600849866939,12.0
+Charles Leclerc,Ferrari,Abu Dhabi Grand Prix,2022.0,12.570898302810907,18.0
+Daniel Ricciardo,McLaren,Abu Dhabi Grand Prix,2022.0,5.586056125903248,2.0
+Esteban Ocon,Alpine F1 Team,Abu Dhabi Grand Prix,2022.0,6.607002919798526,6.0
+Fernando Alonso,Alpine F1 Team,Abu Dhabi Grand Prix,2022.0,6.660170006833632,0.0
+George Russell,Mercedes,Abu Dhabi Grand Prix,2022.0,9.053133156871258,10.0
+Guanyu Zhou,Alfa Romeo,Abu Dhabi Grand Prix,2022.0,3.489796019947714,0.0
+Kevin Magnussen,Haas F1 Team,Abu Dhabi Grand Prix,2022.0,1.07380562542169,0.0
+Lance Stroll,Aston Martin,Abu Dhabi Grand Prix,2022.0,3.45658844218577,4.0
+Lando Norris,McLaren,Abu Dhabi Grand Prix,2022.0,9.810031247617305,8.0
+Max Verstappen,Red Bull,Abu Dhabi Grand Prix,2022.0,14.123192602535648,25.0
+Mick Schumacher,Haas F1 Team,Abu Dhabi Grand Prix,2022.0,3.7464293955444825,0.0
+Nicholas Latifi,Williams,Abu Dhabi Grand Prix,2022.0,0.6156571210987639,0.0
+Sebastian Vettel,Aston Martin,Abu Dhabi Grand Prix,2022.0,8.469310610625595,1.0
+Valtteri Bottas,Alfa Romeo,Abu Dhabi Grand Prix,2022.0,1.4864441846966647,0.0
+Carlos Sainz,Ferrari,Australian Grand Prix,2022.0,8.439731511647883,0.0
+Daniel Ricciardo,McLaren,Australian Grand Prix,2022.0,9.9409434117412,8.0
+Esteban Ocon,Alpine F1 Team,Australian Grand Prix,2022.0,6.652069290517849,6.0
+Fernando Alonso,Alpine F1 Team,Australian Grand Prix,2022.0,6.689348694184256,0.0
+George Russell,Mercedes,Australian Grand Prix,2022.0,8.923435010534881,15.0
+Guanyu Zhou,Alfa Romeo,Australian Grand Prix,2022.0,4.355553169340653,0.0
+Kevin Magnussen,Haas F1 Team,Australian Grand Prix,2022.0,0.9864746347351794,0.0
+Lance Stroll,Aston Martin,Australian Grand Prix,2022.0,0.0,0.0
+Lando Norris,McLaren,Australian Grand Prix,2022.0,11.983528603614776,10.0
+Lewis Hamilton,Mercedes,Australian Grand Prix,2022.0,11.242052233069368,12.0
+Max Verstappen,Red Bull,Australian Grand Prix,2022.0,13.289313355562788,0.0
+Mick Schumacher,Haas F1 Team,Australian Grand Prix,2022.0,1.6789524643543587,0.0
+Nicholas Latifi,Williams,Australian Grand Prix,2022.0,1.9525760150539175,0.0
+Pierre Gasly,AlphaTauri,Australian Grand Prix,2022.0,4.5670333424784655,2.0
+Sebastian Vettel,Aston Martin,Australian Grand Prix,2022.0,2.8544487039718893,0.0
+Sergio Pérez,Red Bull,Australian Grand Prix,2022.0,12.591916139170598,18.0
+Yuki Tsunoda,AlphaTauri,Australian Grand Prix,2022.0,2.9864452272619157,0.0
+Alexander Albon,Williams,Austrian Grand Prix,2022.0,4.053590274770046,0.0
+Carlos Sainz,Ferrari,Austrian Grand Prix,2022.0,12.582577947871142,0.0
+Charles Leclerc,Ferrari,Austrian Grand Prix,2022.0,13.29086455113341,25.0
+Daniel Ricciardo,McLaren,Austrian Grand Prix,2022.0,7.084345997249501,2.0
+Esteban Ocon,Alpine F1 Team,Austrian Grand Prix,2022.0,7.994079007563878,10.0
+Fernando Alonso,Alpine F1 Team,Austrian Grand Prix,2022.0,0.33832524879131276,1.0
+George Russell,Mercedes,Austrian Grand Prix,2022.0,10.302515988774545,12.0
+Guanyu Zhou,Alfa Romeo,Austrian Grand Prix,2022.0,4.9563105245565655,0.0
+Lance Stroll,Aston Martin,Austrian Grand Prix,2022.0,4.8807357911447555,0.0
+Lando Norris,McLaren,Austrian Grand Prix,2022.0,7.617946993181678,6.0
+Lewis Hamilton,Mercedes,Austrian Grand Prix,2022.0,9.084340024757918,15.0
+Max Verstappen,Red Bull,Austrian Grand Prix,2022.0,13.980100916534669,18.0
+Mick Schumacher,Haas F1 Team,Austrian Grand Prix,2022.0,5.9118291063335855,8.0
+Pierre Gasly,AlphaTauri,Austrian Grand Prix,2022.0,2.313995033954817,0.0
+Sebastian Vettel,Aston Martin,Austrian Grand Prix,2022.0,2.189833008233138,0.0
+Sergio Pérez,Red Bull,Austrian Grand Prix,2022.0,11.223119342795364,0.0
+Valtteri Bottas,Alfa Romeo,Austrian Grand Prix,2022.0,14.241039877314172,0.0
+Yuki Tsunoda,AlphaTauri,Austrian Grand Prix,2022.0,0.8711001746003337,0.0
+Alexander Albon,Williams,Azerbaijan Grand Prix,2022.0,2.658230866247217,0.0
+Carlos Sainz,Ferrari,Azerbaijan Grand Prix,2022.0,11.933766795634664,0.0
+Charles Leclerc,Ferrari,Azerbaijan Grand Prix,2022.0,14.034527916801197,0.0
+Daniel Ricciardo,McLaren,Azerbaijan Grand Prix,2022.0,6.414351267188089,4.0
+George Russell,Mercedes,Azerbaijan Grand Prix,2022.0,9.685480203275466,15.0
+Kevin Magnussen,Haas F1 Team,Azerbaijan Grand Prix,2022.0,0.9966756767331817,0.0
+Lance Stroll,Aston Martin,Azerbaijan Grand Prix,2022.0,0.0,0.0
+Lando Norris,McLaren,Azerbaijan Grand Prix,2022.0,7.011502996595066,2.0
+Max Verstappen,Red Bull,Azerbaijan Grand Prix,2022.0,12.63240455811794,25.0
+Mick Schumacher,Haas F1 Team,Azerbaijan Grand Prix,2022.0,0.0,0.0
+Nicholas Latifi,Williams,Azerbaijan Grand Prix,2022.0,1.936297584770753,0.0
+Pierre Gasly,AlphaTauri,Azerbaijan Grand Prix,2022.0,8.098139887658881,10.0
+Sebastian Vettel,Aston Martin,Azerbaijan Grand Prix,2022.0,8.61990412355512,8.0
+Sergio Pérez,Red Bull,Azerbaijan Grand Prix,2022.0,13.385736698648582,18.0
+Valtteri Bottas,Alfa Romeo,Azerbaijan Grand Prix,2022.0,3.6489590048672054,0.0
+Alexander Albon,Williams,Bahrain Grand Prix,2022.0,4.868098351175111,0.0
+Carlos Sainz,Ferrari,Bahrain Grand Prix,2022.0,12.798822812764392,18.0
+Daniel Ricciardo,McLaren,Bahrain Grand Prix,2022.0,2.085344857050772,0.0
+Esteban Ocon,Alpine F1 Team,Bahrain Grand Prix,2022.0,4.535837430043947,6.0
+Fernando Alonso,Alpine F1 Team,Bahrain Grand Prix,2022.0,8.067542864611601,2.0
+George Russell,Mercedes,Bahrain Grand Prix,2022.0,6.907825144729413,12.0
+Guanyu Zhou,Alfa Romeo,Bahrain Grand Prix,2022.0,3.6688670879646508,1.0
+Lance Stroll,Aston Martin,Bahrain Grand Prix,2022.0,0.02472380126432788,0.0
+Lando Norris,McLaren,Bahrain Grand Prix,2022.0,5.525700461284846,0.0
+Lewis Hamilton,Mercedes,Bahrain Grand Prix,2022.0,11.270139041242315,15.0
+Mick Schumacher,Haas F1 Team,Bahrain Grand Prix,2022.0,3.9149086746489528,0.0
+Nicholas Latifi,Williams,Bahrain Grand Prix,2022.0,0.6835144055348008,0.0
+Nico Hülkenberg,Aston Martin,Bahrain Grand Prix,2022.0,1.3410334798588228,0.0
+Pierre Gasly,AlphaTauri,Bahrain Grand Prix,2022.0,5.166903889882063,0.0
+Valtteri Bottas,Alfa Romeo,Bahrain Grand Prix,2022.0,10.052137726876591,8.0
+Alexander Albon,Williams,Belgian Grand Prix,2022.0,10.387778263232507,1.0
+Carlos Sainz,Ferrari,Belgian Grand Prix,2022.0,14.035161281984328,15.0
+Charles Leclerc,Ferrari,Belgian Grand Prix,2022.0,4.000670964187423,8.0
+Daniel Ricciardo,McLaren,Belgian Grand Prix,2022.0,9.728159859930084,0.0
+Fernando Alonso,Alpine F1 Team,Belgian Grand Prix,2022.0,11.538230208234351,10.0
+George Russell,Mercedes,Belgian Grand Prix,2022.0,9.616076548697114,12.0
+Guanyu Zhou,Alfa Romeo,Belgian Grand Prix,2022.0,1.352524687264772,0.0
+Kevin Magnussen,Haas F1 Team,Belgian Grand Prix,2022.0,3.8234348415442594,0.0
+Lance Stroll,Aston Martin,Belgian Grand Prix,2022.0,7.005724859157023,0.0
+Max Verstappen,Red Bull,Belgian Grand Prix,2022.0,4.7958252187133485,25.0
+Mick Schumacher,Haas F1 Team,Belgian Grand Prix,2022.0,0.0,0.0
+Nicholas Latifi,Williams,Belgian Grand Prix,2022.0,6.865008262578813,0.0
+Pierre Gasly,AlphaTauri,Belgian Grand Prix,2022.0,12.206159786793323,2.0
+Valtteri Bottas,Alfa Romeo,Belgian Grand Prix,2022.0,4.945550395911951,0.0
+Yuki Tsunoda,AlphaTauri,Belgian Grand Prix,2022.0,12.166331234255575,0.0
+Alexander Albon,Williams,British Grand Prix,2022.0,3.385119740733987,0.0
+Carlos Sainz,Ferrari,British Grand Prix,2022.0,14.024885417592456,25.0
+Charles Leclerc,Ferrari,British Grand Prix,2022.0,12.670057067203452,12.0
+Daniel Ricciardo,McLaren,British Grand Prix,2022.0,4.811565167059846,0.0
+Esteban Ocon,Alpine F1 Team,British Grand Prix,2022.0,1.6047774099081094,0.0
+Fernando Alonso,Alpine F1 Team,British Grand Prix,2022.0,8.734178817273557,10.0
+Guanyu Zhou,Alfa Romeo,British Grand Prix,2022.0,7.596909715453586,0.0
+Kevin Magnussen,Haas F1 Team,British Grand Prix,2022.0,0.03451994376661895,1.0
+Lance Stroll,Aston Martin,British Grand Prix,2022.0,0.0,0.0
+Lando Norris,McLaren,British Grand Prix,2022.0,10.602779323733866,8.0
+Lewis Hamilton,Mercedes,British Grand Prix,2022.0,11.15315547642429,15.0
+Mick Schumacher,Haas F1 Team,British Grand Prix,2022.0,0.0,4.0
+Pierre Gasly,AlphaTauri,British Grand Prix,2022.0,4.541687319308188,0.0
+Sebastian Vettel,Aston Martin,British Grand Prix,2022.0,2.0825544245152625,2.0
+Sergio Pérez,Red Bull,British Grand Prix,2022.0,11.825317754170204,18.0
+Valtteri Bottas,Alfa Romeo,British Grand Prix,2022.0,5.614741458027472,0.0
+Alexander Albon,Williams,Canadian Grand Prix,2022.0,6.184349124019437,0.0
+Carlos Sainz,Ferrari,Canadian Grand Prix,2022.0,12.52665097282382,18.0
+Charles Leclerc,Ferrari,Canadian Grand Prix,2022.0,1.2267876040722507,10.0
+Esteban Ocon,Alpine F1 Team,Canadian Grand Prix,2022.0,7.154532515036572,8.0
+Guanyu Zhou,Alfa Romeo,Canadian Grand Prix,2022.0,6.970559695768824,4.0
+Lance Stroll,Aston Martin,Canadian Grand Prix,2022.0,1.2615361572651531,1.0
+Lando Norris,McLaren,Canadian Grand Prix,2022.0,4.803550454606993,0.0
+Lewis Hamilton,Mercedes,Canadian Grand Prix,2022.0,11.988126602574827,15.0
+Max Verstappen,Red Bull,Canadian Grand Prix,2022.0,13.908286258118645,25.0
+Mick Schumacher,Haas F1 Team,Canadian Grand Prix,2022.0,7.878415227439743,0.0
+Nicholas Latifi,Williams,Canadian Grand Prix,2022.0,1.8938472892544593,0.0
+Sergio Pérez,Red Bull,Canadian Grand Prix,2022.0,5.3960503067941135,0.0
+Yuki Tsunoda,AlphaTauri,Canadian Grand Prix,2022.0,0.0,0.0
+Alexander Albon,Williams,Dutch Grand Prix,2022.0,3.986309412797579,0.0
+Carlos Sainz,Ferrari,Dutch Grand Prix,2022.0,12.44115456351141,4.0
+Charles Leclerc,Ferrari,Dutch Grand Prix,2022.0,13.239471372529644,15.0
+Daniel Ricciardo,McLaren,Dutch Grand Prix,2022.0,2.6648770645085396,0.0
+Esteban Ocon,Alpine F1 Team,Dutch Grand Prix,2022.0,3.595793652647849,2.0
+Fernando Alonso,Alpine F1 Team,Dutch Grand Prix,2022.0,4.551737882428188,8.0
+George Russell,Mercedes,Dutch Grand Prix,2022.0,8.863944186722746,18.0
+Guanyu Zhou,Alfa Romeo,Dutch Grand Prix,2022.0,4.147777300753985,0.0
+Kevin Magnussen,Haas F1 Team,Dutch Grand Prix,2022.0,0.0,0.0
+Lance Stroll,Aston Martin,Dutch Grand Prix,2022.0,6.200633552620322,1.0
+Lando Norris,McLaren,Dutch Grand Prix,2022.0,9.732056061049693,6.0
+Lewis Hamilton,Mercedes,Dutch Grand Prix,2022.0,11.997956293474616,12.0
+Max Verstappen,Red Bull,Dutch Grand Prix,2022.0,13.84397342663117,25.0
+Mick Schumacher,Haas F1 Team,Dutch Grand Prix,2022.0,6.490474505979034,0.0
+Pierre Gasly,AlphaTauri,Dutch Grand Prix,2022.0,4.359257473891797,0.0
+Sebastian Vettel,Aston Martin,Dutch Grand Prix,2022.0,1.3724732936701682,0.0
+Sergio Pérez,Red Bull,Dutch Grand Prix,2022.0,11.105527483488682,10.0
+Valtteri Bottas,Alfa Romeo,Dutch Grand Prix,2022.0,2.7320968881022853,0.0
+Alexander Albon,Williams,Emilia Romagna Grand Prix,2022.0,2.060544077198972,0.0
+Carlos Sainz,Ferrari,Emilia Romagna Grand Prix,2022.0,11.982006268204335,0.0
+Charles Leclerc,Ferrari,Emilia Romagna Grand Prix,2022.0,13.367994499821918,8.0
+Daniel Ricciardo,McLaren,Emilia Romagna Grand Prix,2022.0,10.645310187926787,0.0
+Esteban Ocon,Alpine F1 Team,Emilia Romagna Grand Prix,2022.0,0.9022964829379603,0.0
+Fernando Alonso,Alpine F1 Team,Emilia Romagna Grand Prix,2022.0,7.5155210428632095,0.0
+George Russell,Mercedes,Emilia Romagna Grand Prix,2022.0,5.492745388657541,12.0
+Guanyu Zhou,Alfa Romeo,Emilia Romagna Grand Prix,2022.0,14.22486604271298,0.0
+Kevin Magnussen,Haas F1 Team,Emilia Romagna Grand Prix,2022.0,6.752506476781979,2.0
+Lance Stroll,Aston Martin,Emilia Romagna Grand Prix,2022.0,2.765884021080317,1.0
+Lando Norris,McLaren,Emilia Romagna Grand Prix,2022.0,11.306012650808567,15.0
+Lewis Hamilton,Mercedes,Emilia Romagna Grand Prix,2022.0,4.973454630821165,0.0
+Max Verstappen,Red Bull,Emilia Romagna Grand Prix,2022.0,14.07841444304811,25.0
+Nicholas Latifi,Williams,Emilia Romagna Grand Prix,2022.0,1.3439066901787426,0.0
+Pierre Gasly,AlphaTauri,Emilia Romagna Grand Prix,2022.0,0.21503094725907623,0.0
+Sergio Pérez,Red Bull,Emilia Romagna Grand Prix,2022.0,12.676836126019436,18.0
+Valtteri Bottas,Alfa Romeo,Emilia Romagna Grand Prix,2022.0,9.367718543722368,10.0
+Carlos Sainz,Ferrari,French Grand Prix,2022.0,1.228493452616804,10.0
+Daniel Ricciardo,McLaren,French Grand Prix,2022.0,8.384337735626914,2.0
+Fernando Alonso,Alpine F1 Team,French Grand Prix,2022.0,8.786045882658216,8.0
+George Russell,Mercedes,French Grand Prix,2022.0,8.896997108186927,15.0
+Guanyu Zhou,Alfa Romeo,French Grand Prix,2022.0,2.7618762320327344,0.0
+Kevin Magnussen,Haas F1 Team,French Grand Prix,2022.0,0.0,0.0
+Lance Stroll,Aston Martin,French Grand Prix,2022.0,2.7074850764458573,1.0
+Max Verstappen,Red Bull,French Grand Prix,2022.0,13.2416918753899,25.0
+Mick Schumacher,Haas F1 Team,French Grand Prix,2022.0,0.18589752171487306,0.0
+Nicholas Latifi,Williams,French Grand Prix,2022.0,1.952617584987131,0.0
+Pierre Gasly,AlphaTauri,French Grand Prix,2022.0,2.2479917267091323,0.0
+Sergio Pérez,Red Bull,French Grand Prix,2022.0,12.538998764541477,12.0
+Valtteri Bottas,Alfa Romeo,French Grand Prix,2022.0,6.397269096329779,0.0
+Yuki Tsunoda,AlphaTauri,French Grand Prix,2022.0,6.533871772658711,0.0
+Alexander Albon,Williams,Hungarian Grand Prix,2022.0,2.6295870314269516,0.0
+Carlos Sainz,Ferrari,Hungarian Grand Prix,2022.0,13.318781056543598,12.0
+Charles Leclerc,Ferrari,Hungarian Grand Prix,2022.0,12.581634197339266,8.0
+Daniel Ricciardo,McLaren,Hungarian Grand Prix,2022.0,8.37114926732767,0.0
+Esteban Ocon,Alpine F1 Team,Hungarian Grand Prix,2022.0,8.714394432867632,2.0
+George Russell,Mercedes,Hungarian Grand Prix,2022.0,12.468264876544897,15.0
+Guanyu Zhou,Alfa Romeo,Hungarian Grand Prix,2022.0,5.58129984964812,0.0
+Kevin Magnussen,Haas F1 Team,Hungarian Grand Prix,2022.0,3.048799777084963,0.0
+Lance Stroll,Aston Martin,Hungarian Grand Prix,2022.0,3.462028442257896,0.0
+Lewis Hamilton,Mercedes,Hungarian Grand Prix,2022.0,9.788767766692972,18.0
+Max Verstappen,Red Bull,Hungarian Grand Prix,2022.0,7.55268744634893,25.0
+Mick Schumacher,Haas F1 Team,Hungarian Grand Prix,2022.0,1.596958938057295,0.0
+Nicholas Latifi,Williams,Hungarian Grand Prix,2022.0,1.2617274883325729,0.0
+Pierre Gasly,AlphaTauri,Hungarian Grand Prix,2022.0,12.172777084164144,0.0
+Sebastian Vettel,Aston Martin,Hungarian Grand Prix,2022.0,2.0735699714945763,1.0
+Sergio Pérez,Red Bull,Hungarian Grand Prix,2022.0,6.818218968763107,10.0
+Valtteri Bottas,Alfa Romeo,Hungarian Grand Prix,2022.0,8.464848563202583,0.0
+Yuki Tsunoda,AlphaTauri,Hungarian Grand Prix,2022.0,0.8660509214426722,0.0
+Carlos Sainz,Ferrari,Italian Grand Prix,2022.0,1.8636422497731457,12.0
+Charles Leclerc,Ferrari,Italian Grand Prix,2022.0,13.90767309115017,18.0
+Fernando Alonso,Alpine F1 Team,Italian Grand Prix,2022.0,9.468857729920659,0.0
+George Russell,Mercedes,Italian Grand Prix,2022.0,11.729423518552451,15.0
+Guanyu Zhou,Alfa Romeo,Italian Grand Prix,2022.0,7.680366472026538,1.0
+Kevin Magnussen,Haas F1 Team,Italian Grand Prix,2022.0,0.8645249566259201,0.0
+Lance Stroll,Aston Martin,Italian Grand Prix,2022.0,4.793363230525031,0.0
+Lewis Hamilton,Mercedes,Italian Grand Prix,2022.0,1.2086082014870203,10.0
+Mick Schumacher,Haas F1 Team,Italian Grand Prix,2022.0,0.1433446905159002,0.0
+Nyck de Vries,Williams,Italian Grand Prix,2022.0,9.124180583822179,2.0
+Pierre Gasly,AlphaTauri,Italian Grand Prix,2022.0,8.596027745800836,4.0
+Sebastian Vettel,Aston Martin,Italian Grand Prix,2022.0,7.052911729893726,0.0
+Sergio Pérez,Red Bull,Italian Grand Prix,2022.0,5.433451349152746,8.0
+Valtteri Bottas,Alfa Romeo,Italian Grand Prix,2022.0,3.490328812478777,0.0
+Yuki Tsunoda,AlphaTauri,Italian Grand Prix,2022.0,0.0,0.0
+Alexander Albon,Williams,Japanese Grand Prix,2022.0,3.4008633184867945,0.0
+Carlos Sainz,Ferrari,Japanese Grand Prix,2022.0,12.686991036786708,0.0
+Charles Leclerc,Ferrari,Japanese Grand Prix,2022.0,13.231104911905742,15.0
+Daniel Ricciardo,McLaren,Japanese Grand Prix,2022.0,7.045769935846765,0.0
+Esteban Ocon,Alpine F1 Team,Japanese Grand Prix,2022.0,8.723234780272426,12.0
+Fernando Alonso,Alpine F1 Team,Japanese Grand Prix,2022.0,8.908799228713365,6.0
+Kevin Magnussen,Haas F1 Team,Japanese Grand Prix,2022.0,0.0,0.0
+Lance Stroll,Aston Martin,Japanese Grand Prix,2022.0,0.0,0.0
+Lando Norris,McLaren,Japanese Grand Prix,2022.0,7.611146298516343,1.0
+Lewis Hamilton,Mercedes,Japanese Grand Prix,2022.0,10.538860475927882,10.0
+Max Verstappen,Red Bull,Japanese Grand Prix,2022.0,13.989187905238033,25.0
+Nicholas Latifi,Williams,Japanese Grand Prix,2022.0,0.56109084064465,2.0
+Pierre Gasly,AlphaTauri,Japanese Grand Prix,2022.0,0.19994693183626655,0.0
+Sebastian Vettel,Aston Martin,Japanese Grand Prix,2022.0,8.615988319508347,8.0
+Sergio Pérez,Red Bull,Japanese Grand Prix,2022.0,11.915203854310278,18.0
+Valtteri Bottas,Alfa Romeo,Japanese Grand Prix,2022.0,5.704627558167546,0.0
+Yuki Tsunoda,AlphaTauri,Japanese Grand Prix,2022.0,3.0986483543378123,0.0
+Carlos Sainz,Ferrari,Mexico City Grand Prix,2022.0,11.212522992585379,10.0
+Daniel Ricciardo,McLaren,Mexico City Grand Prix,2022.0,7.0114394596558025,6.0
+Esteban Ocon,Alpine F1 Team,Mexico City Grand Prix,2022.0,5.1203357507929494,4.0
+George Russell,Mercedes,Mexico City Grand Prix,2022.0,11.78096080277211,12.0
+Kevin Magnussen,Haas F1 Team,Mexico City Grand Prix,2022.0,0.0,0.0
+Lance Stroll,Aston Martin,Mexico City Grand Prix,2022.0,0.0,0.0
+Lando Norris,McLaren,Mexico City Grand Prix,2022.0,9.011657495879511,2.0
+Lewis Hamilton,Mercedes,Mexico City Grand Prix,2022.0,12.611777407190132,18.0
+Max Verstappen,Red Bull,Mexico City Grand Prix,2022.0,13.997224584696937,25.0
+Mick Schumacher,Haas F1 Team,Mexico City Grand Prix,2022.0,1.6562031205708583,0.0
+Nicholas Latifi,Williams,Mexico City Grand Prix,2022.0,1.9986732992014504,0.0
+Pierre Gasly,AlphaTauri,Mexico City Grand Prix,2022.0,2.2146090240799516,0.0
+Sebastian Vettel,Aston Martin,Mexico City Grand Prix,2022.0,3.5358804608248717,0.0
+Sergio Pérez,Red Bull,Mexico City Grand Prix,2022.0,11.854393905838148,15.0
+Yuki Tsunoda,AlphaTauri,Mexico City Grand Prix,2022.0,3.021950722496982,0.0
+Alexander Albon,Williams,Miami Grand Prix,2022.0,1.9959430344797096,2.0
+Carlos Sainz,Ferrari,Miami Grand Prix,2022.0,13.442277104795172,15.0
+Charles Leclerc,Ferrari,Miami Grand Prix,2022.0,13.970503296545507,18.0
+Daniel Ricciardo,McLaren,Miami Grand Prix,2022.0,5.111433068258901,0.0
+George Russell,Mercedes,Miami Grand Prix,2022.0,4.7107235091612125,10.0
+Guanyu Zhou,Alfa Romeo,Miami Grand Prix,2022.0,2.1521150279798817,0.0
+Kevin Magnussen,Haas F1 Team,Miami Grand Prix,2022.0,1.165670412551757,0.0
+Lance Stroll,Aston Martin,Miami Grand Prix,2022.0,13.534090105176192,1.0
+Lando Norris,McLaren,Miami Grand Prix,2022.0,9.051195187488434,0.0
+Lewis Hamilton,Mercedes,Miami Grand Prix,2022.0,10.653516176774662,8.0
+Max Verstappen,Red Bull,Miami Grand Prix,2022.0,12.706073193724315,25.0
+Pierre Gasly,AlphaTauri,Miami Grand Prix,2022.0,7.382893111329041,0.0
+Sebastian Vettel,Aston Martin,Miami Grand Prix,2022.0,15.073569820539705,0.0
+Valtteri Bottas,Alfa Romeo,Miami Grand Prix,2022.0,10.88094832487554,6.0
+Yuki Tsunoda,AlphaTauri,Miami Grand Prix,2022.0,5.9135187796933915,0.0
+Alexander Albon,Williams,Monaco Grand Prix,2022.0,3.4197799980899495,0.0
+Carlos Sainz,Ferrari,Monaco Grand Prix,2022.0,13.309466822357912,18.0
+Charles Leclerc,Ferrari,Monaco Grand Prix,2022.0,14.08130415909498,12.0
+Fernando Alonso,Alpine F1 Team,Monaco Grand Prix,2022.0,8.89594054157912,6.0
+Kevin Magnussen,Haas F1 Team,Monaco Grand Prix,2022.0,3.007710176161878,0.0
+Lance Stroll,Aston Martin,Monaco Grand Prix,2022.0,0.7048364334573133,0.0
+Max Verstappen,Red Bull,Monaco Grand Prix,2022.0,11.826714655000709,15.0
+Mick Schumacher,Haas F1 Team,Monaco Grand Prix,2022.0,1.6458995428901768,0.0
+Valtteri Bottas,Alfa Romeo,Monaco Grand Prix,2022.0,5.6070345597335685,2.0
+Yuki Tsunoda,AlphaTauri,Monaco Grand Prix,2022.0,4.4094175571768,0.0
+George Russell,Mercedes,Sakhir Grand Prix,2022.0,6.907825144729413,12.0
+Lando Norris,McLaren,Sakhir Grand Prix,2022.0,5.525700461284846,0.0
+Nicholas Latifi,Williams,Sakhir Grand Prix,2022.0,0.6835144055348008,0.0
+Pierre Gasly,AlphaTauri,Sakhir Grand Prix,2022.0,5.166903889882063,0.0
+Alexander Albon,Williams,Saudi Arabian Grand Prix,2022.0,3.5403911557229613,0.0
+Carlos Sainz,Ferrari,Saudi Arabian Grand Prix,2022.0,12.762968140548075,15.0
+Charles Leclerc,Ferrari,Saudi Arabian Grand Prix,2022.0,13.444775271529176,18.0
+Daniel Ricciardo,McLaren,Saudi Arabian Grand Prix,2022.0,5.035683209979854,0.0
+Esteban Ocon,Alpine F1 Team,Saudi Arabian Grand Prix,2022.0,8.825691356314959,8.0
+Fernando Alonso,Alpine F1 Team,Saudi Arabian Grand Prix,2022.0,8.963592754649799,0.0
+Guanyu Zhou,Alfa Romeo,Saudi Arabian Grand Prix,2022.0,5.697892667551681,0.0
+Lance Stroll,Aston Martin,Saudi Arabian Grand Prix,2022.0,4.319873621991571,0.0
+Lando Norris,McLaren,Saudi Arabian Grand Prix,2022.0,7.094156085222127,6.0
+Lewis Hamilton,Mercedes,Saudi Arabian Grand Prix,2022.0,4.256024096135973,1.0
+Max Verstappen,Red Bull,Saudi Arabian Grand Prix,2022.0,12.005580651652288,25.0
+Mick Schumacher,Haas F1 Team,Saudi Arabian Grand Prix,2022.0,12.38218615463276,0.0
+Nicholas Latifi,Williams,Saudi Arabian Grand Prix,2022.0,2.140756245891181,0.0
+Pierre Gasly,AlphaTauri,Saudi Arabian Grand Prix,2022.0,6.015290729814161,4.0
+Sergio Pérez,Red Bull,Saudi Arabian Grand Prix,2022.0,14.140795521174727,12.0
+Valtteri Bottas,Alfa Romeo,Saudi Arabian Grand Prix,2022.0,8.692655164687043,0.0
+Yuki Tsunoda,AlphaTauri,Saudi Arabian Grand Prix,2022.0,0.0,0.0
+Carlos Sainz,Ferrari,Singapore Grand Prix,2022.0,11.90833763259796,15.0
+Daniel Ricciardo,McLaren,Singapore Grand Prix,2022.0,3.4027290790059883,10.0
+Esteban Ocon,Alpine F1 Team,Singapore Grand Prix,2022.0,0.2091810579948355,0.0
+Fernando Alonso,Alpine F1 Team,Singapore Grand Prix,2022.0,10.142067131765632,0.0
+George Russell,Mercedes,Singapore Grand Prix,2022.0,13.186252437877407,0.0
+Guanyu Zhou,Alfa Romeo,Singapore Grand Prix,2022.0,4.2079276868961175,0.0
+Kevin Magnussen,Haas F1 Team,Singapore Grand Prix,2022.0,6.001136212820289,0.0
+Lance Stroll,Aston Martin,Singapore Grand Prix,2022.0,5.636041254969471,8.0
+Lewis Hamilton,Mercedes,Singapore Grand Prix,2022.0,12.63518631330363,2.0
+Max Verstappen,Red Bull,Singapore Grand Prix,2022.0,9.027815052880257,6.0
+Mick Schumacher,Haas F1 Team,Singapore Grand Prix,2022.0,3.728604595119003,0.0
+Nicholas Latifi,Williams,Singapore Grand Prix,2022.0,1.2278708989225007,0.0
+Pierre Gasly,AlphaTauri,Singapore Grand Prix,2022.0,7.225540473667395,1.0
+Sebastian Vettel,Aston Martin,Singapore Grand Prix,2022.0,5.638733328496358,4.0
+Sergio Pérez,Red Bull,Singapore Grand Prix,2022.0,13.254389646487212,25.0
+Yuki Tsunoda,AlphaTauri,Singapore Grand Prix,2022.0,5.136719352694995,0.0
+Alexander Albon,Williams,Spanish Grand Prix,2022.0,1.8721172050631365,0.0
+Carlos Sainz,Ferrari,Spanish Grand Prix,2022.0,12.624861963654583,12.0
+Charles Leclerc,Ferrari,Spanish Grand Prix,2022.0,14.005554300815932,0.0
+Daniel Ricciardo,McLaren,Spanish Grand Prix,2022.0,8.354931802793972,0.0
+Fernando Alonso,Alpine F1 Team,Spanish Grand Prix,2022.0,0.0,2.0
+George Russell,Mercedes,Spanish Grand Prix,2022.0,10.318320532276818,15.0
+Guanyu Zhou,Alfa Romeo,Spanish Grand Prix,2022.0,3.494906238854841,0.0
+Lance Stroll,Aston Martin,Spanish Grand Prix,2022.0,1.3756348314646156,0.0
+Lando Norris,McLaren,Spanish Grand Prix,2022.0,6.929570436047468,4.0
+Lewis Hamilton,Mercedes,Spanish Grand Prix,2022.0,10.540282136270557,10.0
+Max Verstappen,Red Bull,Spanish Grand Prix,2022.0,13.270540781575525,25.0
+Mick Schumacher,Haas F1 Team,Spanish Grand Prix,2022.0,5.112238765618476,0.0
+Nicholas Latifi,Williams,Spanish Grand Prix,2022.0,1.1025208734805738,0.0
+Pierre Gasly,AlphaTauri,Spanish Grand Prix,2022.0,2.319207788544623,0.0
+Sebastian Vettel,Aston Martin,Spanish Grand Prix,2022.0,3.5345613361648764,0.0
+Valtteri Bottas,Alfa Romeo,Spanish Grand Prix,2022.0,9.1581080937616,8.0
+Yuki Tsunoda,AlphaTauri,Spanish Grand Prix,2022.0,2.85116297523752,1.0
+Carlos Sainz,Ferrari,Styrian Grand Prix,2022.0,12.582577947871142,0.0
+Charles Leclerc,Ferrari,Styrian Grand Prix,2022.0,13.29086455113341,25.0
+Daniel Ricciardo,McLaren,Styrian Grand Prix,2022.0,7.084345997249501,2.0
+Esteban Ocon,Alpine F1 Team,Styrian Grand Prix,2022.0,7.994079007563878,10.0
+Fernando Alonso,Alpine F1 Team,Styrian Grand Prix,2022.0,0.33832524879131276,1.0
+Lance Stroll,Aston Martin,Styrian Grand Prix,2022.0,4.8807357911447555,0.0
+Lando Norris,McLaren,Styrian Grand Prix,2022.0,7.617946993181678,6.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2022.0,9.084340024757918,15.0
+Max Verstappen,Red Bull,Styrian Grand Prix,2022.0,13.980100916534669,18.0
+Mick Schumacher,Haas F1 Team,Styrian Grand Prix,2022.0,5.9118291063335855,8.0
+Pierre Gasly,AlphaTauri,Styrian Grand Prix,2022.0,2.313995033954817,0.0
+Sebastian Vettel,Aston Martin,Styrian Grand Prix,2022.0,2.189833008233138,0.0
+Sergio Pérez,Red Bull,Styrian Grand Prix,2022.0,11.223119342795364,0.0
+Yuki Tsunoda,AlphaTauri,Styrian Grand Prix,2022.0,0.8711001746003337,0.0
+Alexander Albon,Williams,São Paulo Grand Prix,2022.0,1.2453861363720362,0.0
+Carlos Sainz,Ferrari,São Paulo Grand Prix,2022.0,9.660512078664118,15.0
+Daniel Ricciardo,McLaren,São Paulo Grand Prix,2022.0,6.883678430376205,0.0
+Fernando Alonso,Alpine F1 Team,São Paulo Grand Prix,2022.0,1.7472638725278455,10.0
+George Russell,Mercedes,São Paulo Grand Prix,2022.0,12.717501697152862,25.0
+Guanyu Zhou,Alfa Romeo,São Paulo Grand Prix,2022.0,4.893336213545336,0.0
+Kevin Magnussen,Haas F1 Team,São Paulo Grand Prix,2022.0,6.480004855676407,0.0
+Lance Stroll,Aston Martin,São Paulo Grand Prix,2022.0,2.6999222837678456,1.0
+Lando Norris,McLaren,São Paulo Grand Prix,2022.0,10.46702318492858,0.0
+Lewis Hamilton,Mercedes,São Paulo Grand Prix,2022.0,13.389441467883884,18.0
+Max Verstappen,Red Bull,São Paulo Grand Prix,2022.0,12.445213670775674,8.0
+Mick Schumacher,Haas F1 Team,São Paulo Grand Prix,2022.0,3.8051581213439407,0.0
+Pierre Gasly,AlphaTauri,São Paulo Grand Prix,2022.0,5.1207040700518505,0.0
+Sebastian Vettel,Aston Martin,São Paulo Grand Prix,2022.0,8.485672180775186,0.0
+Sergio Pérez,Red Bull,São Paulo Grand Prix,2022.0,11.790183610033349,6.0
+Valtteri Bottas,Alfa Romeo,São Paulo Grand Prix,2022.0,4.123582062511554,2.0
+Yuki Tsunoda,AlphaTauri,São Paulo Grand Prix,2022.0,12.26170375335505,0.0
+Alexander Albon,Williams,United States Grand Prix,2022.0,9.072084517035501,0.0
+Carlos Sainz,Ferrari,United States Grand Prix,2022.0,14.006024164566918,0.0
+Charles Leclerc,Ferrari,United States Grand Prix,2022.0,6.189995037804127,15.0
+Daniel Ricciardo,McLaren,United States Grand Prix,2022.0,4.150308248720548,0.0
+Esteban Ocon,Alpine F1 Team,United States Grand Prix,2022.0,12.218361943436882,0.0
+Fernando Alonso,Alpine F1 Team,United States Grand Prix,2022.0,3.884906556309,6.0
+George Russell,Mercedes,United States Grand Prix,2022.0,10.418221998865787,10.0
+Guanyu Zhou,Alfa Romeo,United States Grand Prix,2022.0,1.312795780934896,0.0
+Kevin Magnussen,Haas F1 Team,United States Grand Prix,2022.0,3.0742289401216674,2.0
+Lando Norris,McLaren,United States Grand Prix,2022.0,10.539785616906386,8.0
+Lewis Hamilton,Mercedes,United States Grand Prix,2022.0,12.71565564357534,18.0
+Max Verstappen,Red Bull,United States Grand Prix,2022.0,13.275116147952295,25.0
+Mick Schumacher,Haas F1 Team,United States Grand Prix,2022.0,0.85995216143895,0.0
+Nicholas Latifi,Williams,United States Grand Prix,2022.0,2.658447591448608,0.0
+Pierre Gasly,AlphaTauri,United States Grand Prix,2022.0,4.409846984549674,0.0
+Sergio Pérez,Red Bull,United States Grand Prix,2022.0,8.331448749916277,12.0
+Yuki Tsunoda,AlphaTauri,United States Grand Prix,2022.0,0.0,1.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2023.0,11.809640836648606,2.0
+Kevin Magnussen,Haas F1 Team,70th Anniversary Grand Prix,2023.0,0.0,0.0
+Lando Norris,McLaren,70th Anniversary Grand Prix,2023.0,13.337411118748701,18.0
+Max Verstappen,Red Bull,70th Anniversary Grand Prix,2023.0,13.833096880935564,25.0
+Alexander Albon,Williams,Abu Dhabi Grand Prix,2023.0,4.702260775839278,0.0
+Charles Leclerc,Ferrari,Abu Dhabi Grand Prix,2023.0,13.113548379072794,18.0
+Daniel Ricciardo,AlphaTauri,Abu Dhabi Grand Prix,2023.0,1.6168034539018283,0.0
+Esteban Ocon,Alpine F1 Team,Abu Dhabi Grand Prix,2023.0,3.544013181578265,0.0
+Fernando Alonso,Aston Martin,Abu Dhabi Grand Prix,2023.0,9.941921841945106,6.0
+George Russell,Mercedes,Abu Dhabi Grand Prix,2023.0,10.257597178119761,15.0
+Guanyu Zhou,Alfa Romeo,Abu Dhabi Grand Prix,2023.0,0.5539077486770548,0.0
+Kevin Magnussen,Haas F1 Team,Abu Dhabi Grand Prix,2023.0,0.14983866139204421,0.0
+Lando Norris,McLaren,Abu Dhabi Grand Prix,2023.0,11.06745421342814,10.0
+Lewis Hamilton,Mercedes,Abu Dhabi Grand Prix,2023.0,6.985132751212253,2.0
+Logan Sargeant,Williams,Abu Dhabi Grand Prix,2023.0,0.4426415139388653,0.0
+Max Verstappen,Red Bull,Abu Dhabi Grand Prix,2023.0,13.855743689036386,25.0
+Nico Hülkenberg,Haas F1 Team,Abu Dhabi Grand Prix,2023.0,6.616355621815658,0.0
+Oscar Piastri,McLaren,Abu Dhabi Grand Prix,2023.0,12.518857675991807,8.0
+Sergio Pérez,Red Bull,Abu Dhabi Grand Prix,2023.0,8.29792539611985,12.0
+Valtteri Bottas,Alfa Romeo,Abu Dhabi Grand Prix,2023.0,1.3513926326032353,0.0
+Yuki Tsunoda,AlphaTauri,Abu Dhabi Grand Prix,2023.0,7.867992370310375,4.0
+Alexander Albon,Williams,Australian Grand Prix,2023.0,9.046556272764763,0.0
+Carlos Sainz,Ferrari,Australian Grand Prix,2023.0,11.232618145681283,0.0
+Charles Leclerc,Ferrari,Australian Grand Prix,2023.0,9.812473763665404,0.0
+Esteban Ocon,Alpine F1 Team,Australian Grand Prix,2023.0,4.473321064446004,0.0
+Fernando Alonso,Aston Martin,Australian Grand Prix,2023.0,12.126010986855043,15.0
+George Russell,Mercedes,Australian Grand Prix,2023.0,11.864606689342814,0.0
+Guanyu Zhou,Alfa Romeo,Australian Grand Prix,2023.0,2.1026624208815416,2.0
+Kevin Magnussen,Haas F1 Team,Australian Grand Prix,2023.0,2.466325167707816,0.0
+Lance Stroll,Aston Martin,Australian Grand Prix,2023.0,9.201296055240391,12.0
+Lando Norris,McLaren,Australian Grand Prix,2023.0,5.606173246005203,8.0
+Lewis Hamilton,Mercedes,Australian Grand Prix,2023.0,12.695423293760836,18.0
+Logan Sargeant,Williams,Australian Grand Prix,2023.0,2.1396812309178856,0.0
+Nico Hülkenberg,Haas F1 Team,Australian Grand Prix,2023.0,5.3483858914742175,6.0
+Nyck de Vries,AlphaTauri,Australian Grand Prix,2023.0,1.6738887345408953,0.0
+Pierre Gasly,Alpine F1 Team,Australian Grand Prix,2023.0,5.929048717867455,0.0
+Sergio Pérez,Red Bull,Australian Grand Prix,2023.0,14.82890671734205,10.0
+Valtteri Bottas,Alfa Romeo,Australian Grand Prix,2023.0,14.304738170853511,0.0
+Yuki Tsunoda,AlphaTauri,Australian Grand Prix,2023.0,3.709155715035736,1.0
+Alexander Albon,Williams,Austrian Grand Prix,2023.0,7.524178537158762,0.0
+Carlos Sainz,Ferrari,Austrian Grand Prix,2023.0,12.515049050094689,8.0
+Charles Leclerc,Ferrari,Austrian Grand Prix,2023.0,13.182292471321148,18.0
+Fernando Alonso,Aston Martin,Austrian Grand Prix,2023.0,10.243685290267727,10.0
+George Russell,Mercedes,Austrian Grand Prix,2023.0,5.30704336015677,6.0
+Guanyu Zhou,Alfa Romeo,Austrian Grand Prix,2023.0,1.9886468865485063,0.0
+Kevin Magnussen,Haas F1 Team,Austrian Grand Prix,2023.0,12.218788883969886,0.0
+Lewis Hamilton,Mercedes,Austrian Grand Prix,2023.0,11.501391014441303,4.0
+Logan Sargeant,Williams,Austrian Grand Prix,2023.0,1.909156018547717,0.0
+Max Verstappen,Red Bull,Austrian Grand Prix,2023.0,13.873294134874484,25.0
+Nyck de Vries,AlphaTauri,Austrian Grand Prix,2023.0,12.090814343017698,0.0
+Oscar Piastri,McLaren,Austrian Grand Prix,2023.0,5.423985189381969,0.0
+Pierre Gasly,Alpine F1 Team,Austrian Grand Prix,2023.0,5.71970708332222,1.0
+Sergio Pérez,Red Bull,Austrian Grand Prix,2023.0,4.23690898476151,15.0
+Valtteri Bottas,Alfa Romeo,Austrian Grand Prix,2023.0,4.199789866203888,0.0
+Yuki Tsunoda,AlphaTauri,Austrian Grand Prix,2023.0,0.7837116726130042,0.0
+Alexander Albon,Williams,Azerbaijan Grand Prix,2023.0,6.319471329060334,0.0
+Carlos Sainz,Ferrari,Azerbaijan Grand Prix,2023.0,12.005255127334335,10.0
+Charles Leclerc,Ferrari,Azerbaijan Grand Prix,2023.0,14.132495720782035,15.0
+Esteban Ocon,Alpine F1 Team,Azerbaijan Grand Prix,2023.0,12.293064946920115,0.0
+George Russell,Mercedes,Azerbaijan Grand Prix,2023.0,5.542473720068708,4.0
+Guanyu Zhou,Alfa Romeo,Azerbaijan Grand Prix,2023.0,3.6430312366458764,0.0
+Kevin Magnussen,Haas F1 Team,Azerbaijan Grand Prix,2023.0,1.1211229529951856,0.0
+Logan Sargeant,Williams,Azerbaijan Grand Prix,2023.0,4.850096997424686,0.0
+Max Verstappen,Red Bull,Azerbaijan Grand Prix,2023.0,13.434553462735261,18.0
+Nico Hülkenberg,Haas F1 Team,Azerbaijan Grand Prix,2023.0,12.580458351348978,0.0
+Nyck de Vries,AlphaTauri,Azerbaijan Grand Prix,2023.0,0.0,0.0
+Oscar Piastri,McLaren,Azerbaijan Grand Prix,2023.0,7.745479378922187,0.0
+Pierre Gasly,Alpine F1 Team,Azerbaijan Grand Prix,2023.0,0.3852393716170982,0.0
+Sergio Pérez,Red Bull,Azerbaijan Grand Prix,2023.0,12.83248234655527,25.0
+Valtteri Bottas,Alfa Romeo,Azerbaijan Grand Prix,2023.0,5.229431532508273,0.0
+Alexander Albon,Williams,Bahrain Grand Prix,2023.0,4.208926109957132,1.0
+Carlos Sainz,Ferrari,Bahrain Grand Prix,2023.0,11.986069632315646,12.0
+Charles Leclerc,Ferrari,Bahrain Grand Prix,2023.0,12.689060341121682,0.0
+Fernando Alonso,Aston Martin,Bahrain Grand Prix,2023.0,11.396957749829173,15.0
+George Russell,Mercedes,Bahrain Grand Prix,2023.0,9.054785517144898,6.0
+Guanyu Zhou,Alfa Romeo,Bahrain Grand Prix,2023.0,5.085166887462486,0.0
+Lance Stroll,Aston Martin,Bahrain Grand Prix,2023.0,7.805132978771674,8.0
+Lando Norris,McLaren,Bahrain Grand Prix,2023.0,7.037326360994882,0.0
+Lewis Hamilton,Mercedes,Bahrain Grand Prix,2023.0,9.890898016019154,10.0
+Logan Sargeant,Williams,Bahrain Grand Prix,2023.0,3.454324667870432,0.0
+Max Verstappen,Red Bull,Bahrain Grand Prix,2023.0,14.06129422933449,25.0
+Nico Hülkenberg,Haas F1 Team,Bahrain Grand Prix,2023.0,5.286442493891198,0.0
+Nyck de Vries,AlphaTauri,Bahrain Grand Prix,2023.0,0.0,0.0
+Oscar Piastri,McLaren,Bahrain Grand Prix,2023.0,2.0716615009867057,0.0
+Pierre Gasly,Alpine F1 Team,Bahrain Grand Prix,2023.0,0.0,2.0
+Valtteri Bottas,Alfa Romeo,Bahrain Grand Prix,2023.0,5.766142093351535,4.0
+Yuki Tsunoda,AlphaTauri,Bahrain Grand Prix,2023.0,2.4453899999728526,0.0
+Alexander Albon,Williams,Belgian Grand Prix,2023.0,4.153412055941235,0.0
+Carlos Sainz,Ferrari,Belgian Grand Prix,2023.0,11.941147367212217,0.0
+Charles Leclerc,Ferrari,Belgian Grand Prix,2023.0,14.063092066203684,15.0
+Esteban Ocon,Alpine F1 Team,Belgian Grand Prix,2023.0,2.359829988974774,4.0
+Fernando Alonso,Aston Martin,Belgian Grand Prix,2023.0,8.667708443585648,10.0
+George Russell,Mercedes,Belgian Grand Prix,2023.0,7.601501050768503,8.0
+Guanyu Zhou,Alfa Romeo,Belgian Grand Prix,2023.0,2.1440818029696254,0.0
+Kevin Magnussen,Haas F1 Team,Belgian Grand Prix,2023.0,1.1205659263478671,0.0
+Lando Norris,McLaren,Belgian Grand Prix,2023.0,9.86738333745595,6.0
+Logan Sargeant,Williams,Belgian Grand Prix,2023.0,1.9533771513879359,0.0
+Max Verstappen,Red Bull,Belgian Grand Prix,2023.0,10.527241827786046,25.0
+Nico Hülkenberg,Haas F1 Team,Belgian Grand Prix,2023.0,12.43691217438336,0.0
+Oscar Piastri,McLaren,Belgian Grand Prix,2023.0,11.26053196100105,0.0
+Pierre Gasly,Alpine F1 Team,Belgian Grand Prix,2023.0,3.789078170115059,0.0
+Valtteri Bottas,Alfa Romeo,Belgian Grand Prix,2023.0,5.1441401945612215,0.0
+Alexander Albon,Williams,British Grand Prix,2023.0,9.07416919415682,4.0
+Carlos Sainz,Ferrari,British Grand Prix,2023.0,11.064282972192705,1.0
+Charles Leclerc,Ferrari,British Grand Prix,2023.0,11.809640836648606,2.0
+Esteban Ocon,Alpine F1 Team,British Grand Prix,2023.0,2.8807360063157605,0.0
+Fernando Alonso,Aston Martin,British Grand Prix,2023.0,8.484433360290152,6.0
+Guanyu Zhou,Alfa Romeo,British Grand Prix,2023.0,2.077316397711264,0.0
+Kevin Magnussen,Haas F1 Team,British Grand Prix,2023.0,0.0,0.0
+Lance Stroll,Aston Martin,British Grand Prix,2023.0,4.760211227826817,0.0
+Lando Norris,McLaren,British Grand Prix,2023.0,13.337411118748701,18.0
+Logan Sargeant,Williams,British Grand Prix,2023.0,4.692744359763039,0.0
+Max Verstappen,Red Bull,British Grand Prix,2023.0,13.833096880935564,25.0
+Nico Hülkenberg,Haas F1 Team,British Grand Prix,2023.0,4.444094250611757,0.0
+Pierre Gasly,Alpine F1 Team,British Grand Prix,2023.0,5.03005297146123,0.0
+Sergio Pérez,Red Bull,British Grand Prix,2023.0,3.965457672900401,8.0
+Yuki Tsunoda,AlphaTauri,British Grand Prix,2023.0,0.8988606560569288,0.0
+Alexander Albon,Williams,Canadian Grand Prix,2023.0,8.394860229909721,6.0
+Carlos Sainz,Ferrari,Canadian Grand Prix,2023.0,7.102383755293697,10.0
+Charles Leclerc,Ferrari,Canadian Grand Prix,2023.0,7.6994565749750645,12.0
+Esteban Ocon,Alpine F1 Team,Canadian Grand Prix,2023.0,8.173813092359458,4.0
+Fernando Alonso,Aston Martin,Canadian Grand Prix,2023.0,13.65040897938425,18.0
+George Russell,Mercedes,Canadian Grand Prix,2023.0,10.423995234551558,0.0
+Kevin Magnussen,Haas F1 Team,Canadian Grand Prix,2023.0,3.2176954316695054,0.0
+Lance Stroll,Aston Martin,Canadian Grand Prix,2023.0,2.23315368448194,2.0
+Lando Norris,McLaren,Canadian Grand Prix,2023.0,9.862561329780608,0.0
+Logan Sargeant,Williams,Canadian Grand Prix,2023.0,2.1392073441369943,0.0
+Max Verstappen,Red Bull,Canadian Grand Prix,2023.0,14.138651423505317,25.0
+Pierre Gasly,Alpine F1 Team,Canadian Grand Prix,2023.0,1.68760054389897,0.0
+Sergio Pérez,Red Bull,Canadian Grand Prix,2023.0,6.341188361729734,8.0
+Valtteri Bottas,Alfa Romeo,Canadian Grand Prix,2023.0,4.408657613968232,1.0
+Alexander Albon,Williams,Dutch Grand Prix,2023.0,12.015625629747891,4.0
+Carlos Sainz,Ferrari,Dutch Grand Prix,2023.0,10.5695682159011,10.0
+Charles Leclerc,Ferrari,Dutch Grand Prix,2023.0,8.397579683142636,0.0
+Esteban Ocon,Alpine F1 Team,Dutch Grand Prix,2023.0,0.9829549432074232,1.0
+Fernando Alonso,Aston Martin,Dutch Grand Prix,2023.0,11.436481584793691,18.0
+Guanyu Zhou,Alfa Romeo,Dutch Grand Prix,2023.0,3.6580736821354725,0.0
+Lance Stroll,Aston Martin,Dutch Grand Prix,2023.0,5.6738586728081755,0.0
+Lewis Hamilton,Mercedes,Dutch Grand Prix,2023.0,5.588825569127643,8.0
+Liam Lawson,AlphaTauri,Dutch Grand Prix,2023.0,0.0,0.0
+Logan Sargeant,Williams,Dutch Grand Prix,2023.0,7.745414578935012,0.0
+Max Verstappen,Red Bull,Dutch Grand Prix,2023.0,14.084930380930306,25.0
+Nico Hülkenberg,Haas F1 Team,Dutch Grand Prix,2023.0,2.509241926309786,0.0
+Pierre Gasly,Alpine F1 Team,Dutch Grand Prix,2023.0,3.809973536708207,15.0
+Sergio Pérez,Red Bull,Dutch Grand Prix,2023.0,9.850739977987002,12.0
+Yuki Tsunoda,AlphaTauri,Dutch Grand Prix,2023.0,0.30352390509688854,0.0
+Alexander Albon,Williams,Hungarian Grand Prix,2023.0,3.484694880606605,0.0
+Carlos Sainz,Ferrari,Hungarian Grand Prix,2023.0,7.089710743708558,4.0
+Charles Leclerc,Ferrari,Hungarian Grand Prix,2023.0,10.545875121585722,6.0
+Daniel Ricciardo,AlphaTauri,Hungarian Grand Prix,2023.0,3.0041261829657517,0.0
+Fernando Alonso,Aston Martin,Hungarian Grand Prix,2023.0,9.126671063343617,2.0
+George Russell,Mercedes,Hungarian Grand Prix,2023.0,0.5421950251431966,8.0
+Guanyu Zhou,Alfa Romeo,Hungarian Grand Prix,2023.0,10.788595769596268,0.0
+Kevin Magnussen,Haas F1 Team,Hungarian Grand Prix,2023.0,0.0,0.0
+Lando Norris,McLaren,Hungarian Grand Prix,2023.0,12.724867559759964,18.0
+Logan Sargeant,Williams,Hungarian Grand Prix,2023.0,0.6599172922603247,0.0
+Max Verstappen,Red Bull,Hungarian Grand Prix,2023.0,13.437684994652395,25.0
+Nico Hülkenberg,Haas F1 Team,Hungarian Grand Prix,2023.0,5.081036059208987,0.0
+Oscar Piastri,McLaren,Hungarian Grand Prix,2023.0,12.095503087151585,10.0
+Pierre Gasly,Alpine F1 Team,Hungarian Grand Prix,2023.0,1.7543659491573314,0.0
+Sergio Pérez,Red Bull,Hungarian Grand Prix,2023.0,8.234518768260942,15.0
+Valtteri Bottas,Alfa Romeo,Hungarian Grand Prix,2023.0,9.256405678907436,0.0
+Yuki Tsunoda,AlphaTauri,Hungarian Grand Prix,2023.0,0.26513351924325984,0.0
+Carlos Sainz,Ferrari,Italian Grand Prix,2023.0,14.096861492717421,15.0
+Charles Leclerc,Ferrari,Italian Grand Prix,2023.0,12.549615643751942,12.0
+Esteban Ocon,Alpine F1 Team,Italian Grand Prix,2023.0,0.0,0.0
+Fernando Alonso,Aston Martin,Italian Grand Prix,2023.0,7.934320942309733,2.0
+George Russell,Mercedes,Italian Grand Prix,2023.0,10.360774282241758,10.0
+Guanyu Zhou,Alfa Romeo,Italian Grand Prix,2023.0,2.896729621658099,0.0
+Kevin Magnussen,Haas F1 Team,Italian Grand Prix,2023.0,0.0,0.0
+Lance Stroll,Aston Martin,Italian Grand Prix,2023.0,0.0,0.0
+Lando Norris,McLaren,Italian Grand Prix,2023.0,8.32742744272304,4.0
+Liam Lawson,AlphaTauri,Italian Grand Prix,2023.0,3.695960127120872,0.0
+Logan Sargeant,Williams,Italian Grand Prix,2023.0,4.098499487980675,0.0
+Max Verstappen,Red Bull,Italian Grand Prix,2023.0,13.328882214909166,25.0
+Pierre Gasly,Alpine F1 Team,Italian Grand Prix,2023.0,0.14187486792893655,0.0
+Sergio Pérez,Red Bull,Italian Grand Prix,2023.0,11.265489952893878,18.0
+Valtteri Bottas,Alfa Romeo,Italian Grand Prix,2023.0,4.39309971176453,1.0
+Yuki Tsunoda,AlphaTauri,Italian Grand Prix,2023.0,4.5085188102685265,0.0
+Carlos Sainz,Ferrari,Japanese Grand Prix,2023.0,10.471171549521232,8.0
+Charles Leclerc,Ferrari,Japanese Grand Prix,2023.0,11.878343358963747,12.0
+Esteban Ocon,Alpine F1 Team,Japanese Grand Prix,2023.0,2.3141040559254535,2.0
+Fernando Alonso,Aston Martin,Japanese Grand Prix,2023.0,7.743036892844144,4.0
+George Russell,Mercedes,Japanese Grand Prix,2023.0,7.523999750981782,6.0
+Guanyu Zhou,Alfa Romeo,Japanese Grand Prix,2023.0,0.5999634628913743,0.0
+Kevin Magnussen,Haas F1 Team,Japanese Grand Prix,2023.0,1.6201442602480294,0.0
+Lance Stroll,Aston Martin,Japanese Grand Prix,2023.0,1.3344877192407116,0.0
+Lando Norris,McLaren,Japanese Grand Prix,2023.0,12.617198229127625,18.0
+Lewis Hamilton,Mercedes,Japanese Grand Prix,2023.0,9.71551550656667,10.0
+Liam Lawson,AlphaTauri,Japanese Grand Prix,2023.0,4.321836260024744,0.0
+Max Verstappen,Red Bull,Japanese Grand Prix,2023.0,13.970646031181738,25.0
+Oscar Piastri,McLaren,Japanese Grand Prix,2023.0,13.274390385298842,15.0
+Valtteri Bottas,Alfa Romeo,Japanese Grand Prix,2023.0,2.8058105480905207,0.0
+Yuki Tsunoda,AlphaTauri,Japanese Grand Prix,2023.0,5.812096571527714,0.0
+Alexander Albon,Williams,Las Vegas Grand Prix,2023.0,11.13785503109981,0.0
+Carlos Sainz,Ferrari,Las Vegas Grand Prix,2023.0,6.170892114070606,8.0
+Charles Leclerc,Ferrari,Las Vegas Grand Prix,2023.0,13.899806145872768,18.0
+Daniel Ricciardo,AlphaTauri,Las Vegas Grand Prix,2023.0,2.408357115158035,0.0
+Esteban Ocon,Alpine F1 Team,Las Vegas Grand Prix,2023.0,0.8040695507395924,12.0
+Fernando Alonso,Aston Martin,Las Vegas Grand Prix,2023.0,8.515014312167198,2.0
+Guanyu Zhou,Alfa Romeo,Las Vegas Grand Prix,2023.0,2.1290809274132427,0.0
+Lance Stroll,Aston Martin,Las Vegas Grand Prix,2023.0,0.0,10.0
+Lewis Hamilton,Mercedes,Las Vegas Grand Prix,2023.0,7.6495849455188605,6.0
+Logan Sargeant,Williams,Las Vegas Grand Prix,2023.0,10.467987900312844,0.0
+Max Verstappen,Red Bull,Las Vegas Grand Prix,2023.0,13.27600641021326,25.0
+Nico Hülkenberg,Haas F1 Team,Las Vegas Grand Prix,2023.0,3.0980883679532365,0.0
+Oscar Piastri,McLaren,Las Vegas Grand Prix,2023.0,1.9905547825019594,1.0
+Pierre Gasly,Alpine F1 Team,Las Vegas Grand Prix,2023.0,9.30160821052587,0.0
+Sergio Pérez,Red Bull,Las Vegas Grand Prix,2023.0,6.9398644942729755,15.0
+Valtteri Bottas,Alfa Romeo,Las Vegas Grand Prix,2023.0,9.3012669782614,0.0
+Alexander Albon,Williams,Mexico City Grand Prix,2023.0,4.666322963756534,2.0
+Carlos Sainz,Ferrari,Mexico City Grand Prix,2023.0,13.179422953488931,12.0
+Charles Leclerc,Ferrari,Mexico City Grand Prix,2023.0,13.8718218733825,15.0
+Daniel Ricciardo,AlphaTauri,Mexico City Grand Prix,2023.0,9.326857748820393,6.0
+Esteban Ocon,Alpine F1 Team,Mexico City Grand Prix,2023.0,1.4590828010608738,1.0
+Fernando Alonso,Aston Martin,Mexico City Grand Prix,2023.0,5.712672792780865,0.0
+George Russell,Mercedes,Mexico City Grand Prix,2023.0,7.399639069034852,8.0
+Guanyu Zhou,Alfa Romeo,Mexico City Grand Prix,2023.0,6.940334153622386,0.0
+Kevin Magnussen,Haas F1 Team,Mexico City Grand Prix,2023.0,0.8021942665770829,0.0
+Lance Stroll,Aston Martin,Mexico City Grand Prix,2023.0,13.260644164957485,0.0
+Logan Sargeant,Williams,Mexico City Grand Prix,2023.0,1.1320683803175373,0.0
+Max Verstappen,Red Bull,Mexico City Grand Prix,2023.0,12.411443675680674,25.0
+Nico Hülkenberg,Haas F1 Team,Mexico City Grand Prix,2023.0,3.7901728794681513,0.0
+Oscar Piastri,McLaren,Mexico City Grand Prix,2023.0,9.660899566906899,4.0
+Sergio Pérez,Red Bull,Mexico City Grand Prix,2023.0,11.08400788103927,0.0
+Yuki Tsunoda,AlphaTauri,Mexico City Grand Prix,2023.0,0.0,0.0
+Carlos Sainz,Ferrari,Miami Grand Prix,2023.0,12.788400758033426,10.0
+Fernando Alonso,Aston Martin,Miami Grand Prix,2023.0,13.549396237801353,15.0
+Guanyu Zhou,Alfa Romeo,Miami Grand Prix,2023.0,4.373217922782635,0.0
+Kevin Magnussen,Haas F1 Team,Miami Grand Prix,2023.0,9.613189429501952,1.0
+Lance Stroll,Aston Martin,Miami Grand Prix,2023.0,0.8138089473820431,0.0
+Lando Norris,McLaren,Miami Grand Prix,2023.0,3.598683199525067,0.0
+Lewis Hamilton,Mercedes,Miami Grand Prix,2023.0,5.6050846035945545,8.0
+Max Verstappen,Red Bull,Miami Grand Prix,2023.0,8.473036504761591,25.0
+Nico Hülkenberg,Haas F1 Team,Miami Grand Prix,2023.0,3.8385370618374623,0.0
+Nyck de Vries,AlphaTauri,Miami Grand Prix,2023.0,1.683615889758006,0.0
+Oscar Piastri,McLaren,Miami Grand Prix,2023.0,1.3438248529381547,0.0
+Sergio Pérez,Red Bull,Miami Grand Prix,2023.0,14.081493827360344,18.0
+Valtteri Bottas,Alfa Romeo,Miami Grand Prix,2023.0,7.21439948068723,0.0
+Yuki Tsunoda,AlphaTauri,Miami Grand Prix,2023.0,0.3727418841261343,0.0
+Alexander Albon,Williams,Monaco Grand Prix,2023.0,5.561444476049201,0.0
+Charles Leclerc,Ferrari,Monaco Grand Prix,2023.0,10.520673204031336,8.0
+Esteban Ocon,Alpine F1 Team,Monaco Grand Prix,2023.0,10.105492314811084,15.0
+Fernando Alonso,Aston Martin,Monaco Grand Prix,2023.0,13.58605457796356,18.0
+George Russell,Mercedes,Monaco Grand Prix,2023.0,7.5799876917785705,10.0
+Guanyu Zhou,Alfa Romeo,Monaco Grand Prix,2023.0,0.6347678258632292,0.0
+Kevin Magnussen,Haas F1 Team,Monaco Grand Prix,2023.0,0.283657683140552,0.0
+Lance Stroll,Aston Martin,Monaco Grand Prix,2023.0,3.4712435952095486,0.0
+Logan Sargeant,Williams,Monaco Grand Prix,2023.0,3.398480832689536,0.0
+Max Verstappen,Red Bull,Monaco Grand Prix,2023.0,14.005450394153593,25.0
+Nico Hülkenberg,Haas F1 Team,Monaco Grand Prix,2023.0,0.0,0.0
+Nyck de Vries,AlphaTauri,Monaco Grand Prix,2023.0,3.7374914316174603,0.0
+Pierre Gasly,Alpine F1 Team,Monaco Grand Prix,2023.0,7.299062103220007,6.0
+Sergio Pérez,Red Bull,Monaco Grand Prix,2023.0,0.6222015773922508,0.0
+Valtteri Bottas,Alfa Romeo,Monaco Grand Prix,2023.0,3.6136426396298917,0.0
+Yuki Tsunoda,AlphaTauri,Monaco Grand Prix,2023.0,5.868084512324503,0.0
+Alexander Albon,Williams,Qatar Grand Prix,2023.0,5.426008420500786,0.0
+Carlos Sainz,Ferrari,Qatar Grand Prix,2023.0,6.137509411441425,0.0
+Esteban Ocon,Alpine F1 Team,Qatar Grand Prix,2023.0,6.4517987033083735,6.0
+Fernando Alonso,Aston Martin,Qatar Grand Prix,2023.0,12.103159107388864,8.0
+George Russell,Mercedes,Qatar Grand Prix,2023.0,11.70229625586249,12.0
+Kevin Magnussen,Haas F1 Team,Qatar Grand Prix,2023.0,0.0,0.0
+Lance Stroll,Aston Martin,Qatar Grand Prix,2023.0,1.9459809689849852,0.0
+Lando Norris,McLaren,Qatar Grand Prix,2023.0,7.621722146061204,15.0
+Logan Sargeant,Williams,Qatar Grand Prix,2023.0,3.980465613918188,0.0
+Max Verstappen,Red Bull,Qatar Grand Prix,2023.0,13.893845863658228,25.0
+Oscar Piastri,McLaren,Qatar Grand Prix,2023.0,10.349090448492003,18.0
+Pierre Gasly,Alpine F1 Team,Qatar Grand Prix,2023.0,7.229824728374509,0.0
+Sergio Pérez,Red Bull,Qatar Grand Prix,2023.0,14.684249265382503,1.0
+Valtteri Bottas,Alfa Romeo,Qatar Grand Prix,2023.0,7.769491868603287,4.0
+Yuki Tsunoda,AlphaTauri,Qatar Grand Prix,2023.0,4.316342413818773,0.0
+Charles Leclerc,Ferrari,Sakhir Grand Prix,2023.0,12.689060341121682,0.0
+George Russell,Mercedes,Sakhir Grand Prix,2023.0,9.054785517144898,6.0
+Lando Norris,McLaren,Sakhir Grand Prix,2023.0,7.037326360994882,0.0
+Max Verstappen,Red Bull,Sakhir Grand Prix,2023.0,14.06129422933449,25.0
+Alexander Albon,Williams,Saudi Arabian Grand Prix,2023.0,2.902402492329916,0.0
+Charles Leclerc,Ferrari,Saudi Arabian Grand Prix,2023.0,6.447973124582853,6.0
+Esteban Ocon,Alpine F1 Team,Saudi Arabian Grand Prix,2023.0,8.113560170534647,4.0
+Fernando Alonso,Aston Martin,Saudi Arabian Grand Prix,2023.0,13.590156057559438,15.0
+George Russell,Mercedes,Saudi Arabian Grand Prix,2023.0,11.311534558349962,12.0
+Guanyu Zhou,Alfa Romeo,Saudi Arabian Grand Prix,2023.0,6.4682662054316005,0.0
+Kevin Magnussen,Haas F1 Team,Saudi Arabian Grand Prix,2023.0,3.2262891377757272,1.0
+Lance Stroll,Aston Martin,Saudi Arabian Grand Prix,2023.0,10.06717791443297,0.0
+Lando Norris,McLaren,Saudi Arabian Grand Prix,2023.0,1.5216038229174726,0.0
+Lewis Hamilton,Mercedes,Saudi Arabian Grand Prix,2023.0,9.87622692162777,10.0
+Logan Sargeant,Williams,Saudi Arabian Grand Prix,2023.0,0.554082543002085,0.0
+Max Verstappen,Red Bull,Saudi Arabian Grand Prix,2023.0,4.188087726032349,18.0
+Nico Hülkenberg,Haas F1 Team,Saudi Arabian Grand Prix,2023.0,5.298250871780981,0.0
+Pierre Gasly,Alpine F1 Team,Saudi Arabian Grand Prix,2023.0,6.085453581967319,2.0
+Sergio Pérez,Red Bull,Saudi Arabian Grand Prix,2023.0,14.164620802768297,25.0
+Valtteri Bottas,Alfa Romeo,Saudi Arabian Grand Prix,2023.0,4.34840469214342,0.0
+Carlos Sainz,Ferrari,Singapore Grand Prix,2023.0,13.922900643607612,25.0
+Charles Leclerc,Ferrari,Singapore Grand Prix,2023.0,12.486868578223032,12.0
+Fernando Alonso,Aston Martin,Singapore Grand Prix,2023.0,9.92939293597586,0.0
+George Russell,Mercedes,Singapore Grand Prix,2023.0,11.68520584016088,0.0
+Guanyu Zhou,Alfa Romeo,Singapore Grand Prix,2023.0,14.03732943283811,0.0
+Kevin Magnussen,Haas F1 Team,Singapore Grand Prix,2023.0,7.899189545792806,1.0
+Lando Norris,McLaren,Singapore Grand Prix,2023.0,11.796177669289012,18.0
+Lewis Hamilton,Mercedes,Singapore Grand Prix,2023.0,11.213578132430603,15.0
+Liam Lawson,AlphaTauri,Singapore Grand Prix,2023.0,4.988616318302594,2.0
+Logan Sargeant,Williams,Singapore Grand Prix,2023.0,1.8543624926112832,0.0
+Nico Hülkenberg,Haas F1 Team,Singapore Grand Prix,2023.0,5.883757931841231,0.0
+Pierre Gasly,Alpine F1 Team,Singapore Grand Prix,2023.0,3.6529922501447727,8.0
+Sergio Pérez,Red Bull,Singapore Grand Prix,2023.0,5.41571314304234,4.0
+Valtteri Bottas,Alfa Romeo,Singapore Grand Prix,2023.0,2.763113611275655,0.0
+Carlos Sainz,Ferrari,Spanish Grand Prix,2023.0,13.384643712622037,10.0
+Charles Leclerc,Ferrari,Spanish Grand Prix,2023.0,1.1369880982472504,0.0
+Esteban Ocon,Alpine F1 Team,Spanish Grand Prix,2023.0,7.996637571466088,4.0
+Fernando Alonso,Aston Martin,Spanish Grand Prix,2023.0,9.332881165971717,6.0
+George Russell,Mercedes,Spanish Grand Prix,2023.0,4.671625747584893,15.0
+Lance Stroll,Aston Martin,Spanish Grand Prix,2023.0,9.849633320695977,8.0
+Lando Norris,McLaren,Spanish Grand Prix,2023.0,12.560365050451733,0.0
+Lewis Hamilton,Mercedes,Spanish Grand Prix,2023.0,11.993653196962025,18.0
+Logan Sargeant,Williams,Spanish Grand Prix,2023.0,0.5536696219706592,0.0
+Max Verstappen,Red Bull,Spanish Grand Prix,2023.0,14.072689686192845,25.0
+Nico Hülkenberg,Haas F1 Team,Spanish Grand Prix,2023.0,7.431564830483936,0.0
+Nyck de Vries,AlphaTauri,Spanish Grand Prix,2023.0,2.205716321959349,0.0
+Oscar Piastri,McLaren,Spanish Grand Prix,2023.0,8.304177185536272,0.0
+Pierre Gasly,Alpine F1 Team,Spanish Grand Prix,2023.0,5.105473048575279,1.0
+Sergio Pérez,Red Bull,Spanish Grand Prix,2023.0,6.974111830597511,12.0
+Valtteri Bottas,Alfa Romeo,Spanish Grand Prix,2023.0,2.9290377809265618,0.0
+Carlos Sainz,Ferrari,Styrian Grand Prix,2023.0,12.515049050094689,8.0
+Charles Leclerc,Ferrari,Styrian Grand Prix,2023.0,13.182292471321148,18.0
+Kevin Magnussen,Haas F1 Team,Styrian Grand Prix,2023.0,12.218788883969886,0.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2023.0,11.501391014441303,4.0
+Max Verstappen,Red Bull,Styrian Grand Prix,2023.0,13.873294134874484,25.0
+Sergio Pérez,Red Bull,Styrian Grand Prix,2023.0,4.23690898476151,15.0
+Yuki Tsunoda,AlphaTauri,Styrian Grand Prix,2023.0,0.7837116726130042,0.0
+Alexander Albon,Williams,São Paulo Grand Prix,2023.0,5.5499049135749505,0.0
+Carlos Sainz,Ferrari,São Paulo Grand Prix,2023.0,9.626082521239121,8.0
+Charles Leclerc,Ferrari,São Paulo Grand Prix,2023.0,14.532976256039117,0.0
+Esteban Ocon,Alpine F1 Team,São Paulo Grand Prix,2023.0,2.1679002338235924,1.0
+Fernando Alonso,Aston Martin,São Paulo Grand Prix,2023.0,11.970204719335712,15.0
+George Russell,Mercedes,São Paulo Grand Prix,2023.0,7.388387717792387,0.0
+Guanyu Zhou,Alfa Romeo,São Paulo Grand Prix,2023.0,0.0,0.0
+Lance Stroll,Aston Martin,São Paulo Grand Prix,2023.0,11.120961828436874,10.0
+Lando Norris,McLaren,São Paulo Grand Prix,2023.0,10.305492160553984,18.0
+Lewis Hamilton,Mercedes,São Paulo Grand Prix,2023.0,11.110071247143606,4.0
+Logan Sargeant,Williams,São Paulo Grand Prix,2023.0,1.1314088179875397,0.0
+Max Verstappen,Red Bull,São Paulo Grand Prix,2023.0,13.84562578690481,25.0
+Nico Hülkenberg,Haas F1 Team,São Paulo Grand Prix,2023.0,4.382480634193736,0.0
+Oscar Piastri,McLaren,São Paulo Grand Prix,2023.0,7.552992597123687,0.0
+Sergio Pérez,Red Bull,São Paulo Grand Prix,2023.0,8.17129781595114,12.0
+Valtteri Bottas,Alfa Romeo,São Paulo Grand Prix,2023.0,1.26183631362816,0.0
+Yuki Tsunoda,AlphaTauri,São Paulo Grand Prix,2023.0,0.8716703536044249,2.0
+Alexander Albon,Williams,United States Grand Prix,2023.0,3.9759898937492926,2.0
+Charles Leclerc,Ferrari,United States Grand Prix,2023.0,13.853894537274341,0.0
+Esteban Ocon,Alpine F1 Team,United States Grand Prix,2023.0,6.418086219514194,0.0
+Fernando Alonso,Aston Martin,United States Grand Prix,2023.0,14.886171026140614,0.0
+George Russell,Mercedes,United States Grand Prix,2023.0,9.541918084942242,10.0
+Guanyu Zhou,Alfa Romeo,United States Grand Prix,2023.0,5.5246364051537284,0.0
+Kevin Magnussen,Haas F1 Team,United States Grand Prix,2023.0,12.204745479883412,0.0
+Lance Stroll,Aston Martin,United States Grand Prix,2023.0,13.226829145480627,6.0
+Lando Norris,McLaren,United States Grand Prix,2023.0,13.210866678446418,18.0
+Lewis Hamilton,Mercedes,United States Grand Prix,2023.0,12.575308197025677,0.0
+Logan Sargeant,Williams,United States Grand Prix,2023.0,3.3484899186121924,1.0
+Max Verstappen,Red Bull,United States Grand Prix,2023.0,10.339227876681637,25.0
+Oscar Piastri,McLaren,United States Grand Prix,2023.0,7.583387873451627,0.0
+Sergio Pérez,Red Bull,United States Grand Prix,2023.0,8.26524382575388,12.0
+Yuki Tsunoda,AlphaTauri,United States Grand Prix,2023.0,4.303813507849527,4.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2024.0,6.697658529993699,0.0
+Kevin Magnussen,Haas F1 Team,70th Anniversary Grand Prix,2024.0,0.0821705069537602,0.0
+Lando Norris,McLaren,70th Anniversary Grand Prix,2024.0,12.461107204825154,15.0
+Lewis Hamilton,Mercedes,70th Anniversary Grand Prix,2024.0,13.265686291414779,25.0
+Max Verstappen,Red Bull,70th Anniversary Grand Prix,2024.0,11.67023633823242,18.0
+Alexander Albon,Williams,Australian Grand Prix,2024.0,6.068300845844235,0.0
+Charles Leclerc,Ferrari,Australian Grand Prix,2024.0,11.662864046531821,18.0
+Daniel Ricciardo,RB F1 Team,Australian Grand Prix,2024.0,0.0,0.0
+Esteban Ocon,Alpine F1 Team,Australian Grand Prix,2024.0,1.383851853944578,0.0
+Guanyu Zhou,Sauber,Australian Grand Prix,2024.0,0.9370766856281209,0.0
+Kevin Magnussen,Haas F1 Team,Australian Grand Prix,2024.0,2.2041721486647865,1.0
+Lance Stroll,Aston Martin,Australian Grand Prix,2024.0,6.8054161564629805,8.0
+Lando Norris,McLaren,Australian Grand Prix,2024.0,12.438790177889333,15.0
+Lewis Hamilton,Mercedes,Australian Grand Prix,2024.0,6.78922968071348,0.0
+Max Verstappen,Red Bull,Australian Grand Prix,2024.0,13.808125663312145,0.0
+Nico Hülkenberg,Haas F1 Team,Australian Grand Prix,2024.0,0.7975955351374924,2.0
+Oscar Piastri,McLaren,Australian Grand Prix,2024.0,11.021834266958795,12.0
+Pierre Gasly,Alpine F1 Team,Australian Grand Prix,2024.0,0.0,0.0
+Sergio Pérez,Red Bull,Australian Grand Prix,2024.0,10.27282046654909,10.0
+Valtteri Bottas,Sauber,Australian Grand Prix,2024.0,5.22722230230347,0.0
+Yuki Tsunoda,RB F1 Team,Australian Grand Prix,2024.0,6.372289923026513,6.0
+Alexander Albon,Williams,Austrian Grand Prix,2024.0,3.275254164827337,0.0
+Carlos Sainz,Ferrari,Austrian Grand Prix,2024.0,11.719507526628702,15.0
+Fernando Alonso,Aston Martin,Austrian Grand Prix,2024.0,4.316308099395437,0.0
+George Russell,Mercedes,Austrian Grand Prix,2024.0,10.990796919123367,25.0
+Kevin Magnussen,Haas F1 Team,Austrian Grand Prix,2024.0,3.667987438204182,4.0
+Lance Stroll,Aston Martin,Austrian Grand Prix,2024.0,1.2221245451813172,0.0
+Lando Norris,McLaren,Austrian Grand Prix,2024.0,13.25138331135458,0.0
+Lewis Hamilton,Mercedes,Austrian Grand Prix,2024.0,11.461665562560073,12.0
+Logan Sargeant,Williams,Austrian Grand Prix,2024.0,1.1652494660300063,0.0
+Max Verstappen,Red Bull,Austrian Grand Prix,2024.0,13.83709927929741,10.0
+Oscar Piastri,McLaren,Austrian Grand Prix,2024.0,9.720560124900535,18.0
+Yuki Tsunoda,RB F1 Team,Austrian Grand Prix,2024.0,2.1655851462804176,0.0
+Alexander Albon,Williams,Bahrain Grand Prix,2024.0,5.355135292187066,0.0
+Carlos Sainz,Ferrari,Bahrain Grand Prix,2024.0,11.76098787446625,15.0
+Charles Leclerc,Ferrari,Bahrain Grand Prix,2024.0,13.157567894996301,12.0
+Esteban Ocon,Alpine F1 Team,Bahrain Grand Prix,2024.0,0.0,0.0
+Fernando Alonso,Aston Martin,Bahrain Grand Prix,2024.0,10.64775530285523,2.0
+George Russell,Mercedes,Bahrain Grand Prix,2024.0,10.952838850117416,10.0
+Guanyu Zhou,Sauber,Bahrain Grand Prix,2024.0,2.4406070248529876,0.0
+Kevin Magnussen,Haas F1 Team,Bahrain Grand Prix,2024.0,1.612812167500984,0.0
+Lance Stroll,Aston Martin,Bahrain Grand Prix,2024.0,4.758030923920113,1.0
+Lando Norris,McLaren,Bahrain Grand Prix,2024.0,9.65015258351635,8.0
+Lewis Hamilton,Mercedes,Bahrain Grand Prix,2024.0,8.305117107002891,6.0
+Logan Sargeant,Williams,Bahrain Grand Prix,2024.0,1.8897273366791034,0.0
+Nico Hülkenberg,Haas F1 Team,Bahrain Grand Prix,2024.0,5.241421147553735,0.0
+Oscar Piastri,McLaren,Bahrain Grand Prix,2024.0,9.041971688732902,4.0
+Pierre Gasly,Alpine F1 Team,Bahrain Grand Prix,2024.0,0.0,0.0
+Sergio Pérez,Red Bull,Bahrain Grand Prix,2024.0,11.169261103501755,18.0
+Valtteri Bottas,Sauber,Bahrain Grand Prix,2024.0,3.25397959214787,0.0
+Yuki Tsunoda,RB F1 Team,Bahrain Grand Prix,2024.0,4.2772416403775475,0.0
+Alexander Albon,Williams,British Grand Prix,2024.0,8.309079063814172,2.0
+Carlos Sainz,Ferrari,British Grand Prix,2024.0,9.589715846757345,10.0
+Charles Leclerc,Ferrari,British Grand Prix,2024.0,6.697658529993699,0.0
+Daniel Ricciardo,RB F1 Team,British Grand Prix,2024.0,1.493525395808188,0.0
+Fernando Alonso,Aston Martin,British Grand Prix,2024.0,7.756414491141141,4.0
+George Russell,Mercedes,British Grand Prix,2024.0,12.434869686996757,0.0
+Kevin Magnussen,Haas F1 Team,British Grand Prix,2024.0,0.0821705069537602,0.0
+Lance Stroll,Aston Martin,British Grand Prix,2024.0,7.521322495122819,6.0
+Lando Norris,McLaren,British Grand Prix,2024.0,12.461107204825154,15.0
+Lewis Hamilton,Mercedes,British Grand Prix,2024.0,13.265686291414779,25.0
+Logan Sargeant,Williams,British Grand Prix,2024.0,6.294400465229041,0.0
+Max Verstappen,Red Bull,British Grand Prix,2024.0,11.67023633823242,18.0
+Nico Hülkenberg,Haas F1 Team,British Grand Prix,2024.0,7.999416824300207,8.0
+Oscar Piastri,McLaren,British Grand Prix,2024.0,11.148745209405226,12.0
+Yuki Tsunoda,RB F1 Team,British Grand Prix,2024.0,2.9637316525358903,1.0
+Alexander Albon,Williams,Canadian Grand Prix,2024.0,7.550331682723576,0.0
+Carlos Sainz,Ferrari,Canadian Grand Prix,2024.0,6.0274837992614,0.0
+Charles Leclerc,Ferrari,Canadian Grand Prix,2024.0,6.844336238876452,0.0
+Daniel Ricciardo,RB F1 Team,Canadian Grand Prix,2024.0,8.5602085385624,4.0
+Esteban Ocon,Alpine F1 Team,Canadian Grand Prix,2024.0,0.0,1.0
+Guanyu Zhou,Sauber,Canadian Grand Prix,2024.0,14.594960818968685,0.0
+Kevin Magnussen,Haas F1 Team,Canadian Grand Prix,2024.0,2.240769523077528,0.0
+Lance Stroll,Aston Martin,Canadian Grand Prix,2024.0,6.924099894947339,6.0
+Lando Norris,McLaren,Canadian Grand Prix,2024.0,12.586601335882975,18.0
+Lewis Hamilton,Mercedes,Canadian Grand Prix,2024.0,9.716693980059418,12.0
+Max Verstappen,Red Bull,Canadian Grand Prix,2024.0,13.024032259051271,25.0
+Nico Hülkenberg,Haas F1 Team,Canadian Grand Prix,2024.0,0.14060359782621798,0.0
+Pierre Gasly,Alpine F1 Team,Canadian Grand Prix,2024.0,1.4784064694182741,2.0
+Alexander Albon,Williams,Chinese Grand Prix,2024.0,4.704572698442917,0.0
+Carlos Sainz,Ferrari,Chinese Grand Prix,2024.0,9.6967671849929,10.0
+Charles Leclerc,Ferrari,Chinese Grand Prix,2024.0,10.389166104886467,12.0
+Daniel Ricciardo,RB F1 Team,Chinese Grand Prix,2024.0,3.623089830197224,0.0
+Esteban Ocon,Alpine F1 Team,Chinese Grand Prix,2024.0,2.9692454704950206,0.0
+Fernando Alonso,Aston Martin,Chinese Grand Prix,2024.0,12.707999222532342,6.0
+George Russell,Mercedes,Chinese Grand Prix,2024.0,7.453776487089934,8.0
+Guanyu Zhou,Sauber,Chinese Grand Prix,2024.0,3.124264109994535,0.0
+Kevin Magnussen,Haas F1 Team,Chinese Grand Prix,2024.0,0.10448753388958265,0.0
+Lando Norris,McLaren,Chinese Grand Prix,2024.0,11.83220207568683,18.0
+Lewis Hamilton,Mercedes,Chinese Grand Prix,2024.0,1.8887083467610468,2.0
+Logan Sargeant,Williams,Chinese Grand Prix,2024.0,0.40258628089263704,0.0
+Max Verstappen,Red Bull,Chinese Grand Prix,2024.0,13.879239189464956,25.0
+Oscar Piastri,McLaren,Chinese Grand Prix,2024.0,11.086327925041315,4.0
+Pierre Gasly,Alpine F1 Team,Chinese Grand Prix,2024.0,1.5552897768082106,0.0
+Sergio Pérez,Red Bull,Chinese Grand Prix,2024.0,13.1712501841603,15.0
+Yuki Tsunoda,RB F1 Team,Chinese Grand Prix,2024.0,0.0,0.0
+Alexander Albon,Williams,Emilia Romagna Grand Prix,2024.0,4.686603792401544,0.0
+Carlos Sainz,Ferrari,Emilia Romagna Grand Prix,2024.0,11.82841284205461,10.0
+Charles Leclerc,Ferrari,Emilia Romagna Grand Prix,2024.0,12.504924078579478,15.0
+Daniel Ricciardo,RB F1 Team,Emilia Romagna Grand Prix,2024.0,5.839469798558666,0.0
+Esteban Ocon,Alpine F1 Team,Emilia Romagna Grand Prix,2024.0,3.623682298352731,0.0
+Fernando Alonso,Aston Martin,Emilia Romagna Grand Prix,2024.0,0.7030639223020656,0.0
+Guanyu Zhou,Sauber,Emilia Romagna Grand Prix,2024.0,2.43388947005408,0.0
+Kevin Magnussen,Haas F1 Team,Emilia Romagna Grand Prix,2024.0,0.0,0.0
+Lance Stroll,Aston Martin,Emilia Romagna Grand Prix,2024.0,4.105387107503288,2.0
+Lando Norris,McLaren,Emilia Romagna Grand Prix,2024.0,13.249074843199589,18.0
+Lewis Hamilton,Mercedes,Emilia Romagna Grand Prix,2024.0,9.013172441752934,8.0
+Logan Sargeant,Williams,Emilia Romagna Grand Prix,2024.0,1.200012259068648,0.0
+Max Verstappen,Red Bull,Emilia Romagna Grand Prix,2024.0,13.903637439073451,25.0
+Nico Hülkenberg,Haas F1 Team,Emilia Romagna Grand Prix,2024.0,5.192336437104961,0.0
+Oscar Piastri,McLaren,Emilia Romagna Grand Prix,2024.0,11.131909752474742,12.0
+Pierre Gasly,Alpine F1 Team,Emilia Romagna Grand Prix,2024.0,1.532024976310605,0.0
+Valtteri Bottas,Sauber,Emilia Romagna Grand Prix,2024.0,3.2101907761553288,0.0
+Yuki Tsunoda,RB F1 Team,Emilia Romagna Grand Prix,2024.0,7.13491153823067,1.0
+Alexander Albon,Williams,Japanese Grand Prix,2024.0,4.623856726872635,0.0
+Charles Leclerc,Ferrari,Japanese Grand Prix,2024.0,8.852424881937122,12.0
+Daniel Ricciardo,RB F1 Team,Japanese Grand Prix,2024.0,4.304809798281992,0.0
+Esteban Ocon,Alpine F1 Team,Japanese Grand Prix,2024.0,1.4642796142830745,0.0
+George Russell,Mercedes,Japanese Grand Prix,2024.0,6.626512259233303,6.0
+Guanyu Zhou,Sauber,Japanese Grand Prix,2024.0,0.21623194696585674,0.0
+Kevin Magnussen,Haas F1 Team,Japanese Grand Prix,2024.0,0.0,0.0
+Lance Stroll,Aston Martin,Japanese Grand Prix,2024.0,1.898321373327532,0.0
+Lewis Hamilton,Mercedes,Japanese Grand Prix,2024.0,9.65990237131674,2.0
+Logan Sargeant,Williams,Japanese Grand Prix,2024.0,1.0948980378898716,0.0
+Max Verstappen,Red Bull,Japanese Grand Prix,2024.0,13.851482162457009,25.0
+Nico Hülkenberg,Haas F1 Team,Japanese Grand Prix,2024.0,3.6682682257407517,0.0
+Oscar Piastri,McLaren,Japanese Grand Prix,2024.0,10.354389797396884,4.0
+Pierre Gasly,Alpine F1 Team,Japanese Grand Prix,2024.0,0.0,0.0
+Sergio Pérez,Red Bull,Japanese Grand Prix,2024.0,13.148789051608585,18.0
+Alexander Albon,Williams,Miami Grand Prix,2024.0,4.770287794456816,0.0
+Carlos Sainz,Ferrari,Miami Grand Prix,2024.0,12.505064161165464,10.0
+Charles Leclerc,Ferrari,Miami Grand Prix,2024.0,13.250422025621365,15.0
+Daniel Ricciardo,RB F1 Team,Miami Grand Prix,2024.0,0.0,0.0
+Esteban Ocon,Alpine F1 Team,Miami Grand Prix,2024.0,2.9237467829280197,1.0
+Fernando Alonso,Aston Martin,Miami Grand Prix,2024.0,4.3632603193302,2.0
+George Russell,Mercedes,Miami Grand Prix,2024.0,8.191897317002917,4.0
+Guanyu Zhou,Sauber,Miami Grand Prix,2024.0,1.0297728539928872,0.0
+Kevin Magnussen,Haas F1 Team,Miami Grand Prix,2024.0,0.0,0.0
+Lance Stroll,Aston Martin,Miami Grand Prix,2024.0,5.523290788444259,0.0
+Lando Norris,McLaren,Miami Grand Prix,2024.0,11.146073020958145,25.0
+Lewis Hamilton,Mercedes,Miami Grand Prix,2024.0,9.181590755107939,8.0
+Max Verstappen,Red Bull,Miami Grand Prix,2024.0,13.85492407972289,18.0
+Nico Hülkenberg,Haas F1 Team,Miami Grand Prix,2024.0,6.010211608382037,0.0
+Pierre Gasly,Alpine F1 Team,Miami Grand Prix,2024.0,3.6541097578880564,0.0
+Sergio Pérez,Red Bull,Miami Grand Prix,2024.0,11.909365469358791,12.0
+Valtteri Bottas,Sauber,Miami Grand Prix,2024.0,3.2197322558233337,0.0
+Yuki Tsunoda,RB F1 Team,Miami Grand Prix,2024.0,5.05309329381416,6.0
+Alexander Albon,Williams,Monaco Grand Prix,2024.0,8.206046065308067,2.0
+Carlos Sainz,Ferrari,Monaco Grand Prix,2024.0,12.472875873396637,15.0
+Charles Leclerc,Ferrari,Monaco Grand Prix,2024.0,13.880047682839155,25.0
+Daniel Ricciardo,RB F1 Team,Monaco Grand Prix,2024.0,3.635433060617364,0.0
+Esteban Ocon,Alpine F1 Team,Monaco Grand Prix,2024.0,4.2893289075196925,0.0
+Fernando Alonso,Aston Martin,Monaco Grand Prix,2024.0,4.942574979213774,0.0
+Guanyu Zhou,Sauber,Monaco Grand Prix,2024.0,1.7785561364759257,0.0
+Kevin Magnussen,Haas F1 Team,Monaco Grand Prix,2024.0,0.0,0.0
+Lance Stroll,Aston Martin,Monaco Grand Prix,2024.0,4.040373143752601,0.0
+Lando Norris,McLaren,Monaco Grand Prix,2024.0,11.81276993936957,12.0
+Lewis Hamilton,Mercedes,Monaco Grand Prix,2024.0,9.774145151132094,6.0
+Logan Sargeant,Williams,Monaco Grand Prix,2024.0,4.004681642426223,0.0
+Nico Hülkenberg,Haas F1 Team,Monaco Grand Prix,2024.0,0.0,0.0
+Oscar Piastri,McLaren,Monaco Grand Prix,2024.0,13.271234594541546,18.0
+Sergio Pérez,Red Bull,Monaco Grand Prix,2024.0,3.2456195888261843,0.0
+Valtteri Bottas,Sauber,Monaco Grand Prix,2024.0,2.440995711768158,0.0
+Yuki Tsunoda,RB F1 Team,Monaco Grand Prix,2024.0,6.561664568724132,4.0
+Charles Leclerc,Ferrari,Sakhir Grand Prix,2024.0,13.157567894996301,12.0
+George Russell,Mercedes,Sakhir Grand Prix,2024.0,10.952838850117416,10.0
+Kevin Magnussen,Haas F1 Team,Sakhir Grand Prix,2024.0,1.612812167500984,0.0
+Lando Norris,McLaren,Sakhir Grand Prix,2024.0,9.65015258351635,8.0
+Alexander Albon,Williams,Saudi Arabian Grand Prix,2024.0,6.063180929028983,0.0
+Daniel Ricciardo,RB F1 Team,Saudi Arabian Grand Prix,2024.0,2.379457383714812,0.0
+Esteban Ocon,Alpine F1 Team,Saudi Arabian Grand Prix,2024.0,0.2219247225274425,0.0
+Fernando Alonso,Aston Martin,Saudi Arabian Grand Prix,2024.0,12.12088482658031,10.0
+George Russell,Mercedes,Saudi Arabian Grand Prix,2024.0,8.047300830792835,8.0
+Guanyu Zhou,Sauber,Saudi Arabian Grand Prix,2024.0,0.22468639641024873,0.0
+Lance Stroll,Aston Martin,Saudi Arabian Grand Prix,2024.0,6.321190653401161,0.0
+Lando Norris,McLaren,Saudi Arabian Grand Prix,2024.0,10.493243528992215,4.0
+Lewis Hamilton,Mercedes,Saudi Arabian Grand Prix,2024.0,9.153503946934991,2.0
+Logan Sargeant,Williams,Saudi Arabian Grand Prix,2024.0,1.112620302632672,0.0
+Max Verstappen,Red Bull,Saudi Arabian Grand Prix,2024.0,14.038673049799275,25.0
+Nico Hülkenberg,Haas F1 Team,Saudi Arabian Grand Prix,2024.0,1.6952527610674721,1.0
+Oliver Bearman,Ferrari,Saudi Arabian Grand Prix,2024.0,6.733067779686198,6.0
+Oscar Piastri,McLaren,Saudi Arabian Grand Prix,2024.0,11.039221901582533,12.0
+Pierre Gasly,Alpine F1 Team,Saudi Arabian Grand Prix,2024.0,0.0,0.0
+Sergio Pérez,Red Bull,Saudi Arabian Grand Prix,2024.0,12.600023471576968,18.0
+Valtteri Bottas,Sauber,Saudi Arabian Grand Prix,2024.0,3.2763797589501196,0.0
+Yuki Tsunoda,RB F1 Team,Saudi Arabian Grand Prix,2024.0,5.65327976573835,0.0
+Alexander Albon,Williams,Spanish Grand Prix,2024.0,14.812159252412531,0.0
+Carlos Sainz,Ferrari,Spanish Grand Prix,2024.0,10.45405133580761,8.0
+Charles Leclerc,Ferrari,Spanish Grand Prix,2024.0,11.273551722650778,10.0
+Esteban Ocon,Alpine F1 Team,Spanish Grand Prix,2024.0,6.59091707396176,1.0
+Fernando Alonso,Aston Martin,Spanish Grand Prix,2024.0,7.847722251623889,0.0
+Guanyu Zhou,Sauber,Spanish Grand Prix,2024.0,4.040425094496244,0.0
+Kevin Magnussen,Haas F1 Team,Spanish Grand Prix,2024.0,0.9994649405663583,0.0
+Lance Stroll,Aston Martin,Spanish Grand Prix,2024.0,3.509349224280039,0.0
+Lewis Hamilton,Mercedes,Spanish Grand Prix,2024.0,12.668700634629744,15.0
+Nico Hülkenberg,Haas F1 Team,Spanish Grand Prix,2024.0,3.1243856191339434,0.0
+Oscar Piastri,McLaren,Spanish Grand Prix,2024.0,8.465695722991908,6.0
+Pierre Gasly,Alpine F1 Team,Spanish Grand Prix,2024.0,7.368943099027897,2.0
+Valtteri Bottas,Sauber,Spanish Grand Prix,2024.0,6.203905024045524,0.0
+Yuki Tsunoda,RB F1 Team,Spanish Grand Prix,2024.0,0.22772322156024205,0.0
+Carlos Sainz,Ferrari,Styrian Grand Prix,2024.0,11.719507526628702,15.0
+Kevin Magnussen,Haas F1 Team,Styrian Grand Prix,2024.0,3.667987438204182,4.0
+Lance Stroll,Aston Martin,Styrian Grand Prix,2024.0,1.2221245451813172,0.0
+Lando Norris,McLaren,Styrian Grand Prix,2024.0,13.25138331135458,0.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2024.0,11.461665562560073,12.0
+Max Verstappen,Red Bull,Styrian Grand Prix,2024.0,13.83709927929741,10.0
