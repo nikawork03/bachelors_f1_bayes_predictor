@@ -1,8 +1,0 @@
-circuit,year,actual_winner,predicted_top3,probabilities,is_actual_winner_in_top3
-Belgian Grand Prix,2020,Lewis Hamilton,"['Lewis Hamilton', 'Sergio Pérez', 'Daniil Kvyat']","[0.9750292137505968, 0.02708172180964047, 2.622713729585499e-07]",True
-Belgian Grand Prix,2022,Max Verstappen,"['Lewis Hamilton', 'Max Verstappen', 'Charles Leclerc']","[0.3201880578764192, 1.1059477003834996e-06, 2.1754210911424973e-09]",True
-Emilia Romagna Grand Prix,2020,Lewis Hamilton,"['Lewis Hamilton', 'Pierre Gasly', 'Lando Norris']","[0.8996585060937702, 0.11833611119732217, 0.00016463909267310447]",True
-French Grand Prix,2021,Max Verstappen,"['Max Verstappen', 'Valtteri Bottas', 'Pierre Gasly']","[0.9956843954721131, 0.9531170992101606, 0.007009273193707678]",True
-Monaco Grand Prix,2023,Max Verstappen,"['Max Verstappen', 'Alexander Albon', 'Logan Sargeant']","[0.9957065302144522, 1.6883362743864663e-06, 2.0064777478659115e-07]",True
-Portuguese Grand Prix,2020,Lewis Hamilton,"['Lewis Hamilton', 'Esteban Ocon', 'George Russell']","[0.975158292471554, 2.8876940811064812e-05, 1.1325347657645082e-06]",True
-Singapore Grand Prix,2023,Carlos Sainz,"['Carlos Sainz', 'Charles Leclerc', 'Alexander Albon']","[0.6355190713563392, 0.09481563749777808, 3.8767806859753285e-07]",True
