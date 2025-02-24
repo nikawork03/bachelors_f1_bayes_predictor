@@ -116,8 +116,9 @@ comparison = pd.merge(
     how='inner'
 )
 
-# Save all predictions and actual results
+# Save  predictions and actual results
 comparison.to_csv('winning_predictions_naive_bayes.csv', index=False)
+
 
 print("\nComparison of Predicted vs Actual Winners with Probabilities saved to 'winning_predictions_naive_bayes.csv':")
 print(comparison[['driver_predicted', 'driver_actual', 'circuit', 'year', 'winner_probability']])

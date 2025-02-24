@@ -26,7 +26,7 @@ max_position = df['finishing_position'].max()
 df['performance'] = max_position - df['finishing_position'] + 1
 
 # Initialize driver form column
-df['driver_form'] = 1.0
+df['driver_form'] = 0.0
 
 # Combine year and round to ensure continuity across years
 df['unique_round'] = df.groupby(['year', 'round']).ngroup()

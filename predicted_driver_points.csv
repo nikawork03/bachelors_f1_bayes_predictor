@@ -1,0 +1,191 @@
+driver,constructor,circuit,year,predicted_points,actual_points
+Max Verstappen,Red Bull,Styrian Grand Prix,2023.0,9,25.0
+Carlos Sainz,McLaren,Styrian Grand Prix,2020.0,5,10.0
+Fernando Alonso,Aston Martin,Mexico City Grand Prix,2023.0,5,0.0
+Fernando Alonso,Alpine F1 Team,Hungarian Grand Prix,2022.0,2,4.0
+Nicholas Latifi,Williams,Emilia Romagna Grand Prix,2021.0,0,0.0
+Lewis Hamilton,Mercedes,São Paulo Grand Prix,2023.0,7,4.0
+Alexander Albon,Williams,Styrian Grand Prix,2024.0,0,0.0
+Charles Leclerc,Ferrari,Azerbaijan Grand Prix,2022.0,8,0.0
+Nicholas Latifi,Williams,Azerbaijan Grand Prix,2021.0,0,0.0
+Lewis Hamilton,Mercedes,Tuscan Grand Prix,2020.0,9,25.0
+Valtteri Bottas,Mercedes,Spanish Grand Prix,2020.0,9,15.0
+Romain Grosjean,Haas F1 Team,70th Anniversary Grand Prix,2020.0,0,0.0
+Daniel Ricciardo,McLaren,Styrian Grand Prix,2021.0,0,0.0
+Carlos Sainz,Ferrari,Sakhir Grand Prix,2021.0,7,4.0
+Carlos Sainz,Ferrari,Japanese Grand Prix,2024.0,6,15.0
+Yuki Tsunoda,AlphaTauri,Hungarian Grand Prix,2021.0,0,8.0
+Lewis Hamilton,Mercedes,Hungarian Grand Prix,2021.0,10,18.0
+Mick Schumacher,Haas F1 Team,Japanese Grand Prix,2022.0,0,0.0
+Esteban Ocon,Alpine F1 Team,Australian Grand Prix,2022.0,2,6.0
+Nicholas Latifi,Williams,Turkish Grand Prix,2021.0,0,0.0
+Mick Schumacher,Haas F1 Team,Saudi Arabian Grand Prix,2022.0,0,0.0
+Daniel Ricciardo,McLaren,Russian Grand Prix,2021.0,3,12.0
+Sergio Pérez,Red Bull,Sakhir Grand Prix,2022.0,8,0.0
+Fernando Alonso,Alpine F1 Team,United States Grand Prix,2022.0,2,6.0
+Yuki Tsunoda,AlphaTauri,Styrian Grand Prix,2022.0,0,0.0
+Esteban Ocon,Alpine F1 Team,Italian Grand Prix,2023.0,0,0.0
+Carlos Sainz,Ferrari,Styrian Grand Prix,2021.0,4,8.0
+Yuki Tsunoda,RB F1 Team,Styrian Grand Prix,2024.0,0,0.0
+Nico Hülkenberg,Haas F1 Team,Miami Grand Prix,2023.0,0,0.0
+Lewis Hamilton,Mercedes,Australian Grand Prix,2022.0,9,12.0
+Max Verstappen,Red Bull,Abu Dhabi Grand Prix,2023.0,10,25.0
+Valtteri Bottas,Alfa Romeo,Sakhir Grand Prix,2022.0,0,8.0
+Sergio Pérez,Red Bull,Spanish Grand Prix,2021.0,10,10.0
+Nico Hülkenberg,Haas F1 Team,Hungarian Grand Prix,2023.0,0,0.0
+Yuki Tsunoda,AlphaTauri,Belgian Grand Prix,2022.0,0,0.0
+Max Verstappen,Red Bull,Australian Grand Prix,2023.0,0,25.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2024.0,9,12.0
+Lando Norris,McLaren,São Paulo Grand Prix,2022.0,6,0.0
+Fernando Alonso,Alpine F1 Team,Singapore Grand Prix,2022.0,4,0.0
+Charles Leclerc,Ferrari,Hungarian Grand Prix,2022.0,8,8.0
+Lando Norris,McLaren,Sakhir Grand Prix,2020.0,6,12.0
+Lance Stroll,Aston Martin,Australian Grand Prix,2024.0,2,8.0
+Fernando Alonso,Aston Martin,Styrian Grand Prix,2023.0,4,10.0
+Max Verstappen,Red Bull,Mexico City Grand Prix,2022.0,9,25.0
+Sebastian Vettel,Ferrari,Styrian Grand Prix,2020.0,0,1.0
+Max Verstappen,Red Bull,Portuguese Grand Prix,2020.0,10,15.0
+Esteban Ocon,Renault,Sakhir Grand Prix,2020.0,3,2.0
+Max Verstappen,Red Bull,Dutch Grand Prix,2022.0,9,25.0
+Antonio Giovinazzi,Alfa Romeo,Hungarian Grand Prix,2021.0,0,0.0
+Pierre Gasly,AlphaTauri,Russian Grand Prix,2020.0,5,2.0
+Max Verstappen,Red Bull,70th Anniversary Grand Prix,2023.0,10,25.0
+George Russell,Mercedes,Spanish Grand Prix,2023.0,5,15.0
+Lando Norris,McLaren,Saudi Arabian Grand Prix,2023.0,0,0.0
+Lewis Hamilton,Mercedes,Miami Grand Prix,2022.0,10,8.0
+Fernando Alonso,Aston Martin,Qatar Grand Prix,2023.0,6,8.0
+Lewis Hamilton,Mercedes,São Paulo Grand Prix,2022.0,10,18.0
+Fernando Alonso,Alpine F1 Team,Spanish Grand Prix,2022.0,0,2.0
+Lewis Hamilton,Mercedes,Styrian Grand Prix,2020.0,8,25.0
+Charles Leclerc,Ferrari,Turkish Grand Prix,2020.0,5,12.0
+Nico Hülkenberg,Racing Point,Eifel Grand Prix,2020.0,0,4.0
+Sebastian Vettel,Aston Martin,Spanish Grand Prix,2021.0,0,0.0
+Lewis Hamilton,Mercedes,Japanese Grand Prix,2024.0,9,2.0
+Daniil Kvyat,AlphaTauri,Hungarian Grand Prix,2020.0,0,0.0
+Nicholas Latifi,Williams,Hungarian Grand Prix,2021.0,0,6.0
+Carlos Sainz,Ferrari,Styrian Grand Prix,2024.0,6,15.0
+Guanyu Zhou,Alfa Romeo,São Paulo Grand Prix,2023.0,0,0.0
+Valtteri Bottas,Alfa Romeo,French Grand Prix,2022.0,0,0.0
+Guanyu Zhou,Alfa Romeo,Belgian Grand Prix,2022.0,0,0.0
+Max Verstappen,Red Bull,Azerbaijan Grand Prix,2021.0,9,0.0
+Sebastian Vettel,Aston Martin,Azerbaijan Grand Prix,2021.0,0,18.0
+Pierre Gasly,AlphaTauri,Turkish Grand Prix,2020.0,0,0.0
+Pierre Gasly,Alpine F1 Team,Sakhir Grand Prix,2023.0,0,2.0
+Charles Leclerc,Ferrari,Turkish Grand Prix,2021.0,5,12.0
+Alexander Albon,Williams,Miami Grand Prix,2024.0,0,0.0
+Yuki Tsunoda,AlphaTauri,French Grand Prix,2021.0,0,0.0
+Carlos Sainz,Ferrari,Qatar Grand Prix,2023.0,6,0.0
+Jack Aitken,Williams,Sakhir Grand Prix,2020.0,0,0.0
+Yuki Tsunoda,RB F1 Team,Japanese Grand Prix,2024.0,0,1.0
+Alexander Albon,Williams,Hungarian Grand Prix,2022.0,0,0.0
+Max Verstappen,Red Bull,Canadian Grand Prix,2024.0,8,25.0
+Kevin Magnussen,Haas F1 Team,Las Vegas Grand Prix,2023.0,0,0.0
+Esteban Ocon,Alpine F1 Team,São Paulo Grand Prix,2021.0,4,4.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2023.0,10,2.0
+Pierre Gasly,AlphaTauri,Dutch Grand Prix,2021.0,2,12.0
+Charles Leclerc,Ferrari,70th Anniversary Grand Prix,2021.0,0,18.0
+Valtteri Bottas,Sauber,Chinese Grand Prix,2024.0,0,0.0
+Lance Stroll,Aston Martin,Belgian Grand Prix,2021.0,1,0.0
+Valtteri Bottas,Alfa Romeo,Saudi Arabian Grand Prix,2023.0,0,0.0
+Fernando Alonso,Alpine F1 Team,Miami Grand Prix,2022.0,2,0.0
+Esteban Ocon,Alpine F1 Team,Australian Grand Prix,2024.0,1,0.0
+George Russell,Mercedes,Saudi Arabian Grand Prix,2024.0,7,8.0
+Lance Stroll,Aston Martin,70th Anniversary Grand Prix,2024.0,5,6.0
+Valtteri Bottas,Mercedes,Belgian Grand Prix,2021.0,0,0.0
+Pierre Gasly,AlphaTauri,Hungarian Grand Prix,2021.0,0,10.0
+Sergio Pérez,Racing Point,Belgian Grand Prix,2020.0,6,1.0
+Guanyu Zhou,Alfa Romeo,Mexico City Grand Prix,2023.0,0,0.0
+Fernando Alonso,Alpine F1 Team,Italian Grand Prix,2022.0,5,0.0
+Lando Norris,McLaren,Eifel Grand Prix,2020.0,4,0.0
+Pierre Gasly,Alpine F1 Team,70th Anniversary Grand Prix,2023.0,2,0.0
+Lewis Hamilton,Mercedes,Chinese Grand Prix,2024.0,7,2.0
+Sergio Pérez,Racing Point,Sakhir Grand Prix,2020.0,0,25.0
+Nikita Mazepin,Haas F1 Team,Sakhir Grand Prix,2021.0,0,0.0
+Nicholas Latifi,Williams,Mexico City Grand Prix,2021.0,0,0.0
+Sebastian Vettel,Ferrari,Emilia Romagna Grand Prix,2020.0,3,0.0
+Daniel Ricciardo,Renault,Abu Dhabi Grand Prix,2020.0,0,6.0
+Mick Schumacher,Haas F1 Team,Canadian Grand Prix,2022.0,0,0.0
+Carlos Sainz,McLaren,Russian Grand Prix,2020.0,5,0.0
+Kimi Räikkönen,Alfa Romeo,Sakhir Grand Prix,2020.0,0,0.0
+Nico Hülkenberg,Haas F1 Team,Spanish Grand Prix,2024.0,0,0.0
+Kevin Magnussen,Haas F1 Team,United States Grand Prix,2022.0,0,2.0
+Antonio Giovinazzi,Alfa Romeo,Saudi Arabian Grand Prix,2021.0,0,2.0
+Nicholas Latifi,Williams,Hungarian Grand Prix,2022.0,0,0.0
+Sebastian Vettel,Ferrari,Hungarian Grand Prix,2020.0,0,8.0
+Sergio Pérez,Red Bull,Mexico City Grand Prix,2022.0,9,15.0
+Lewis Hamilton,Mercedes,Turkish Grand Prix,2021.0,8,10.0
+George Russell,Williams,Sakhir Grand Prix,2020.0,0,0.0
+Guanyu Zhou,Alfa Romeo,Monaco Grand Prix,2023.0,0,0.0
+Yuki Tsunoda,AlphaTauri,Portuguese Grand Prix,2021.0,0,0.0
+George Russell,Williams,Spanish Grand Prix,2021.0,0,0.0
+Charles Leclerc,Ferrari,Miami Grand Prix,2023.0,6,6.0
+Max Verstappen,Red Bull,70th Anniversary Grand Prix,2021.0,10,0.0
+Lewis Hamilton,Mercedes,Turkish Grand Prix,2020.0,8,25.0
+Yuki Tsunoda,AlphaTauri,Russian Grand Prix,2021.0,0,0.0
+Sebastian Vettel,Ferrari,Sakhir Grand Prix,2020.0,0,0.0
+Sergio Pérez,Racing Point,Russian Grand Prix,2020.0,8,12.0
+Oscar Piastri,McLaren,Saudi Arabian Grand Prix,2024.0,6,12.0
+George Russell,Williams,70th Anniversary Grand Prix,2021.0,0,0.0
+Esteban Ocon,Alpine F1 Team,Japanese Grand Prix,2022.0,3,12.0
+Lance Stroll,Aston Martin,Singapore Grand Prix,2023.0,0,0.0
+Daniel Ricciardo,Renault,Spanish Grand Prix,2020.0,3,0.0
+George Russell,Mercedes,Saudi Arabian Grand Prix,2022.0,6,10.0
+Max Verstappen,Red Bull,Belgian Grand Prix,2020.0,10,15.0
+Pietro Fittipaldi,Haas F1 Team,Sakhir Grand Prix,2020.0,0,0.0
+Sergio Pérez,Red Bull,Saudi Arabian Grand Prix,2023.0,10,25.0
+Esteban Ocon,Alpine F1 Team,Abu Dhabi Grand Prix,2023.0,2,0.0
+Pierre Gasly,AlphaTauri,Canadian Grand Prix,2022.0,2,0.0
+Yuki Tsunoda,RB F1 Team,Australian Grand Prix,2024.0,0,6.0
+Lance Stroll,Aston Martin,Miami Grand Prix,2022.0,0,1.0
+Charles Leclerc,Ferrari,Emilia Romagna Grand Prix,2022.0,9,8.0
+Sebastian Vettel,Aston Martin,Japanese Grand Prix,2022.0,0,8.0
+Kimi Räikkönen,Alfa Romeo,Sakhir Grand Prix,2021.0,0,0.0
+Valtteri Bottas,Mercedes,Hungarian Grand Prix,2020.0,9,15.0
+Sergio Pérez,Racing Point,Turkish Grand Prix,2020.0,5,18.0
+Esteban Ocon,Renault,Abu Dhabi Grand Prix,2020.0,2,2.0
+George Russell,Mercedes,Sakhir Grand Prix,2023.0,7,6.0
+George Russell,Williams,Emilia Romagna Grand Prix,2021.0,0,0.0
+Sergio Pérez,Red Bull,Miami Grand Prix,2023.0,10,18.0
+Charles Leclerc,Ferrari,Italian Grand Prix,2020.0,3,0.0
+Yuki Tsunoda,AlphaTauri,Mexico City Grand Prix,2021.0,0,0.0
+Daniel Ricciardo,McLaren,French Grand Prix,2022.0,7,2.0
+Yuki Tsunoda,AlphaTauri,Qatar Grand Prix,2021.0,0,0.0
+Charles Leclerc,Ferrari,Belgian Grand Prix,2021.0,7,4.0
+George Russell,Mercedes,Las Vegas Grand Prix,2023.0,8,4.0
+Max Verstappen,Red Bull,Belgian Grand Prix,2021.0,10,25.0
+Alexander Albon,Williams,Monaco Grand Prix,2022.0,0,0.0
+Daniel Ricciardo,Renault,70th Anniversary Grand Prix,2020.0,4,12.0
+Alexander Albon,Williams,Japanese Grand Prix,2024.0,0,0.0
+George Russell,Mercedes,Sakhir Grand Prix,2022.0,7,12.0
+Mick Schumacher,Haas F1 Team,Emilia Romagna Grand Prix,2021.0,0,0.0
+Sebastian Vettel,Aston Martin,Abu Dhabi Grand Prix,2022.0,0,1.0
+Lando Norris,McLaren,Sakhir Grand Prix,2023.0,5,0.0
+Fernando Alonso,Aston Martin,Australian Grand Prix,2023.0,8,15.0
+Guanyu Zhou,Alfa Romeo,Singapore Grand Prix,2023.0,0,0.0
+Lance Stroll,Aston Martin,Japanese Grand Prix,2024.0,0,0.0
+Oscar Piastri,McLaren,Monaco Grand Prix,2023.0,3,1.0
+Fernando Alonso,Alpine F1 Team,Portuguese Grand Prix,2021.0,2,4.0
+Nicholas Latifi,Williams,Italian Grand Prix,2021.0,0,0.0
+Yuki Tsunoda,AlphaTauri,São Paulo Grand Prix,2021.0,0,0.0
+Nicholas Latifi,Williams,Styrian Grand Prix,2020.0,0,0.0
+Pierre Gasly,AlphaTauri,Italian Grand Prix,2021.0,0,0.0
+Daniel Ricciardo,AlphaTauri,Las Vegas Grand Prix,2023.0,0,0.0
+Pierre Gasly,AlphaTauri,United States Grand Prix,2021.0,0,0.0
+Lando Norris,McLaren,Canadian Grand Prix,2022.0,1,0.0
+Guanyu Zhou,Alfa Romeo,70th Anniversary Grand Prix,2022.0,0,0.0
+Lance Stroll,Racing Point,Emilia Romagna Grand Prix,2020.0,1,0.0
+Guanyu Zhou,Sauber,Saudi Arabian Grand Prix,2024.0,0,0.0
+Carlos Sainz,McLaren,70th Anniversary Grand Prix,2020.0,5,0.0
+Yuki Tsunoda,AlphaTauri,Styrian Grand Prix,2021.0,0,1.0
+Logan Sargeant,Williams,Miami Grand Prix,2024.0,0,0.0
+Daniel Ricciardo,AlphaTauri,Abu Dhabi Grand Prix,2023.0,0,0.0
+Nico Hülkenberg,Haas F1 Team,Dutch Grand Prix,2023.0,0,0.0
+Guanyu Zhou,Sauber,Emilia Romagna Grand Prix,2024.0,0,0.0
+Pierre Gasly,AlphaTauri,Russian Grand Prix,2021.0,4,0.0
+Lando Norris,McLaren,Abu Dhabi Grand Prix,2020.0,7,10.0
+Daniel Ricciardo,McLaren,Spanish Grand Prix,2022.0,4,0.0
+George Russell,Mercedes,Styrian Grand Prix,2022.0,7,12.0
+Sebastian Vettel,Aston Martin,Belgian Grand Prix,2022.0,1,4.0
+Carlos Sainz,Ferrari,Saudi Arabian Grand Prix,2023.0,3,8.0
+Esteban Ocon,Alpine F1 Team,Miami Grand Prix,2023.0,3,2.0
+Max Verstappen,Red Bull,Canadian Grand Prix,2022.0,8,25.0
